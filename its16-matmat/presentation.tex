@@ -33,10 +33,13 @@ Application}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
 \begin{frame}
-    \frametitle{matmat.cz}
-    \begin{center}
-    \includegraphics[width=\linewidth]{figures/matmat}
-    \end{center}
+    Development of applications: matmat.cz, outlinemaps.org, \dots
+    \begin{itemize}
+        \item Which student model to choose
+        \item How to set parameters
+        \item How many answers model needs
+        \item \dots
+    \end{itemize}
 \end{frame}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
@@ -48,25 +51,24 @@ Application}
         \includegraphics[width=0.3\linewidth]{figures/matmat2}
      \end{backgroundblock}
 
+    \begin{backgroundblock}{15mm}{45mm}
+        \hspace{0.6\linewidth}
+        \includegraphics[width=0.3\linewidth]{figures/matmat}
+     \end{backgroundblock}
+
     \begin{itemize}
         \item online, free, without ads
         \item basic arithmetic - $ +, -, \times, \div$
         \item \numprint{150000} answers, \numprint{2000} items
         \item adaptive practice
         \item importance of response time
+        \only<2>{
+        \begin{itemize}
+            \item correct answer to $3 \times 5 $ in \textbf{2} seconds
+            \item correct answer to $3 \times 5 $ in \textbf{14} seconds
+        \end{itemize}
+        }
     \end{itemize}
-\end{frame}
-% ------------------------------------------------------------------------------
-% --------------------------- SLIDE --------------------------------------------
-\begin{frame}
-    \frametitle{Response Time}
-
-    \huge
-
-    \only<1>{ correct answer to $3 \times 5 $}
-    \only<2>{ correct answer to $3 \times 5 $ in \textbf{2} seconds}
-    \only<3>{ correct answer to $3 \times 5 $ in \textbf{14} seconds}
-
 \end{frame}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
@@ -74,10 +76,8 @@ Application}
     \frametitle{Adaptability}
     \begin{itemize}
         \item selection of question - targeting 75\% success rate
-        \item model based on logistic function - Rash model
-        \item parameters - \textbf{difficulties} of items and \textbf{skills} of learners
+        \item model parameters - \textbf{difficulties} of items and \textbf{skills} of learners
         \item domain model - several skills per learner
-        \item online estimation of parameters - Elo rating system
         \item use of response time
     \end{itemize}
 
@@ -92,7 +92,20 @@ Application}
     \centering
 
     \huge
-    Which aspects of student modeling are most important?
+    What aspects of student modeling are most important?
+
+\end{frame}
+% ------------------------------------------------------------------------------
+% --------------------------- SLIDE --------------------------------------------
+\begin{frame}
+    \frametitle{Aspects to Compare}
+
+    Three aspects of student modeling
+    \begin{itemize}
+        \item domain models
+        \item response times uses
+        \item missing answers
+    \end{itemize}
 
 \end{frame}
 % ------------------------------------------------------------------------------
@@ -185,13 +198,13 @@ Application}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
 \begin{frame}
-    \frametitle{Overview}
+    \frametitle{Aspects to Compare}
 
     Three aspects of student modeling
     \begin{itemize}
-        \item 4 domain models
-        \item 4 response times uses
-        \item with and without utilization of missing answers
+        \item domain models - 4
+        \item response times uses - 4
+        \item missing answers - with and without
     \end{itemize}
 
 \end{frame}
@@ -201,6 +214,10 @@ Application}
     \frametitle{Prediction Accuracy}
 
     \includegraphics[width=\linewidth]{figures/missing-answers}
+
+    \begin{enumerate}
+        \item Large improvement over baseline does not mean usefulness for more complex models.
+    \end{enumerate}
 \end{frame}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
@@ -210,11 +227,7 @@ Application}
     Comparing models with different time utilization
     \begin{itemize}
         \item models are trained to predict different absolute values
-        \item direct comparison of RMSE is not possible
-        \item AUC use only relative order of prediction
-            \begin{itemize}
-            \item linear time use is the best
-            \end{itemize}
+        \item direct comparison is not possible
     \end{itemize}
 \end{frame}
 % ------------------------------------------------------------------------------
@@ -233,6 +246,16 @@ Application}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
 \begin{frame}
+    \frametitle{Correlations of Estimated Parameters}
+    \includegraphics[width=\linewidth]{figures/pca}
+    \begin{enumerate}
+        \setcounter{enumi}{1}
+        \item Response time utilization have larger impact on trained parameters that domain modeling.
+    \end{enumerate}
+\end{frame}
+% ------------------------------------------------------------------------------
+% --------------------------- SLIDE --------------------------------------------
+\begin{frame}
     \frametitle{Estimated Parameters}
     \includegraphics[width=\linewidth]{figures/difficulties}
 \end{frame}
@@ -241,17 +264,22 @@ Application}
 \begin{frame}
     \frametitle{Estimated Parameters - Stability}
     \includegraphics[width=\linewidth]{figures/stability}
+
+    \begin{enumerate}
+       \setcounter{enumi}{2}
+        \item Utilization of response time have large impact on model stability.
+    \end{enumerate}
 \end{frame}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
 \begin{frame}
     \frametitle{Conclusion}
-    \begin{itemize}
-        \item response time use have larger impact that domain modeling
-        \item large improvement over baseline does not mean usefulness for more complex models
-        \item incorporation of different aspects of student modeling may
-        be more important than detailed modeling of one particular aspect
-    \end{itemize}
+    \begin{enumerate}
+        \item Large improvement over baseline does not mean usefulness for more complex models.
+        \item Response time utilization have larger impact on trained parameters that domain modeling.
+        \item Utilization of response time have large impact on model stability.
+    \end{enumerate}
+    Incorporation of different aspects of student modeling may be more important than detailed modeling of one particular aspect.
 \end{frame}
 % ------------------------------------------------------------------------------
 
