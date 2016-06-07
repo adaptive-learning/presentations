@@ -571,17 +571,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="535.66322"
-     inkscape:cy="261.86112"
+     inkscape:zoom="0.7"
+     inkscape:cx="569.78371"
+     inkscape:cy="189.65681"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1596"
-     inkscape:window-height="1161"
-     inkscape:window-x="105"
-     inkscape:window-y="-1"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -1193,12 +1193,12 @@
     <g
        id="patch_3"
        transform="matrix(1.25,0,0,1.25,-1005.7628,180.7053)"
-       style="fill:#444444;fill-opacity:1">
+       style="fill:#008000;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          clip-path="url(#p868b3c7f39)"
          d="m 193.185,1946.7 73.935,0 0,-1873.136599 -73.935,0 z"
-         style="fill:#444444;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
+         style="fill:#008000;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
          id="path263" />
     </g>
     <text
@@ -1215,12 +1215,12 @@
     <g
        id="patch_5"
        transform="matrix(1.25,0,0,1.25,-965.76281,180.7053)"
-       style="fill:#444444;fill-opacity:1">
+       style="fill:#008000;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          clip-path="url(#p868b3c7f39)"
          d="m 341.055,1946.7 73.935,0 0,-1767.30944 -73.935,0 z"
-         style="fill:#444444;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
+         style="fill:#008000;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
          id="path269" />
     </g>
     <g
@@ -1240,12 +1240,12 @@
     <g
        id="patch_7"
        transform="matrix(1.25,0,0,1.25,-925.76281,180.7053)"
-       style="fill:#444444;fill-opacity:1">
+       style="fill:#008000;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          clip-path="url(#p868b3c7f39)"
          d="m 488.925,1946.7 73.935,0 0,-1748.2275 -73.935,0 z"
-         style="fill:#444444;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
+         style="fill:#008000;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
          id="path275" />
     </g>
     <text
@@ -1262,12 +1262,12 @@
     <g
        id="patch_9"
        transform="matrix(1.25,0,0,1.25,-885.76281,180.7053)"
-       style="fill:#444444;fill-opacity:1">
+       style="fill:#008000;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          clip-path="url(#p868b3c7f39)"
          d="m 636.795,1946.7 73.935,0 0,-1728.34095 -73.935,0 z"
-         style="fill:#444444;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
+         style="fill:#008000;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
          id="path281" />
     </g>
     <g
@@ -1309,10 +1309,10 @@
     <g
        id="patch_15-9"
        transform="matrix(2.0428479,0,0,2.0428479,-1118.5751,193.51365)"
-       style="fill:#444444;fill-opacity:1">
+       style="fill:#008000;fill-opacity:1">
       <path
          id="path605-9"
-         style="fill:#444444;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
+         style="fill:#008000;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
          d="m 503.25937,56.962828 20,0 0,-7 -20,0 z"
          inkscape:connector-curvature="0" />
     </g>
@@ -1351,14 +1351,14 @@
          y="308.89114">without</tspan></text>
     <g
        id="g7847"
-       style="fill:#b9b9b9;fill-opacity:1">
+       style="fill:#008080;fill-opacity:1">
       <g
          transform="matrix(1.25,0,0,1.25,-1005.7628,180.7053)"
          id="patch_4"
-         style="fill:#b9b9b9;fill-opacity:1">
+         style="fill:#008080;fill-opacity:1">
         <path
            id="path266-0"
-           style="fill:#b9b9b9;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
+           style="fill:#008080;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
            d="m 267.12,1946.7 73.935,0 0,-1788.90337 -73.935,0 z"
            clip-path="url(#p868b3c7f39)"
            inkscape:connector-curvature="0" />
@@ -1366,10 +1366,10 @@
       <g
          transform="matrix(1.25,0,0,1.25,-965.76281,180.7053)"
          id="patch_6"
-         style="fill:#b9b9b9;fill-opacity:1">
+         style="fill:#008080;fill-opacity:1">
         <path
            id="path272"
-           style="fill:#b9b9b9;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
+           style="fill:#008080;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
            d="m 414.99,1946.7 73.935,0 0,-1738.29856 -73.935,0 z"
            clip-path="url(#p868b3c7f39)"
            inkscape:connector-curvature="0" />
@@ -1377,10 +1377,10 @@
       <g
          transform="matrix(1.25,0,0,1.25,-925.76281,180.7053)"
          id="patch_8"
-         style="fill:#b9b9b9;fill-opacity:1">
+         style="fill:#008080;fill-opacity:1">
         <path
            id="path278"
-           style="fill:#b9b9b9;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
+           style="fill:#008080;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
            d="m 562.86,1946.7 73.935,0 0,-1724.07471 -73.935,0 z"
            clip-path="url(#p868b3c7f39)"
            inkscape:connector-curvature="0" />
@@ -1388,10 +1388,10 @@
       <g
          transform="matrix(1.25,0,0,1.25,-885.76281,180.7053)"
          id="patch_10"
-         style="fill:#b9b9b9;fill-opacity:1">
+         style="fill:#008080;fill-opacity:1">
         <path
            id="path284"
-           style="fill:#b9b9b9;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
+           style="fill:#008080;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
            d="m 710.73,1946.7 73.935,0 0,-1725.68522 -73.935,0 z"
            clip-path="url(#p868b3c7f39)"
            inkscape:connector-curvature="0" />
@@ -1399,11 +1399,11 @@
       <g
          transform="matrix(2.0428479,0,0,2.0428479,-1118.5751,193.51365)"
          id="patch_16-0"
-         style="fill:#b9b9b9;fill-opacity:1">
+         style="fill:#008080;fill-opacity:1">
         <path
            inkscape:connector-curvature="0"
            d="m 503.25937,71.284703 20,0 0,-7 -20,0 z"
-           style="fill:#b9b9b9;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
+           style="fill:#008080;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:miter;fill-opacity:1"
            id="path644-7" />
       </g>
     </g>
