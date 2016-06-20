@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="2.6919336in"
+   height="2.7360756in"
    version="1.1"
-   viewBox="0 0 354.15324 193.81922"
-   width="4.9187951in"
+   viewBox="0 0 340.7253 196.99744"
+   width="4.732296in"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="system-comparison.svg">
+   sodipodi:docname="system-comparison-response-time.svg">
   <metadata
      id="metadata2396">
     <rdf:RDF>
@@ -38,17 +38,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-width="1680"
+     inkscape:window-height="986"
      id="namedview2394"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="754.28464"
-     inkscape:cy="-112.76761"
-     inkscape:window-x="2880"
-     inkscape:window-y="502"
+     inkscape:zoom="1"
+     inkscape:cx="215.45087"
+     inkscape:cy="182.51632"
+     inkscape:window-x="1200"
+     inkscape:window-y="318"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      fit-margin-top="0"
@@ -83,7 +83,7 @@
   <g
      id="line2d_24"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -94,7 +94,7 @@
   <g
      id="line2d_25"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -105,7 +105,7 @@
   <g
      id="line2d_26"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -116,7 +116,7 @@
   <g
      id="line2d_27"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -127,7 +127,7 @@
   <g
      id="line2d_28"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -138,7 +138,7 @@
   <g
      id="line2d_30"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -149,7 +149,7 @@
   <g
      id="line2d_31"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -160,7 +160,7 @@
   <g
      id="line2d_32"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -171,7 +171,7 @@
   <g
      id="line2d_33"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -182,7 +182,7 @@
   <g
      id="line2d_34"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -193,7 +193,7 @@
   <g
      id="line2d_36"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -204,7 +204,7 @@
   <g
      id="line2d_37"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -215,7 +215,7 @@
   <g
      id="line2d_38"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -226,7 +226,7 @@
   <g
      id="line2d_39"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -237,7 +237,7 @@
   <g
      id="line2d_40"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p61bfc0bd1a)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -248,7 +248,7 @@
   <g
      id="line2d_79"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -259,7 +259,7 @@
   <g
      id="line2d_80"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -270,7 +270,7 @@
   <g
      id="line2d_81"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -281,7 +281,7 @@
   <g
      id="line2d_82"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -292,7 +292,7 @@
   <g
      id="line2d_83"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -303,7 +303,7 @@
   <g
      id="line2d_85"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -314,7 +314,7 @@
   <g
      id="line2d_86"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -325,7 +325,7 @@
   <g
      id="line2d_87"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -336,7 +336,7 @@
   <g
      id="line2d_88"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -347,7 +347,7 @@
   <g
      id="line2d_89"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -358,7 +358,7 @@
   <g
      id="line2d_91"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -369,7 +369,7 @@
   <g
      id="line2d_92"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -380,7 +380,7 @@
   <g
      id="line2d_93"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -391,7 +391,7 @@
   <g
      id="line2d_94"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -402,7 +402,7 @@
   <g
      id="line2d_95"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,177.18733)">
+     transform="translate(-93.115619,-20.988954)">
     <path
        clip-path="url(#p43a839c32e)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -413,7 +413,7 @@
   <g
      id="line2d_122"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -424,7 +424,7 @@
   <g
      id="line2d_123"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -435,7 +435,7 @@
   <g
      id="line2d_124"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -446,7 +446,7 @@
   <g
      id="line2d_125"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -457,7 +457,7 @@
   <g
      id="line2d_126"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -468,7 +468,7 @@
   <g
      id="line2d_128"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -479,7 +479,7 @@
   <g
      id="line2d_129"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -490,7 +490,7 @@
   <g
      id="line2d_130"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -501,7 +501,7 @@
   <g
      id="line2d_131"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -512,7 +512,7 @@
   <g
      id="line2d_132"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -523,7 +523,7 @@
   <g
      id="line2d_134"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -534,7 +534,7 @@
   <g
      id="line2d_135"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -545,7 +545,7 @@
   <g
      id="line2d_136"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -556,7 +556,7 @@
   <g
      id="line2d_137"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -567,7 +567,7 @@
   <g
      id="line2d_138"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p797cb5a344)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -578,7 +578,7 @@
   <g
      id="line2d_171"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -589,7 +589,7 @@
   <g
      id="line2d_172"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -600,7 +600,7 @@
   <g
      id="line2d_173"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -611,7 +611,7 @@
   <g
      id="line2d_174"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -622,7 +622,7 @@
   <g
      id="line2d_175"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -633,7 +633,7 @@
   <g
      id="line2d_177"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -644,7 +644,7 @@
   <g
      id="line2d_178"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -655,7 +655,7 @@
   <g
      id="line2d_179"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -666,7 +666,7 @@
   <g
      id="line2d_180"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -677,7 +677,7 @@
   <g
      id="line2d_181"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -688,7 +688,7 @@
   <g
      id="line2d_183"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -699,7 +699,7 @@
   <g
      id="line2d_184"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -710,7 +710,7 @@
   <g
      id="line2d_185"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -721,7 +721,7 @@
   <g
      id="line2d_186"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -732,7 +732,7 @@
   <g
      id="line2d_187"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-79.3136,204.38733)">
+     transform="translate(-93.115619,6.2110456)">
     <path
        clip-path="url(#p7f036e6bcd)"
        style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -790,7 +790,7 @@
   <g
      id="line2d_27-2"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8023"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -801,7 +801,7 @@
   <g
      id="line2d_28-1"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8026"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -812,7 +812,7 @@
   <g
      id="line2d_29-8"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8029"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -823,7 +823,7 @@
   <g
      id="line2d_30-7"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8032"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -834,7 +834,7 @@
   <g
      id="line2d_31-4"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8035"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -845,7 +845,7 @@
   <g
      id="line2d_32-6"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8038"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -856,7 +856,7 @@
   <g
      id="line2d_33-3"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8041"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -867,7 +867,7 @@
   <g
      id="line2d_34-7"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8044"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -878,7 +878,7 @@
   <g
      id="line2d_35-8"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8047"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -889,7 +889,7 @@
   <g
      id="line2d_36-9"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8050"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -900,7 +900,7 @@
   <g
      id="line2d_37-9"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8053"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -911,7 +911,7 @@
   <g
      id="line2d_38-7"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8056"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -922,7 +922,7 @@
   <g
      id="line2d_65-2"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8508"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -933,7 +933,7 @@
   <g
      id="line2d_66-0"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8511"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -944,7 +944,7 @@
   <g
      id="line2d_67-0"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8514"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -955,7 +955,7 @@
   <g
      id="line2d_68-4"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8517"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -966,7 +966,7 @@
   <g
      id="line2d_69-1"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8520"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -977,7 +977,7 @@
   <g
      id="line2d_70-8"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8523"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -988,7 +988,7 @@
   <g
      id="line2d_71-1"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8526"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -999,7 +999,7 @@
   <g
      id="line2d_72-1"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8529"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1010,7 +1010,7 @@
   <g
      id="line2d_73-7"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8532"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1021,7 +1021,7 @@
   <g
      id="line2d_74-0"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8535"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1032,7 +1032,7 @@
   <g
      id="line2d_75-2"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8538"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1043,7 +1043,7 @@
   <g
      id="line2d_76-3"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8541"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1054,7 +1054,7 @@
   <g
      id="line2d_77-2"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8544"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1065,7 +1065,7 @@
   <g
      id="line2d_78-0"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8547"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1076,7 +1076,7 @@
   <g
      id="line2d_79-0"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8550"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1087,7 +1087,7 @@
   <g
      id="line2d_80-1"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8553"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1098,7 +1098,7 @@
   <g
      id="line2d_81-4"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8556"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1109,7 +1109,7 @@
   <g
      id="line2d_82-4"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8559"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1120,7 +1120,7 @@
   <g
      id="line2d_83-7"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8562"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1131,7 +1131,7 @@
   <g
      id="line2d_84-4"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.73609874,0,0,0.73609874,-85.72119,-23.983103)">
+     transform="matrix(0.73609874,0,0,0.73609874,-99.523209,-222.15939)">
     <path
        id="path8565"
        style="fill:none;stroke:#424242;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
@@ -1214,7 +1214,7 @@
   <g
      id="g14334"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(1.9930303e-7,-33.827393)">
+     transform="translate(-13.802019,-232.00368)">
     <g
        transform="translate(-79.313606,198.21472)"
        style="stroke-linecap:butt;stroke-linejoin:round"
@@ -1951,18 +1951,18 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:19.99999809px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="765.75098"
-     y="-153.55997"
+     x="751.94897"
+     y="-351.73624"
      id="text13856"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan13858"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       x="765.75098"
-       y="-153.55997" /></text>
+       x="751.94897"
+       y="-351.73624" /></text>
   <g
      id="g5776"
-     transform="translate(552.20152,-147.56228)"
+     transform="translate(538.3995,-345.73856)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        transform="translate(-79.31363,375.63585)"
@@ -3088,7 +3088,7 @@
   </g>
   <g
      id="g5985"
-     transform="translate(2.0548602,1.1290275)"
+     transform="translate(-11.747159,-197.04726)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        transform="translate(-2.4214762e-5,-36.800002)"
@@ -3992,7 +3992,7 @@
   </g>
   <g
      id="g14181"
-     transform="translate(1.9930303e-7,-14.627393)"
+     transform="translate(-13.802019,-212.80368)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        transform="matrix(0.73609874,0,0,0.73609874,-85.721191,-2.9557122)"
@@ -4813,7 +4813,7 @@
   </g>
   <g
      id="g6343"
-     transform="translate(550.97763,20.056877)"
+     transform="translate(537.17561,-178.11941)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        transform="matrix(0.73609874,0,0,0.73609874,-85.721215,-9.3557125)"
@@ -5717,1056 +5717,1172 @@
     </g>
   </g>
   <g
-     id="g6150"
+     id="g14469"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(3.0199303e-5,-8.2273925)">
+     transform="translate(-13.802013,-232.00368)">
     <g
-       transform="translate(-2.4214762e-5,-25.600002)"
+       transform="translate(-79.313606,-6.2894322)"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       id="g14469">
+       id="patch_17">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1794"
+         style="fill:#eaeaf2;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 497.88409,421.2 320.21591,0 0,-170.18182 -320.21591,0 z" />
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       id="ytick_19"
+       style="stroke-linecap:butt;stroke-linejoin:round">
       <g
-         id="patch_17"
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(-79.313606,-6.2894322)">
-        <path
-           d="m 497.88409,421.2 320.21591,0 0,-170.18182 -320.21591,0 z"
-           style="fill:#eaeaf2;stroke-linecap:butt;stroke-linejoin:round"
-           id="path1794"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         id="ytick_19"
-         transform="translate(-79.313606,-6.2894322)">
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_149">
-          <path
-             inkscape:connector-curvature="0"
-             id="path1957"
-             style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
-             d="M 497.88409,421.2 818.1,421.2"
-             clip-path="url(#p7f036e6bcd)" />
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_150">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g1960">
-            <path
-               d="m 497.88409,421.20001 0,0"
-               id="use1962"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_151">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g1965">
-            <path
-               d="m 818.09998,421.20001 0,0"
-               id="use1967"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="text_61">
-          <!-- 0.5 -->
-          <g
-             id="g1970"
-             transform="matrix(0.1,0,0,-0.1,476.98409,423.78594)"
-             style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round">
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               x="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use1972"
-               xlink:href="#LiberationSans-30" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use1974"
-               xlink:href="#LiberationSans-2e"
-               x="55.615234" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use1976"
-               xlink:href="#LiberationSans-35"
-               x="83.398438" />
-          </g>
-        </g>
-      </g>
-      <g
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         id="ytick_20"
-         transform="translate(-79.313606,-6.2894322)">
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_152">
-          <path
-             inkscape:connector-curvature="0"
-             id="path1980"
-             style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
-             d="m 497.88409,392.83636 320.21591,0"
-             clip-path="url(#p7f036e6bcd)" />
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_153">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g1983">
-            <path
-               d="m 497.88409,392.83636 0,0"
-               id="use1985"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_154">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g1988">
-            <path
-               d="m 818.09998,392.83636 0,0"
-               id="use1990"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="text_62">
-          <!-- 1.0 -->
-          <g
-             id="g1993"
-             transform="matrix(0.1,0,0,-0.1,476.98409,395.4223)"
-             style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round">
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               x="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use1995"
-               xlink:href="#LiberationSans-31" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use1997"
-               xlink:href="#LiberationSans-2e"
-               x="55.615234" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use1999"
-               xlink:href="#LiberationSans-30"
-               x="83.398438" />
-          </g>
-        </g>
-      </g>
-      <g
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         id="ytick_21"
-         transform="translate(-79.313606,-6.2894322)">
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_155">
-          <path
-             inkscape:connector-curvature="0"
-             id="path2003"
-             style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
-             d="m 497.88409,364.47273 320.21591,0"
-             clip-path="url(#p7f036e6bcd)" />
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_156">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g2006">
-            <path
-               d="m 497.88409,364.47272 0,0"
-               id="use2008"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_157">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g2011">
-            <path
-               d="m 818.09998,364.47272 0,0"
-               id="use2013"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="text_63">
-          <!-- 1.5 -->
-          <g
-             id="g2016"
-             transform="matrix(0.1,0,0,-0.1,476.98409,367.05866)"
-             style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round">
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               x="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2018"
-               xlink:href="#LiberationSans-31" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2020"
-               xlink:href="#LiberationSans-2e"
-               x="55.615234" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2022"
-               xlink:href="#LiberationSans-35"
-               x="83.398438" />
-          </g>
-        </g>
-      </g>
-      <g
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         id="ytick_22"
-         transform="translate(-79.313606,-6.2894322)">
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_158">
-          <path
-             inkscape:connector-curvature="0"
-             id="path2026"
-             style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
-             d="m 497.88409,336.10909 320.21591,0"
-             clip-path="url(#p7f036e6bcd)" />
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_159">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g2029">
-            <path
-               d="m 497.88409,336.1091 0,0"
-               id="use2031"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_160">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g2034">
-            <path
-               d="m 818.09998,336.1091 0,0"
-               id="use2036"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="text_64">
-          <!-- 2.0 -->
-          <g
-             id="g2039"
-             transform="matrix(0.1,0,0,-0.1,476.98409,338.69503)"
-             style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round">
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               x="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2041"
-               xlink:href="#LiberationSans-32" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2043"
-               xlink:href="#LiberationSans-2e"
-               x="55.615234" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2045"
-               xlink:href="#LiberationSans-30"
-               x="83.398438" />
-          </g>
-        </g>
-      </g>
-      <g
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         id="ytick_23"
-         transform="translate(-79.313606,-6.2894322)">
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_161">
-          <path
-             inkscape:connector-curvature="0"
-             id="path2049"
-             style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
-             d="m 497.88409,307.74545 320.21591,0"
-             clip-path="url(#p7f036e6bcd)" />
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_162">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g2052">
-            <path
-               d="m 497.88409,307.74545 0,0"
-               id="use2054"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_163">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g2057">
-            <path
-               d="m 818.09998,307.74545 0,0"
-               id="use2059"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="text_65">
-          <!-- 2.5 -->
-          <g
-             id="g2062"
-             transform="matrix(0.1,0,0,-0.1,476.98409,310.33139)"
-             style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round">
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               x="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2064"
-               xlink:href="#LiberationSans-32" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2066"
-               xlink:href="#LiberationSans-2e"
-               x="55.615234" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2068"
-               xlink:href="#LiberationSans-35"
-               x="83.398438" />
-          </g>
-        </g>
-      </g>
-      <g
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         id="ytick_24"
-         transform="translate(-79.313606,-6.2894322)">
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_164">
-          <path
-             inkscape:connector-curvature="0"
-             id="path2072"
-             style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
-             d="m 497.88409,279.38182 320.21591,0"
-             clip-path="url(#p7f036e6bcd)" />
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_165">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g2075">
-            <path
-               d="m 497.88409,279.38181 0,0"
-               id="use2077"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_166">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g2080">
-            <path
-               d="m 818.09998,279.38181 0,0"
-               id="use2082"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="text_66">
-          <!-- 3.0 -->
-          <g
-             id="g2085"
-             transform="matrix(0.1,0,0,-0.1,476.98409,281.96776)"
-             style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round">
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               x="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2087"
-               xlink:href="#LiberationSans-33" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2089"
-               xlink:href="#LiberationSans-2e"
-               x="55.615234" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2091"
-               xlink:href="#LiberationSans-30"
-               x="83.398438" />
-          </g>
-        </g>
-      </g>
-      <g
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         id="ytick_25"
-         transform="translate(-79.313606,-6.2894322)">
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_167">
-          <path
-             inkscape:connector-curvature="0"
-             id="path2095"
-             style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
-             d="m 497.88409,251.01818 320.21591,0"
-             clip-path="url(#p7f036e6bcd)" />
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_168">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g2098">
-            <path
-               d="m 497.88409,251.01819 0,0"
-               id="use2100"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="line2d_169">
-          <g
-             style="stroke-linecap:butt;stroke-linejoin:round"
-             id="g2103">
-            <path
-               d="m 818.09998,251.01819 0,0"
-               id="use2105"
-               style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-        <g
-           style="stroke-linecap:butt;stroke-linejoin:round"
-           id="text_67">
-          <!-- 3.5 -->
-          <g
-             id="g2108"
-             transform="matrix(0.1,0,0,-0.1,476.98409,253.60412)"
-             style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round">
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               x="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2110"
-               xlink:href="#LiberationSans-33" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2112"
-               xlink:href="#LiberationSans-2e"
-               x="55.615234" />
-            <use
-               height="100%"
-               width="100%"
-               y="0"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="use2114"
-               xlink:href="#LiberationSans-35"
-               x="83.398438" />
-          </g>
-        </g>
-      </g>
-      <g
-         id="PathCollection_19"
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(-79.313606,-6.2894322)">
-        <defs
-           id="defs2142">
-          <path
-             d="m 0,3.94794 c 1.047006,0 2.05127,-0.41598 2.791615,-1.156325 C 3.53196,2.05127 3.94794,1.047006 3.94794,0 3.94794,-1.047006 3.53196,-2.05127 2.791615,-2.791615 2.05127,-3.53196 1.047006,-3.94794 0,-3.94794 c -1.047006,0 -2.05127,0.41598 -2.791615,1.156325 C -3.53196,-2.05127 -3.94794,-1.047006 -3.94794,0 c 0,1.047006 0.41598,2.05127 1.156325,2.791615 C -2.05127,3.53196 -1.047006,3.94794 0,3.94794 Z"
-             id="C9_0_cc64e93ca2"
-             inkscape:connector-curvature="0"
-             style="stroke-linecap:butt;stroke-linejoin:round" />
-        </defs>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2145"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="529.9057"
-             xlink:href="#C9_0_cc64e93ca2"
-             y="392.83636"
-             id="use2147"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2149"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="593.94885"
-             xlink:href="#C9_0_cc64e93ca2"
-             y="365.3288"
-             id="use2151"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2153"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="657.99207"
-             xlink:href="#C9_0_cc64e93ca2"
-             y="369.73346"
-             id="use2155"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2157"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="722.03522"
-             xlink:href="#C9_0_cc64e93ca2"
-             y="335.11661"
-             id="use2159"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2161"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="786.07843"
-             xlink:href="#C9_0_cc64e93ca2"
-             y="334.92688"
-             id="use2163"
-             width="100%"
-             height="100%" />
-        </g>
-      </g>
-      <g
-         id="line2d_170"
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(-79.313606,-6.2894322)">
+         id="line2d_149"
+         style="stroke-linecap:butt;stroke-linejoin:round">
         <path
            clip-path="url(#p7f036e6bcd)"
-           d="m 529.90568,392.83636 64.04318,-27.50757 64.04318,4.40467 64.04319,-34.61684 64.04318,-0.18974"
-           style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
-           id="path2166"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="PathCollection_20"
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(-79.313606,-6.2894322)">
-        <defs
-           id="defs2184">
-          <path
-             d="m 0,3.94794 c 1.047006,0 2.05127,-0.41598 2.791615,-1.156325 C 3.53196,2.05127 3.94794,1.047006 3.94794,0 3.94794,-1.047006 3.53196,-2.05127 2.791615,-2.791615 2.05127,-3.53196 1.047006,-3.94794 0,-3.94794 c -1.047006,0 -2.05127,0.41598 -2.791615,1.156325 C -3.53196,-2.05127 -3.94794,-1.047006 -3.94794,0 c 0,1.047006 0.41598,2.05127 1.156325,2.791615 C -2.05127,3.53196 -1.047006,3.94794 0,3.94794 Z"
-             id="Ca_0_dec8e41cfb"
-             inkscape:connector-curvature="0"
-             style="stroke-linecap:butt;stroke-linejoin:round" />
-        </defs>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2187"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="529.9057"
-             xlink:href="#Ca_0_dec8e41cfb"
-             y="392.83636"
-             id="use2189"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2191"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="593.94885"
-             xlink:href="#Ca_0_dec8e41cfb"
-             y="369.82483"
-             id="use2193"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2195"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="657.99207"
-             xlink:href="#Ca_0_dec8e41cfb"
-             y="365.92938"
-             id="use2197"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2199"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="722.03522"
-             xlink:href="#Ca_0_dec8e41cfb"
-             y="340.84134"
-             id="use2201"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2203"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="786.07843"
-             xlink:href="#Ca_0_dec8e41cfb"
-             y="334.40137"
-             id="use2205"
-             width="100%"
-             height="100%" />
-        </g>
-      </g>
-      <g
-         id="line2d_176"
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(-79.313606,-6.2894322)">
-        <path
-           clip-path="url(#p7f036e6bcd)"
-           d="m 529.90568,392.83636 64.04318,-23.01154 64.04318,-3.89545 64.04319,-25.08802 64.04318,-6.44"
-           style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
-           id="path2208"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="patch_18"
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(-79.313606,-6.2894322)">
-        <path
-           d="m 497.88409,421.2 0,-170.18182"
-           style="fill:none;stroke-linecap:butt;stroke-linejoin:round"
-           id="path2226"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="patch_19"
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(-79.313606,-6.2894322)">
-        <path
-           d="m 818.1,421.2 0,-170.18182"
-           style="fill:none;stroke-linecap:butt;stroke-linejoin:round"
-           id="path2229"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="patch_20"
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(-79.313606,-6.2894322)">
-        <path
-           d="m 497.88409,251.01818 320.21591,0"
-           style="fill:none;stroke-linecap:butt;stroke-linejoin:round"
-           id="path2232"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="patch_21"
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(-79.313606,-6.2894322)">
-        <path
            d="M 497.88409,421.2 818.1,421.2"
-           style="fill:none;stroke-linecap:butt;stroke-linejoin:round"
-           id="path2235"
+           style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+           id="path1957"
            inkscape:connector-curvature="0" />
       </g>
       <g
-         id="PathCollection_21"
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(-79.313606,-6.2894322)">
-        <defs
-           id="defs2238">
-          <path
-             d="m 0,3.94794 c 1.047006,0 2.05127,-0.41598 2.791615,-1.156325 C 3.53196,2.05127 3.94794,1.047006 3.94794,0 3.94794,-1.047006 3.53196,-2.05127 2.791615,-2.791615 2.05127,-3.53196 1.047006,-3.94794 0,-3.94794 c -1.047006,0 -2.05127,0.41598 -2.791615,1.156325 C -3.53196,-2.05127 -3.94794,-1.047006 -3.94794,0 c 0,1.047006 0.41598,2.05127 1.156325,2.791615 C -2.05127,3.53196 -1.047006,3.94794 0,3.94794 Z"
-             id="Cb_0_ed9c9ee0e6"
-             inkscape:connector-curvature="0"
-             style="stroke-linecap:butt;stroke-linejoin:round" />
-        </defs>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2241"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="529.9057"
-             xlink:href="#Cb_0_ed9c9ee0e6"
-             y="392.83636"
-             id="use2243"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2245"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="593.94885"
-             xlink:href="#Cb_0_ed9c9ee0e6"
-             y="354.63452"
-             id="use2247"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2249"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="657.99207"
-             xlink:href="#Cb_0_ed9c9ee0e6"
-             y="341.86792"
-             id="use2251"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2253"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="722.03522"
-             xlink:href="#Cb_0_ed9c9ee0e6"
-             y="321.94528"
-             id="use2255"
-             width="100%"
-             height="100%" />
-        </g>
-        <g
-           clip-path="url(#p7f036e6bcd)"
-           id="g2257"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <use
-             style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             x="786.07843"
-             xlink:href="#Cb_0_ed9c9ee0e6"
-             y="276.60355"
-             id="use2259"
-             width="100%"
-             height="100%" />
-        </g>
-      </g>
-      <g
-         id="line2d_182"
-         style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(-79.313606,-6.2894322)">
-        <path
-           clip-path="url(#p7f036e6bcd)"
-           d="m 529.90568,392.83636 64.04318,-38.20184 64.04318,-12.76661 64.04319,-19.92264 64.04318,-45.34172"
-           style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
-           id="path2262"
-           inkscape:connector-curvature="0" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="578.315"
-         y="242.84119"
-         id="text16478"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan16480"
-           style="fill:#000000;fill-opacity:0;stroke-linecap:butt;stroke-linejoin:round"
-           x="578.315"
-           y="242.84119">probability of leaving</tspan></text>
-      <g
-         id="g12962"
-         transform="translate(359.35173,-89.873614)"
+         id="line2d_150"
          style="stroke-linecap:butt;stroke-linejoin:round">
         <g
-           id="g12964"
+           id="g1960"
            style="stroke-linecap:butt;stroke-linejoin:round">
-          <text
-             sodipodi:linespacing="125%"
-             id="text12966"
-             y="515.51642"
-             x="155.0428"
-             style="font-style:normal;font-weight:normal;font-size:10.22489834px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               y="515.51642"
-               x="155.0428"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="tspan12968"
-               sodipodi:role="line">TopWA</tspan></text>
-          <text
-             sodipodi:linespacing="125%"
-             id="text12970"
-             y="514.89478"
-             x="218.28543"
-             style="font-style:normal;font-weight:normal;font-size:10.22489834px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               y="514.89478"
-               x="218.28543"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="tspan12972"
-               sodipodi:role="line">CWA</tspan></text>
-          <text
-             sodipodi:linespacing="125%"
-             id="text12974"
-             y="514.84204"
-             x="281.7952"
-             style="font-style:normal;font-weight:normal;font-size:10.22489834px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               y="514.84204"
-               x="281.7952"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="tspan12976"
-               sodipodi:role="line">Other</tspan></text>
-          <text
-             sodipodi:linespacing="125%"
-             id="text12978"
-             y="515.42407"
-             x="345.58453"
-             style="font-style:normal;font-weight:normal;font-size:10.22489834px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               y="515.42407"
-               x="345.58453"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="tspan12980"
-               sodipodi:role="line">Missing</tspan></text>
-          <text
-             sodipodi:linespacing="125%"
-             id="text12982"
-             y="514.89478"
-             x="91.280922"
-             style="font-style:normal;font-weight:normal;font-size:10.22489834px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               y="514.89478"
-               x="91.280922"
-               style="stroke-linecap:butt;stroke-linejoin:round"
-               id="tspan12984"
-               sodipodi:role="line">Correct</tspan></text>
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use1962"
+             d="m 497.88409,421.20001 0,0" />
+        </g>
+      </g>
+      <g
+         id="line2d_151"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="g1965"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use1967"
+             d="m 818.09998,421.20001 0,0" />
+        </g>
+      </g>
+      <g
+         id="text_61"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <!-- 0.5 -->
+        <g
+           style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
+           transform="matrix(0.1,0,0,-0.1,476.98409,423.78594)"
+           id="g1970">
+          <use
+             xlink:href="#LiberationSans-30"
+             id="use1972"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="55.615234"
+             xlink:href="#LiberationSans-2e"
+             id="use1974"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="83.398438"
+             xlink:href="#LiberationSans-35"
+             id="use1976"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
         </g>
       </g>
     </g>
     <g
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="translate(0.64945717,-302.76225)"
-       id="g5559-4">
+       transform="translate(-79.313606,-6.2894322)"
+       id="ytick_20"
+       style="stroke-linecap:butt;stroke-linejoin:round">
       <g
-         id="g17289-7"
-         transform="translate(-97.621679,23.513771)"
+         id="line2d_152"
          style="stroke-linecap:butt;stroke-linejoin:round">
-        <g
-           transform="matrix(1.21437,0,0,1.21437,371.00214,426.34085)"
-           id="PathCollection_4-6"
-           style="stroke-linecap:butt;stroke-linejoin:round">
-          <path
-             d="m 132.625,78.085768 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z"
-             style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             id="path509-6"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 132.625,78.085768 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z"
-             style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             id="path511-9"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 132.625,78.085768 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z"
-             style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             id="path513-6"
-             inkscape:connector-curvature="0" />
-        </g>
-        <text
-           sodipodi:linespacing="125%"
-           id="text5883-1"
-           y="520.2663"
-           x="541.84387"
-           style="font-style:normal;font-weight:normal;font-size:11.88298416px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             y="520.2663"
-             x="541.84387"
-             style="text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
-             id="tspan5885-9"
-             sodipodi:role="line">Basic Arithmetic</tspan></text>
+        <path
+           clip-path="url(#p7f036e6bcd)"
+           d="m 497.88409,392.83636 320.21591,0"
+           style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+           id="path1980"
+           inkscape:connector-curvature="0" />
       </g>
       <g
-         id="g17281-9"
-         transform="translate(-97.621679,26.633263)"
+         id="line2d_153"
          style="stroke-linecap:butt;stroke-linejoin:round">
         <g
-           transform="matrix(1.21437,0,0,1.21437,371.00214,426.34085)"
-           id="PathCollection_5-7"
+           id="g1983"
            style="stroke-linecap:butt;stroke-linejoin:round">
           <path
-             d="m 132.625,92.407643 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z"
-             style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             id="path531-7"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 132.625,92.407643 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z"
-             style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             id="path533-7"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 132.625,92.407643 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z"
-             style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-             id="path535-9"
-             inkscape:connector-curvature="0" />
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use1985"
+             d="m 497.88409,392.83636 0,0" />
         </g>
-        <text
-           sodipodi:linespacing="125%"
-           id="text5887-0"
-           y="538.29205"
-           x="541.84387"
-           style="font-style:normal;font-weight:normal;font-size:11.88298416px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             y="538.29205"
-             x="541.84387"
-             style="text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
-             id="tspan5889-5"
-             sodipodi:role="line">Geography</tspan></text>
       </g>
       <g
-         id="g17273-4"
-         transform="translate(-93.789089,29.821603)"
+         id="line2d_154"
          style="stroke-linecap:butt;stroke-linejoin:round">
         <g
-           id="g13972-7"
-           transform="translate(-3.83259,0)"
+           id="g1988"
            style="stroke-linecap:butt;stroke-linejoin:round">
-          <g
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use1990"
+             d="m 818.09998,392.83636 0,0" />
+        </g>
+      </g>
+      <g
+         id="text_62"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <!-- 1.0 -->
+        <g
+           style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
+           transform="matrix(0.1,0,0,-0.1,476.98409,395.4223)"
+           id="g1993">
+          <use
+             xlink:href="#LiberationSans-31"
+             id="use1995"
              style="stroke-linecap:butt;stroke-linejoin:round"
-             id="PathCollection_6-5"
-             transform="matrix(1.21437,0,0,1.21437,371.00214,426.34085)">
-            <path
-               inkscape:connector-curvature="0"
-               id="path559-2"
-               style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-               d="m 132.625,106.72952 c 1.04701,0 2.05127,-0.41598 2.79161,-1.15633 0.74035,-0.74034 1.15633,-1.74461 1.15633,-2.79161 0,-1.04701 -0.41598,-2.05127 -1.15633,-2.791617 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740347 -1.15632,1.744607 -1.15632,2.791617 0,1.047 0.41598,2.05127 1.15632,2.79161 0.74035,0.74035 1.74461,1.15633 2.79162,1.15633 z" />
-            <path
-               inkscape:connector-curvature="0"
-               id="path561-6"
-               style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-               d="m 132.625,106.72952 c 1.04701,0 2.05127,-0.41598 2.79161,-1.15633 0.74035,-0.74034 1.15633,-1.74461 1.15633,-2.79161 0,-1.04701 -0.41598,-2.05127 -1.15633,-2.791617 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740347 -1.15632,1.744607 -1.15632,2.791617 0,1.047 0.41598,2.05127 1.15632,2.79161 0.74035,0.74035 1.74461,1.15633 2.79162,1.15633 z" />
-            <path
-               inkscape:connector-curvature="0"
-               id="path563-6"
-               style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
-               d="m 132.625,106.72952 c 1.04701,0 2.05127,-0.41598 2.79161,-1.15633 0.74035,-0.74034 1.15633,-1.74461 1.15633,-2.79161 0,-1.04701 -0.41598,-2.05127 -1.15633,-2.791617 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740347 -1.15632,1.744607 -1.15632,2.791617 0,1.047 0.41598,2.05127 1.15632,2.79161 0.74035,0.74035 1.74461,1.15633 2.79162,1.15633 z" />
-          </g>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:11.88298416px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             x="541.84387"
-             y="556.31781"
-             id="text5891-1"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan5893-9"
-               style="text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
-               x="541.84387"
-               y="556.31781">Human Anatomy</tspan></text>
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="55.615234"
+             xlink:href="#LiberationSans-2e"
+             id="use1997"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="83.398438"
+             xlink:href="#LiberationSans-30"
+             id="use1999"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
         </g>
+      </g>
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       id="ytick_21"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <g
+         id="line2d_155"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <path
+           clip-path="url(#p7f036e6bcd)"
+           d="m 497.88409,364.47273 320.21591,0"
+           style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+           id="path2003"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="line2d_156"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="g2006"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use2008"
+             d="m 497.88409,364.47272 0,0" />
+        </g>
+      </g>
+      <g
+         id="line2d_157"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="g2011"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use2013"
+             d="m 818.09998,364.47272 0,0" />
+        </g>
+      </g>
+      <g
+         id="text_63"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <!-- 1.5 -->
+        <g
+           style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
+           transform="matrix(0.1,0,0,-0.1,476.98409,367.05866)"
+           id="g2016">
+          <use
+             xlink:href="#LiberationSans-31"
+             id="use2018"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="55.615234"
+             xlink:href="#LiberationSans-2e"
+             id="use2020"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="83.398438"
+             xlink:href="#LiberationSans-35"
+             id="use2022"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       id="ytick_22"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <g
+         id="line2d_158"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <path
+           clip-path="url(#p7f036e6bcd)"
+           d="m 497.88409,336.10909 320.21591,0"
+           style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+           id="path2026"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="line2d_159"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="g2029"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use2031"
+             d="m 497.88409,336.1091 0,0" />
+        </g>
+      </g>
+      <g
+         id="line2d_160"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="g2034"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use2036"
+             d="m 818.09998,336.1091 0,0" />
+        </g>
+      </g>
+      <g
+         id="text_64"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <!-- 2.0 -->
+        <g
+           style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
+           transform="matrix(0.1,0,0,-0.1,476.98409,338.69503)"
+           id="g2039">
+          <use
+             xlink:href="#LiberationSans-32"
+             id="use2041"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="55.615234"
+             xlink:href="#LiberationSans-2e"
+             id="use2043"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="83.398438"
+             xlink:href="#LiberationSans-30"
+             id="use2045"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       id="ytick_23"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <g
+         id="line2d_161"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <path
+           clip-path="url(#p7f036e6bcd)"
+           d="m 497.88409,307.74545 320.21591,0"
+           style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+           id="path2049"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="line2d_162"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="g2052"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use2054"
+             d="m 497.88409,307.74545 0,0" />
+        </g>
+      </g>
+      <g
+         id="line2d_163"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="g2057"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use2059"
+             d="m 818.09998,307.74545 0,0" />
+        </g>
+      </g>
+      <g
+         id="text_65"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <!-- 2.5 -->
+        <g
+           style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
+           transform="matrix(0.1,0,0,-0.1,476.98409,310.33139)"
+           id="g2062">
+          <use
+             xlink:href="#LiberationSans-32"
+             id="use2064"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="55.615234"
+             xlink:href="#LiberationSans-2e"
+             id="use2066"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="83.398438"
+             xlink:href="#LiberationSans-35"
+             id="use2068"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       id="ytick_24"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <g
+         id="line2d_164"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <path
+           clip-path="url(#p7f036e6bcd)"
+           d="m 497.88409,279.38182 320.21591,0"
+           style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+           id="path2072"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="line2d_165"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="g2075"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use2077"
+             d="m 497.88409,279.38181 0,0" />
+        </g>
+      </g>
+      <g
+         id="line2d_166"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="g2080"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use2082"
+             d="m 818.09998,279.38181 0,0" />
+        </g>
+      </g>
+      <g
+         id="text_66"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <!-- 3.0 -->
+        <g
+           style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
+           transform="matrix(0.1,0,0,-0.1,476.98409,281.96776)"
+           id="g2085">
+          <use
+             xlink:href="#LiberationSans-33"
+             id="use2087"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="55.615234"
+             xlink:href="#LiberationSans-2e"
+             id="use2089"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="83.398438"
+             xlink:href="#LiberationSans-30"
+             id="use2091"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       id="ytick_25"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <g
+         id="line2d_167"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <path
+           clip-path="url(#p7f036e6bcd)"
+           d="m 497.88409,251.01818 320.21591,0"
+           style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+           id="path2095"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="line2d_168"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="g2098"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use2100"
+             d="m 497.88409,251.01819 0,0" />
+        </g>
+      </g>
+      <g
+         id="line2d_169"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="g2103"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#262626;stroke:#262626;stroke-linecap:butt;stroke-linejoin:round"
+             id="use2105"
+             d="m 818.09998,251.01819 0,0" />
+        </g>
+      </g>
+      <g
+         id="text_67"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <!-- 3.5 -->
+        <g
+           style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
+           transform="matrix(0.1,0,0,-0.1,476.98409,253.60412)"
+           id="g2108">
+          <use
+             xlink:href="#LiberationSans-33"
+             id="use2110"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="55.615234"
+             xlink:href="#LiberationSans-2e"
+             id="use2112"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             x="83.398438"
+             xlink:href="#LiberationSans-35"
+             id="use2114"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       id="PathCollection_19">
+      <defs
+         id="defs2142">
+        <path
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           inkscape:connector-curvature="0"
+           id="C9_0_cc64e93ca2"
+           d="m 0,3.94794 c 1.047006,0 2.05127,-0.41598 2.791615,-1.156325 C 3.53196,2.05127 3.94794,1.047006 3.94794,0 3.94794,-1.047006 3.53196,-2.05127 2.791615,-2.791615 2.05127,-3.53196 1.047006,-3.94794 0,-3.94794 c -1.047006,0 -2.05127,0.41598 -2.791615,1.156325 C -3.53196,-2.05127 -3.94794,-1.047006 -3.94794,0 c 0,1.047006 0.41598,2.05127 1.156325,2.791615 C -2.05127,3.53196 -1.047006,3.94794 0,3.94794 Z" />
+      </defs>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2145"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2147"
+           y="392.83636"
+           xlink:href="#C9_0_cc64e93ca2"
+           x="529.9057"
+           style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2149"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2151"
+           y="365.3288"
+           xlink:href="#C9_0_cc64e93ca2"
+           x="593.94885"
+           style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2153"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2155"
+           y="369.73346"
+           xlink:href="#C9_0_cc64e93ca2"
+           x="657.99207"
+           style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2157"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2159"
+           y="335.11661"
+           xlink:href="#C9_0_cc64e93ca2"
+           x="722.03522"
+           style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2161"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2163"
+           y="334.92688"
+           xlink:href="#C9_0_cc64e93ca2"
+           x="786.07843"
+           style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       id="line2d_170">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2166"
+         style="fill:none;stroke:#4c72b0;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
+         d="m 529.90568,392.83636 64.04318,-27.50757 64.04318,4.40467 64.04319,-34.61684 64.04318,-0.18974"
+         clip-path="url(#p7f036e6bcd)" />
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       id="PathCollection_20">
+      <defs
+         id="defs2184">
+        <path
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           inkscape:connector-curvature="0"
+           id="Ca_0_dec8e41cfb"
+           d="m 0,3.94794 c 1.047006,0 2.05127,-0.41598 2.791615,-1.156325 C 3.53196,2.05127 3.94794,1.047006 3.94794,0 3.94794,-1.047006 3.53196,-2.05127 2.791615,-2.791615 2.05127,-3.53196 1.047006,-3.94794 0,-3.94794 c -1.047006,0 -2.05127,0.41598 -2.791615,1.156325 C -3.53196,-2.05127 -3.94794,-1.047006 -3.94794,0 c 0,1.047006 0.41598,2.05127 1.156325,2.791615 C -2.05127,3.53196 -1.047006,3.94794 0,3.94794 Z" />
+      </defs>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2187"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2189"
+           y="392.83636"
+           xlink:href="#Ca_0_dec8e41cfb"
+           x="529.9057"
+           style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2191"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2193"
+           y="369.82483"
+           xlink:href="#Ca_0_dec8e41cfb"
+           x="593.94885"
+           style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2195"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2197"
+           y="365.92938"
+           xlink:href="#Ca_0_dec8e41cfb"
+           x="657.99207"
+           style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2199"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2201"
+           y="340.84134"
+           xlink:href="#Ca_0_dec8e41cfb"
+           x="722.03522"
+           style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2203"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2205"
+           y="334.40137"
+           xlink:href="#Ca_0_dec8e41cfb"
+           x="786.07843"
+           style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       id="line2d_176">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2208"
+         style="fill:none;stroke:#55a868;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
+         d="m 529.90568,392.83636 64.04318,-23.01154 64.04318,-3.89545 64.04319,-25.08802 64.04318,-6.44"
+         clip-path="url(#p7f036e6bcd)" />
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       id="patch_18">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2226"
+         style="fill:none;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 497.88409,421.2 0,-170.18182" />
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       id="patch_19">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2229"
+         style="fill:none;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 818.1,421.2 0,-170.18182" />
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       id="patch_20">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2232"
+         style="fill:none;stroke-linecap:butt;stroke-linejoin:round"
+         d="m 497.88409,251.01818 320.21591,0" />
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       id="patch_21">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2235"
+         style="fill:none;stroke-linecap:butt;stroke-linejoin:round"
+         d="M 497.88409,421.2 818.1,421.2" />
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       id="PathCollection_21">
+      <defs
+         id="defs2238">
+        <path
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           inkscape:connector-curvature="0"
+           id="Cb_0_ed9c9ee0e6"
+           d="m 0,3.94794 c 1.047006,0 2.05127,-0.41598 2.791615,-1.156325 C 3.53196,2.05127 3.94794,1.047006 3.94794,0 3.94794,-1.047006 3.53196,-2.05127 2.791615,-2.791615 2.05127,-3.53196 1.047006,-3.94794 0,-3.94794 c -1.047006,0 -2.05127,0.41598 -2.791615,1.156325 C -3.53196,-2.05127 -3.94794,-1.047006 -3.94794,0 c 0,1.047006 0.41598,2.05127 1.156325,2.791615 C -2.05127,3.53196 -1.047006,3.94794 0,3.94794 Z" />
+      </defs>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2241"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2243"
+           y="392.83636"
+           xlink:href="#Cb_0_ed9c9ee0e6"
+           x="529.9057"
+           style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2245"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2247"
+           y="354.63452"
+           xlink:href="#Cb_0_ed9c9ee0e6"
+           x="593.94885"
+           style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2249"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2251"
+           y="341.86792"
+           xlink:href="#Cb_0_ed9c9ee0e6"
+           x="657.99207"
+           style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2253"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2255"
+           y="321.94528"
+           xlink:href="#Cb_0_ed9c9ee0e6"
+           x="722.03522"
+           style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g2257"
+         clip-path="url(#p7f036e6bcd)">
+        <use
+           height="100%"
+           width="100%"
+           id="use2259"
+           y="276.60355"
+           xlink:href="#Cb_0_ed9c9ee0e6"
+           x="786.07843"
+           style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round" />
+      </g>
+    </g>
+    <g
+       transform="translate(-79.313606,-6.2894322)"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       id="line2d_182">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2262"
+         style="fill:none;stroke:#c44e52;stroke-width:3.1500001;stroke-linecap:round;stroke-linejoin:round"
+         d="m 529.90568,392.83636 64.04318,-38.20184 64.04318,-12.76661 64.04319,-19.92264 64.04318,-45.34172"
+         clip-path="url(#p7f036e6bcd)" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text16478"
+       y="242.84119"
+       x="578.315"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="242.84119"
+         x="578.315"
+         style="fill:#000000;fill-opacity:0;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan16480"
+         sodipodi:role="line">probability of leaving</tspan></text>
+    <g
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="translate(359.35173,-89.873614)"
+       id="g12962">
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g12964">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.22489834px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="155.0428"
+           y="515.51642"
+           id="text12966"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan12968"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="155.0428"
+             y="515.51642">TopWA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.22489834px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="218.28543"
+           y="514.89478"
+           id="text12970"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan12972"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="218.28543"
+             y="514.89478">CWA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.22489834px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="281.7952"
+           y="514.84204"
+           id="text12974"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan12976"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="281.7952"
+             y="514.84204">Other</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.22489834px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="345.58453"
+           y="515.42407"
+           id="text12978"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan12980"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="345.58453"
+             y="515.42407">Missing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.22489834px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="91.280922"
+           y="514.89478"
+           id="text12982"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan12984"
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             x="91.280922"
+             y="514.89478">Correct</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5559-4"
+     transform="translate(-13.152532,-509.16592)"
+     style="stroke-linecap:butt;stroke-linejoin:round">
+    <g
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="translate(-97.621679,23.513771)"
+       id="g17289-7">
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="PathCollection_4-6"
+         transform="matrix(1.21437,0,0,1.21437,371.00214,426.34085)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path509-6"
+           style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,78.085768 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path511-9"
+           style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,78.085768 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path513-6"
+           style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,78.085768 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:11.88298416px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="541.84387"
+         y="520.2663"
+         id="text5883-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5885-9"
+           style="text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
+           x="541.84387"
+           y="520.2663">Basic Arithmetic</tspan></text>
+    </g>
+    <g
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="translate(-97.621679,26.633263)"
+       id="g17281-9">
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="PathCollection_5-7"
+         transform="matrix(1.21437,0,0,1.21437,371.00214,426.34085)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path531-7"
+           style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,92.407643 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path533-7"
+           style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,92.407643 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path535-9"
+           style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,92.407643 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:11.88298416px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="541.84387"
+         y="538.29205"
+         id="text5887-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5889-5"
+           style="text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
+           x="541.84387"
+           y="538.29205">Geography</tspan></text>
+    </g>
+    <g
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="translate(-93.789089,29.821603)"
+       id="g17273-4">
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         transform="translate(-3.83259,0)"
+         id="g13972-7">
+        <g
+           transform="matrix(1.21437,0,0,1.21437,371.00214,426.34085)"
+           id="PathCollection_6-5"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             d="m 132.625,106.72952 c 1.04701,0 2.05127,-0.41598 2.79161,-1.15633 0.74035,-0.74034 1.15633,-1.74461 1.15633,-2.79161 0,-1.04701 -0.41598,-2.05127 -1.15633,-2.791617 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740347 -1.15632,1.744607 -1.15632,2.791617 0,1.047 0.41598,2.05127 1.15632,2.79161 0.74035,0.74035 1.74461,1.15633 2.79162,1.15633 z"
+             style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+             id="path559-2"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 132.625,106.72952 c 1.04701,0 2.05127,-0.41598 2.79161,-1.15633 0.74035,-0.74034 1.15633,-1.74461 1.15633,-2.79161 0,-1.04701 -0.41598,-2.05127 -1.15633,-2.791617 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740347 -1.15632,1.744607 -1.15632,2.791617 0,1.047 0.41598,2.05127 1.15632,2.79161 0.74035,0.74035 1.74461,1.15633 2.79162,1.15633 z"
+             style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+             id="path561-6"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 132.625,106.72952 c 1.04701,0 2.05127,-0.41598 2.79161,-1.15633 0.74035,-0.74034 1.15633,-1.74461 1.15633,-2.79161 0,-1.04701 -0.41598,-2.05127 -1.15633,-2.791617 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740347 -1.15632,1.744607 -1.15632,2.791617 0,1.047 0.41598,2.05127 1.15632,2.79161 0.74035,0.74035 1.74461,1.15633 2.79162,1.15633 z"
+             style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+             id="path563-6"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5891-1"
+           y="556.31781"
+           x="541.84387"
+           style="font-style:normal;font-weight:normal;font-size:11.88298416px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="556.31781"
+             x="541.84387"
+             style="text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan5893-9"
+             sodipodi:role="line">Human Anatomy</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5559-4-0"
+     transform="translate(-288.32487,-421.89099)"
+     style="stroke-linecap:butt;stroke-linejoin:round">
+    <g
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="translate(-97.621679,23.513771)"
+       id="g17289-7-8">
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="PathCollection_4-6-0"
+         transform="matrix(1.21437,0,0,1.21437,371.00214,426.34085)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path509-6-6"
+           style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,78.085768 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path511-9-2"
+           style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,78.085768 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path513-6-8"
+           style="fill:#4c72b0;stroke:#4c72b0;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,78.085768 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:11.88298416px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="541.84387"
+         y="520.2663"
+         id="text5883-1-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5885-9-7"
+           style="text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
+           x="541.84387"
+           y="520.2663">Basic Arithmetic</tspan></text>
+    </g>
+    <g
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="translate(-97.621679,26.633263)"
+       id="g17281-9-6">
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="PathCollection_5-7-4"
+         transform="matrix(1.21437,0,0,1.21437,371.00214,426.34085)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path531-7-0"
+           style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,92.407643 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path533-7-6"
+           style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,92.407643 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path535-9-4"
+           style="fill:#55a868;stroke:#55a868;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 132.625,92.407643 c 1.04701,0 2.05127,-0.41598 2.79161,-1.156325 0.74035,-0.740345 1.15633,-1.744609 1.15633,-2.791615 0,-1.047006 -0.41598,-2.05127 -1.15633,-2.791615 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740345 -1.15632,1.744609 -1.15632,2.791615 0,1.047006 0.41598,2.05127 1.15632,2.791615 0.74035,0.740345 1.74461,1.156325 2.79162,1.156325 z" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:11.88298416px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="541.84387"
+         y="538.29205"
+         id="text5887-0-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5889-5-2"
+           style="text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
+           x="541.84387"
+           y="538.29205">Geography</tspan></text>
+    </g>
+    <g
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="translate(-93.789089,29.821603)"
+       id="g17273-4-7">
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         transform="translate(-3.83259,0)"
+         id="g13972-7-4">
+        <g
+           transform="matrix(1.21437,0,0,1.21437,371.00214,426.34085)"
+           id="PathCollection_6-5-7"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <path
+             d="m 132.625,106.72952 c 1.04701,0 2.05127,-0.41598 2.79161,-1.15633 0.74035,-0.74034 1.15633,-1.74461 1.15633,-2.79161 0,-1.04701 -0.41598,-2.05127 -1.15633,-2.791617 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740347 -1.15632,1.744607 -1.15632,2.791617 0,1.047 0.41598,2.05127 1.15632,2.79161 0.74035,0.74035 1.74461,1.15633 2.79162,1.15633 z"
+             style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+             id="path559-2-9"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 132.625,106.72952 c 1.04701,0 2.05127,-0.41598 2.79161,-1.15633 0.74035,-0.74034 1.15633,-1.74461 1.15633,-2.79161 0,-1.04701 -0.41598,-2.05127 -1.15633,-2.791617 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740347 -1.15632,1.744607 -1.15632,2.791617 0,1.047 0.41598,2.05127 1.15632,2.79161 0.74035,0.74035 1.74461,1.15633 2.79162,1.15633 z"
+             style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+             id="path561-6-1"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 132.625,106.72952 c 1.04701,0 2.05127,-0.41598 2.79161,-1.15633 0.74035,-0.74034 1.15633,-1.74461 1.15633,-2.79161 0,-1.04701 -0.41598,-2.05127 -1.15633,-2.791617 -0.74034,-0.740345 -1.7446,-1.156324 -2.79161,-1.156324 -1.04701,0 -2.05127,0.415979 -2.79162,1.156324 -0.74034,0.740347 -1.15632,1.744607 -1.15632,2.791617 0,1.047 0.41598,2.05127 1.15632,2.79161 0.74035,0.74035 1.74461,1.15633 2.79162,1.15633 z"
+             style="fill:#c44e52;stroke:#c44e52;stroke-width:2.36249995;stroke-linecap:butt;stroke-linejoin:round"
+             id="path563-6-3"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5891-1-7"
+           y="556.31781"
+           x="541.84387"
+           style="font-style:normal;font-weight:normal;font-size:11.88298416px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="556.31781"
+             x="541.84387"
+             style="text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan5893-9-0"
+             sodipodi:role="line">Human Anatomy</tspan></text>
       </g>
     </g>
   </g>
