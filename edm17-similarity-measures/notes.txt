@@ -1,0 +1,17 @@
+uvedení do kotextu, aplikovatelné i v jiných konceptech
+zmímit odkud bereme data
+
+pouze první odpovědi, učení zanedbáno
+
+zmínit alternativní jména metrik
+jen demonstrační, možná oddělat vzorečky
+
+moc similar, nějak vymyslet nebo z toho udělat vtip =)
+
+nebodeme používat dále Cohen a Ochiai
+
+větší datasety menší rozdíly
+
+
+
+pearson je univerzální
