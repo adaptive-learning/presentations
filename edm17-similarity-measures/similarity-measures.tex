@@ -54,7 +54,7 @@
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
 \begin{frame}
-    \frametitle{Motivation }
+    \frametitle{Motivation}
     \Large
 
     \begin{backgroundblock}{10mm}{30mm}
@@ -71,7 +71,7 @@
     \only<1>{
     \begin{itemize}
         \item How to organize these items?
-        \item What knowledge components should be use?
+        \item What knowledge components should be used?
         \item Are there some anomalies?
         \item \dots
     \end{itemize}
@@ -93,6 +93,18 @@
     \frametitle{General approach}
     \centering
     \includegraphics[width=.9\linewidth]{figures/general-approach}
+\end{frame}
+% ------------------------------------------------------------------------------
+% --------------------------- SLIDE --------------------------------------------
+\begin{frame}
+    \frametitle{Research questions}
+    \centering
+    \Large
+    \begin{itemize}
+        \item What similarity measures is suitable for EDM?
+        \item How much data we need?
+        \item How to combine more types of learner data?
+    \end{itemize}
 \end{frame}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
@@ -167,13 +179,31 @@
 % --------------------------- SLIDE --------------------------------------------
 \begin{frame}
     \frametitle{Evaluation - correlation of measures}
-    \includegraphics[width=\linewidth]{figures/measures-correlations}
-\end{frame}
-% ------------------------------------------------------------------------------
-% --------------------------- SLIDE --------------------------------------------
-\begin{frame}
-    \frametitle{Evaluation - correlation of measures}
-    \includegraphics[width=\linewidth]{figures/measures-correlations2}
+
+    \begin{itemize}
+        \item Cohen - \textbf{Pearson}
+        \item Ochiai - \textbf{Jaccard}
+        \item Yule
+        \item Sokal - the most different
+    \end{itemize}
+
+    \only<2>{
+    Second level of similarity
+        \begin{itemize}
+            \item brings change
+            \item larger for smaller datasets
+        \end{itemize}
+    }
+
+    \begin{backgroundblock}{10mm}{20mm}
+        \hspace{0.5\linewidth}
+        \only<2>{\hspace{0.2\linewidth}}
+        \includegraphics[width=0.5\linewidth]{figures/measures-correlations}<1>
+        \includegraphics[width=0.3\linewidth]{figures/measures-correlations2}<2>
+    \end{backgroundblock}
+
+
+
 \end{frame}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
@@ -203,12 +233,6 @@
 \begin{frame}
     \frametitle{Evaluation}
     \includegraphics[width=\linewidth]{figures/measure-histograms}
-\end{frame}
-% ------------------------------------------------------------------------------
-% --------------------------- SLIDE --------------------------------------------
-\begin{frame}
-    \frametitle{Evaluation}
-    \includegraphics[width=\linewidth]{figures/measure-histograms2}
 \end{frame}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
@@ -259,6 +283,7 @@
     \begin{itemize}
         \item additional information
         \item correctness and response time to one measure of success
+        \item response: $0/1 \rightarrow [0,1]$
     \end{itemize}
 
     \vfill
@@ -269,11 +294,11 @@
 \end{frame}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
-\begin{frame}
-    \frametitle{Respose times - MathMat}
-    \centering
-    \includegraphics[width=\linewidth]{figures/matmat-projection-time}
-\end{frame}
+%\begin{frame}
+%    \frametitle{Respose times - MathMat}
+%    \centering
+%    \includegraphics[width=\linewidth]{figures/matmat-projection-time}
+%\end{frame}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
 \begin{frame}
@@ -281,8 +306,7 @@
     \begin{itemize}
         \item Math Garden - large datasets: $\sim 1M$ of answer on $30$ items
         \item small impact of time information - correlation $>0.9$
-        \item but what we have not such large dataset
-
+        \item but what with smaller datasets?
     \end{itemize}
 \end{frame}
 % ------------------------------------------------------------------------------
@@ -296,12 +320,14 @@
 % --------------------------- SLIDE --------------------------------------------
 \begin{frame}
     \frametitle{Conclusion}
+
+
     \Large
     \begin{itemize}
-        \item Pearson (Cohen) and Yule are better
+        \item \textbf{Pearson metric is a good default}
+        \item Pearson, Cohen and Yule are good
         \item second level improve results
         \item we should check that we have sufficient data
-        \item response time can give different point of view
         \item response time can help with small datasets
     \end{itemize}
 \end{frame}

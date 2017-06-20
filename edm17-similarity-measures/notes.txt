@@ -1,17 +1,22 @@
-uvedení do kotextu, aplikovatelné i v jiných konceptech
+1 - uvedení do kotextu, aplikovatelné i v jiných konceptech
 zmímit odkud bereme data
 
-pouze první odpovědi, učení zanedbáno
-
-zmínit alternativní jména metrik
-jen demonstrační, možná oddělat vzorečky
-
-moc similar, nějak vymyslet nebo z toho udělat vtip =)
-
-nebodeme používat dále Cohen a Ochiai
-
-větší datasety menší rozdíly
+7 - zmínit alternativní přístupy
 
 
+8 - pouze první odpovědi, učení zanedbáno
 
-pearson je univerzální
+10 -zmínit alternativní jména metrik
+    Pearson (Phi)
+    Cohen (Cohen's kappa)
+    Ochiai - cosine similarity
+    Sokal - accuracy
+
+
+12 - moc similar, nějak vymyslet nebo z toho udělat vtip =)
+
+13 - nebodeme používat dále Cohen a Ochiai
+
+14 - větší datasety menší rozdíly
+
+25 - pearson je univerzální
