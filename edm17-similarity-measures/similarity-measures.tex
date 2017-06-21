@@ -138,23 +138,38 @@
         \bottomrule
     \end{tabular}
 \end{frame}
-% ------------------------------------------------------------------------------% --------------------------- SLIDE --------------------------------------------
+% ------------------------------------------------------------------------------
+% --------------------------- SLIDE --------------------------------------------
 \begin{frame}
     \frametitle{Similarity measures}
 
-    \begin{center}
-        \begin{tabular}{ll}
-             Yule & $S_y = (ad-bc) / (ad+bc)$ \\[2mm]
-             Pearson  &   $S_p = (ad - bc) /
-             \sqrt{(a+b)(a+c)(b+d)(c+d)}$ \\[2mm]
-             Cohen &   $S_c = (P_o - P_e) / (1 - P_e)$ \\
-             & $ P_o = (a + d) / n$ \\
-             & $P_e = ((a+b)(a+c) + (b+d)(c+d)) / n^2$\\[2mm]
-             Sokal & $S_s = (a+d) / (a+b+c+d)$ \\[2mm] % Sokal-Michener
-             Jaccard & $S_j = a / (a+b+c)$ \\[2mm]
-             Ochiai &  $S_o = a / \sqrt{(a+b)(a+c)}$ \\
-        \end{tabular}
-    \end{center}
+    \begin{tabular}{ll}
+         \textbf{Yule} & $S_y = (ad-bc) / (ad+bc)$ \\[2mm]
+         \textbf{Pearson}  &   $S_p = (ad - bc) /
+         \sqrt{(a+b)(a+c)(b+d)(c+d)}$ \\[2mm]
+         \textbf{Cohen} &   $S_c = (P_o - P_e) / (1 - P_e)$ \\
+         & $ P_o = (a + d) / n$ \\
+         & $P_e = ((a+b)(a+c) + (b+d)(c+d)) / n^2$\\[2mm]
+         \textbf{Sokal} & $S_s = (a+d) / (a+b+c+d)$ \\[2mm] % Sokal-Michener
+         \textbf{Jaccard} & $S_j = a / (a+b+c)$ \\[2mm]
+         \textbf{Ochiai} &  $S_o = a / \sqrt{(a+b)(a+c)}$ \\
+    \end{tabular}
+\end{frame}
+% ------------------------------------------------------------------------------
+% --------------------------- SLIDE --------------------------------------------
+\begin{frame}
+    \frametitle{Similarity measures}
+
+    \begin{tabular}{ll}
+         \textbf{Yule} &  \\[2mm]
+         \textbf{Pearson}  &  (Matthews) correlation coefficient, Phi coefficient \\[2mm]
+         \textbf{Cohen} &  Cohen’s kappa  \\
+         &  \\
+         & \\[2mm]
+         \textbf{Sokal} & Sokal-Michener, simple matching\\[2mm] % Sokal-Michener
+         \textbf{Jaccard} & \\[2mm]
+         \textbf{Ochiai} &  cosine similarity \\
+    \end{tabular}
 \end{frame}
 % ------------------------------------------------------------------------------
 % --------------------------- SLIDE --------------------------------------------
@@ -169,7 +184,7 @@
     \frametitle{Second level of similarity}
     \Large
     \begin{itemize}
-        \item 2 items are similar if they are \emph{similarly} similar to other items
+        \item 2 items are close if they are \emph{similarly} close to other items
         \item more information used
         \item noise reduction
         \item necessary for some follow up algorithms
