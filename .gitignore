@@ -160,3 +160,7 @@ TSWLatexianTemp*
 
 # vim
 *.sw[opn]
+
+# emacs auto files, backups
+auto/
+*~
