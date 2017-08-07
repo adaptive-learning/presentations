@@ -108,7 +108,7 @@
     \begin{itemize}
     \item Receiver Operating Characteristics (ROC) curve
     \item relative ranking of predictions
-    \item widely used in many domains, but also widely critized
+    \item widely used in many domains, but also widely criticized
     \end{itemize}
   \end{itemize}
 \end{frame}
@@ -162,7 +162,7 @@
 
   \begin{itemize}
   \item RMSE: baseline rate of events
-  \item AUC: heterogenity of data
+  \item AUC: heterogeneity of data
   \end{itemize}
 
   \bigskip
@@ -185,7 +185,7 @@
 
   \bigskip
 
-  \emph{Do not relly on AUC as a single metric to measure model performance.}  
+  \emph{Do not rely on AUC as a single metric to measure model performance.}  
 \end{frame}
 
 \begin{frame}
