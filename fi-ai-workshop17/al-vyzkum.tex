@@ -1,0 +1,191 @@
+\documentclass[bigger]{beamer}
+
+\usepackage{czech}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\useinnertheme{rounded}
+\usecolortheme{crane}
+\setbeamerfont{block title}{size={}}
+
+\newcommand{\img}[2]{\begin{center}\includegraphics[width=#1\linewidth]{#2}\end{center}}
+
+\title{Adaptive Learning\\Přehled výzkumu a vývoje}
+
+\author{Radek Pelánek\\[10mm]
+  \includegraphics[width=.2\linewidth]{al-logo-researchgroup}}
+
+\date{2017}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+  \img{1}{slepemapy}
+\end{frame}
+
+\begin{frame}
+  \img{.9}{anatom}
+\end{frame}
+
+\begin{frame}
+  \img{.95}{poznavacka}
+\end{frame}
+
+\begin{frame}
+  \img{.8}{umimecesky}
+\end{frame}
+
+\begin{frame}
+  \img{.95}{matmat}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Předmět zájmu}
+
+  obecný cíl: \emph{efektivnější výuka díky využití dat}
+
+  \bigskip
+
+  společné prvky činností:
+  \begin{itemize}
+  \item vývoj prakticky používaných výukových systémů
+  \item systémy ukládají data
+  \end{itemize}
+
+  \bigskip
+
+  využití dat:
+  \begin{itemize}
+  \item automatizovaná personalizace, adaptivita
+  \item analýzy usměrňující vývoj
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Data}
+
+  nejpoužívanější systémy (Slepé mapy, Umíme česky):
+  \begin{itemize}
+  \item uživatelé:
+    \begin{itemize}
+    \item denně: $\sim$ 1000 návštěvníků, 50000 odpovědí
+    \item celkově: desítky milionů odpovědí
+    \end{itemize}
+  \item rozsah: $\sim$ 10000 položek
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Nejrelevantnější výzkumné komunity}
+
+  \begin{itemize}
+  \item Educational Data Mining
+  \item Learning Analytics
+  \item Artificial Intelligence in Education
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Výzkum}
+
+  \begin{itemize}
+  \item modelování znalostí studentů
+  \item analýzy výukových otázek (struktura, obtížnost)
+  \item algoritmy pro konstrukci otázek
+  \item \textbf{evaluace} modelů, systémů
+  \end{itemize}
+
+  \bigskip
+
+  strojové učení, statistika, zpracování dat, inspirace z kognitivních a
+  pedagogických věd
+\end{frame}
+
+\begin{frame}
+  \frametitle{Příklady výzkumu I}
+
+  \emph{Elo-based Learner Modeling for the Adaptive Practice of Facts} (Journal
+  of User Modeling and User-Adapted Interaction, 2017) 
+
+  \bigskip
+
+  \begin{itemize}
+  \item Elo systém pro hodnocení šachistů
+  \item modifikace systému pro využití ve výukových systémech
+  \end{itemize}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Příklady výzkumu II}
+
+  \emph{Metrics for Evaluation of Student Models} (Journal of Educational Data
+  Mining, 2015)
+
+  \bigskip
+
+  \begin{itemize}
+  \item modely predikují, zda student odpoví správně/špatně
+  \item jak měřit kvalitu těchto modelů?
+  \item metriky: RMSE, MAE, AUC, accuracy\ldots
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Příklady výzkumu III}
+
+  \emph{Impact of Data Collection on Interpretation and Evaluation of Student
+    Models} (Learning Analytics \& Knowledge, 2016)
+
+  \bigskip
+
+  \begin{itemize}
+  \item metodické aspekty sběru dat a evaluace
+  \item zpětné vazby mezi modely a sběrem dat
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Příklady výzkumu IV}
+
+  \emph{Evaluation of an Adaptive Practice System for Learning Geography Facts}
+  (Learning Analytics \& Knowledge, 2016)
+
+  \emph{Impact of Adaptive Educational System Behaviour on Student Motivation } (Artificial Intelligence in Education, 2015)
+
+  \bigskip
+
+  \begin{itemize}
+  \item AB experimenty
+  \item porovnání algoritmů pro výběr otázky
+  \item vyhodnocení: dopad na motivaci a efektivitu učení
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+   \frametitle{Odpoledne: Ukázky systémů a analýz}
+
+   \begin{itemize}
+   \item \url{slepemapy.cz}
+   \item \url{umimecesky.cz}
+   \item \url{umimematiku.cz}
+   \item \url{umimeanglicky.cz}
+   \item \url{poznavackaprirody.cz}
+   \item \url{anatom.cz}
+   \item \url{robomise.cz}
+   \end{itemize}
+---
+\medskip
+
+\emph{Bezvadná věc. Škoda, že už nechodím do školy...}
+
+\medskip
+---
+\medskip
+
+\emph{...díky této hře jsem nejlepší ve třídě a jsem teď hodně chytrá}
+
+\end{frame}
+
+\end{document}
