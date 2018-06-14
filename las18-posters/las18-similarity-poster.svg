@@ -4008,8 +4008,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.39882131"
-     inkscape:cx="1512.4903"
-     inkscape:cy="1301.0934"
+     inkscape:cx="1057.3993"
+     inkscape:cy="1902.8667"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4040,7 +4040,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6504,7 +6504,7 @@
          x="423.33334"
          y="-248.04167"
          style="stroke-width:0.26458332px"
-         id="tspan39037-6-6-9-3">In each steps there are</tspan><tspan
+         id="tspan39037-6-6-9-3">In each step there are</tspan><tspan
          sodipodi:role="line"
          x="423.33334"
          y="-237.45834"

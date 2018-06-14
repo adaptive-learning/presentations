@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8720"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="las18-observational-poster.svg">
+   sodipodi:docname="las18-observational-poster.svg"
+   inkscape:export-filename="/home/xpelanek/aisa/vyzkum/presentations/las18-posters/las18-observational-poster.png"
+   inkscape:export-xdpi="599.99573"
+   inkscape:export-ydpi="599.99573">
   <defs
      id="defs8714">
     <marker
@@ -5617,9 +5620,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497476"
-     inkscape:cx="1174.5273"
-     inkscape:cy="2503.4518"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="807.84194"
+     inkscape:cy="1856.9542"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5649,7 +5652,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
