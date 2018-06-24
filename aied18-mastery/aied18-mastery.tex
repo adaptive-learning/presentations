@@ -29,10 +29,22 @@
 \frame{\titlepage}
 
 \begin{frame}
+  \frametitle{Type of Research}
+
+  \begin{center}
+    conceptual paper, mathematical model, simulated data
+  \end{center}
+%  based on practical experience with development of learning applications
+  
+  \bigskip
+
+  \img{.7}{umime-prehled}
+\end{frame}
+
+\begin{frame}
   \frametitle{Mastery Learning}
 
   \img{1}{mastery-learning}
-
 \end{frame}
 
 \begin{frame}
@@ -96,7 +108,7 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{Emmision Probabilities}
+  \frametitle{Emission Probabilities}
 
   \img{.7}{hmm-model-examples1}
 \end{frame}
@@ -117,6 +129,16 @@
   \bigskip
   student state estimate = probability distribution over states\\
   $\rightarrow$ uncertainty
+
+
+  \begin{center}
+    $\Downarrow$
+
+    \bigskip
+    \bigskip
+    \textbf{two} thresholds
+  \end{center}
+  
 \end{frame}
 
 \begin{frame}
@@ -125,6 +147,7 @@
   \img{}{hmm-model-demo1}
 \end{frame}
 
+
 \begin{frame}
   \frametitle{Experiments}
 
@@ -132,7 +155,7 @@
 
   \bigskip
 
-  Comparision with other mastery criteria:
+  Comparison with other mastery criteria:
   \begin{itemize}
   \item N consecutive correct
   \item Exponential moving average
@@ -141,21 +164,26 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{Comparison with Simple Criteria}
+  \frametitle{Comparison with Exponential Moving Average}
 
   \begin{itemize}
-  \item N consecutive correct
+  \item parameters: 
     \begin{itemize}
-    \item low noise in observations -- similar decisions
-    \item high noise in observations -- better decisions by LogisticHMM
+    \item weight of exponential smoothing
+    \item threshold
     \end{itemize}
-  \item Exponential moving average
-    \begin{itemize}
-    \item parameters: weight of exponential smoothing, threshold
-    \item similar decisions achievable by suitable choice of parameters
-    \item setting of parameters difficult
-    \end{itemize}
+  \item suitable choice of parameters $\Rightarrow$ similar decisions as
+    LogisticHMM
+  \item setting of parameters difficult
   \end{itemize}
+
+  % \begin{itemize}
+  % \item N consecutive correct
+  %   \begin{itemize}
+  %   \item low noise in observations -- similar decisions
+  %   \item high noise in observations -- better decisions by LogisticHMM
+  %   \end{itemize}
+  % \end{itemize}
 \end{frame}
 
 \begin{frame}
