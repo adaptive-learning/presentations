@@ -3955,7 +3955,7 @@
        inkscape:stockid="Arrow1Lend">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path4841-6-8-9"
          inkscape:connector-curvature="0" />
@@ -3970,7 +3970,7 @@
        inkscape:stockid="Arrow1Lend">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path4841-6-7-7"
          inkscape:connector-curvature="0" />
@@ -3985,7 +3985,7 @@
        inkscape:stockid="Arrow1Lend">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path4841-6-74"
          inkscape:connector-curvature="0" />
@@ -4000,7 +4000,7 @@
        inkscape:stockid="Arrow1Lend">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path4841-4-9"
          inkscape:connector-curvature="0" />
@@ -4015,7 +4015,7 @@
        inkscape:stockid="Arrow1Lend">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path4841-8"
          inkscape:connector-curvature="0" />
@@ -6916,6 +6916,51 @@
          id="path16565"
          d="M 0,0 H 843 V 276 H 0 Z" />
     </clipPath>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker47564-5-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path47562-5-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker47564-5-2-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path47562-5-1-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker47564-5-2-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path47562-5-1-6-4"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -6924,9 +6969,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39882131"
-     inkscape:cx="1026.2278"
-     inkscape:cy="1178.763"
+     inkscape:zoom="0.56401851"
+     inkscape:cx="958.59129"
+     inkscape:cy="753.04019"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6943,7 +6988,7 @@
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="false"
      inkscape:snap-bbox="false"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-to-guides="false">
     <inkscape:grid
        type="xygrid"
@@ -6965,7 +7010,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 0"
-     style="display:inline"
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
      sodipodi:insensitive="true">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#d7eef4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.9005848;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -6986,23 +7031,23 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect7352"
        width="529.16669"
-       height="131.23969"
+       height="152.45319"
        x="31.75"
-       y="153.61264" />
+       y="149.90852" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect7352-1"
        width="529.16669"
        height="161.38161"
        x="31.75"
-       y="306.06583" />
+       y="319.82413" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect7352-1-2"
        width="529.16669"
-       height="202.41016"
+       height="195.8427"
        x="31.75"
-       y="490.42316" />
+       y="499.19742" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect7352-7"
@@ -7020,51 +7065,52 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,544)">
+     transform="translate(0,544)"
+     style="stroke-linecap:butt;stroke-linejoin:round">
     <text
        id="text2815"
        y="-480.875"
        x="118.38931"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#164450;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#164450;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
          y="-480.875"
          x="118.38931"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;line-height:0;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#164450;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;line-height:0;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#164450;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan9308">Measuring Students' Performance </tspan></text>
     <text
        id="text2819"
        y="-427.95825"
        x="190.61964"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
          y="-427.95825"
          x="190.61964"
          id="tspan2821"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.05502987px;line-height:0;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332px">Radek Pelánek</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.05502987px;line-height:0;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">Radek Pelánek</tspan></text>
     <text
        id="text2844"
        y="-427.95825"
        x="310.74115"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
          id="tspan2848"
          y="-427.95825"
          x="310.74115"
          sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.05502987px;line-height:0;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332px">Masaryk University Brno, Czech Republic</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.05502987px;line-height:0;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">Masaryk University Brno, Czech Republic</tspan></text>
     <text
        id="text2819-3"
        y="-427.95825"
        x="51.466385"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
          y="-427.95825"
          x="51.466385"
          id="tspan2821-6"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.05502987px;line-height:0;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332px">Tomáš Effenberger</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.05502987px;line-height:0;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">Tomáš Effenberger</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#164450;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -7075,10 +7121,11 @@
          id="tspan9312"
          x="178.24335"
          y="-454.41666"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#164450;stroke-width:0.26458332px">on Programming Tasks</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#164450;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">on Programming Tasks</tspan></text>
     <g
        id="g4225"
-       transform="matrix(0.3982544,0,0,0.3982544,71.792515,555.08622)">
+       transform="matrix(0.3982544,0,0,0.3982544,71.792515,555.08622)"
+       style="stroke-linecap:butt;stroke-linejoin:round">
       <text
          inkscape:export-ydpi="100"
          inkscape:export-xdpi="100"
@@ -7086,13 +7133,13 @@
          id="text3897-1-5-3-7-8"
          y="-887.21234"
          x="1015.5757"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;marker:none;enable-background:accumulate"
          xml:space="preserve"><tspan
            y="-887.21234"
            x="1015.5757"
            id="tspan3899-2-4-7-99-8"
            sodipodi:role="line"
-           style="font-size:40px;line-height:1.25">Adaptive</tspan></text>
+           style="font-size:40px;line-height:1.25;stroke-linecap:butt;stroke-linejoin:round">Adaptive</tspan></text>
       <text
          inkscape:export-ydpi="100"
          inkscape:export-xdpi="100"
@@ -7100,13 +7147,13 @@
          id="text3901-3-7-62-1-0"
          y="-837.21234"
          x="1015.5757"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;marker:none;enable-background:accumulate"
          xml:space="preserve"><tspan
            y="-837.21234"
            x="1015.5757"
            id="tspan3903-6-4-1-4-7"
            sodipodi:role="line"
-           style="font-size:40px;line-height:1.25">Learning</tspan></text>
+           style="font-size:40px;line-height:1.25;stroke-linecap:butt;stroke-linejoin:round">Learning</tspan></text>
       <ellipse
          ry="10"
          rx="15"
@@ -7195,13 +7242,13 @@
          id="text3905-8-4"
          y="-807.21234"
          x="890.57574"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;marker:none;enable-background:accumulate"
          xml:space="preserve"><tspan
            y="-807.21234"
            x="890.57574"
            id="tspan3907-3-6"
            sodipodi:role="line"
-           style="font-size:16px;line-height:1.25">Research group, Masaryk university Brno</tspan></text>
+           style="font-size:16px;line-height:1.25;stroke-linecap:butt;stroke-linejoin:round">Research group, Masaryk university Brno</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -7213,36 +7260,20 @@
          id="tspan38847"
          x="63.5"
          y="-44.354919"
-         style="stroke-width:0.26458332px" /></text>
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#216778;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        x="42.333332"
-       y="-369.22098"
+       y="-373.45438"
        id="text38873"><tspan
          sodipodi:role="line"
          id="tspan38871"
          x="42.333332"
-         y="-369.22098"
-         style="font-size:11.28888893px;fill:#216778;stroke-width:0.26458332px"><tspan
-           style="font-weight:bold;font-size:11.28888893px;fill:#216778"
+         y="-373.45438"
+         style="font-size:11.28888893px;fill:#216778;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-weight:bold;font-size:11.28888893px;fill:#216778;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan38875">Motivation</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-       x="47.625"
-       y="-353.34598"
-       id="text39035"><tspan
-         sodipodi:role="line"
-         x="47.625"
-         y="-353.34598"
-         style="stroke-width:0.26458332px"
-         id="tspan39037">binary success provides too little information</tspan><tspan
-         sodipodi:role="line"
-         x="47.625"
-         y="-342.76263"
-         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         id="tspan19003">for student and tutor modeling</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -7253,29 +7284,29 @@
          id="tspan39049"
          x="449.79166"
          y="289.02008"
-         style="stroke-width:0.26458332px" /></text>
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#216778;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        x="42.333332"
-       y="-214.70416"
+       y="-204.12085"
        id="text38873-3"><tspan
          sodipodi:role="line"
          id="tspan38871-6"
          x="42.333332"
-         y="-214.70416"
-         style="font-weight:bold;font-size:11.28888893px;fill:#216778;stroke-width:0.26458332px">Case study: Design of a performance measure</tspan></text>
+         y="-204.12085"
+         style="font-weight:bold;font-size:11.28888893px;fill:#216778;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">Case study: Design of a performance measure</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#216778;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        x="42.333332"
-       y="-33.200001"
+       y="-23.675009"
        id="text38873-3-5"><tspan
          sodipodi:role="line"
          id="tspan38871-6-3"
          x="42.333332"
-         y="-33.200001"
-         style="font-weight:bold;font-size:11.28888893px;fill:#216778;stroke-width:0.26458332px">Interaction with domain modeling</tspan></text>
+         y="-23.675009"
+         style="font-weight:bold;font-size:11.28888893px;fill:#216778;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">Interaction with domain modeling</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#216778;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -7286,7 +7317,7 @@
          id="tspan38871-6-3-6"
          x="42.333332"
          y="191.16667"
-         style="font-weight:bold;font-size:11.28888893px;fill:#216778;stroke-width:0.26458332px">Summary</tspan></text>
+         style="font-weight:bold;font-size:11.28888893px;fill:#216778;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">Summary</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -7297,91 +7328,62 @@
          id="tspan7448"
          x="446.633"
          y="254.66667"
-         style="stroke-width:0.26458332px">www.fi.muni.cz/adaptivelearning/</tspan></text>
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round">www.fi.muni.cz/adaptivelearning/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        x="42.333332"
-       y="208.09999"
+       y="210.74579"
        id="text39035-1-2"><tspan
          sodipodi:role="line"
          x="42.333332"
-         y="208.09999"
-         style="stroke-width:0.26458332px"
-         id="tspan39037-7-7">1. Instead of using binary success, the currently prevalent choice of performance measure,</tspan><tspan
-         sodipodi:role="line"
-         x="42.333332"
-         y="218.68332"
+         y="210.74579"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         id="tspan18856">we propose to to use a few discrete performance levels with universal interpretation,</tspan><tspan
+         id="tspan39037-7-7">Instead of using binary success, the currently prevalent choice of performance measure,</tspan><tspan
          sodipodi:role="line"
          x="42.333332"
-         y="229.26666"
+         y="221.32912"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan18856">we propose to use a few discrete performance levels with universal interpretation,</tspan><tspan
+         sodipodi:role="line"
+         x="42.333332"
+         y="231.91246"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan90855">such as failed, weak, good, and excellent.</tspan><tspan
          sodipodi:role="line"
          x="42.333332"
-         y="239.84999"
+         y="242.49579"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         id="tspan18874" /><tspan
-         sodipodi:role="line"
-         x="42.333332"
-         y="250.43332"
-         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         id="tspan18882">2. Design of a performance measure is nontrivial and involves interaction with domain modeling. </tspan></text>
+         id="tspan5612" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-       x="47.625"
-       y="-329.53336"
-       id="text39035-3"><tspan
-         sodipodi:role="line"
-         x="47.625"
-         y="-329.53336"
-         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         id="tspan19005"><tspan
-   id="tspan19007"
-   style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter">using detailed observations compli</tspan>cates the</tspan><tspan
-         sodipodi:role="line"
-         x="47.625"
-         y="-318.95001"
-         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         id="tspan19009">development of adaptive learning systems</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-       x="47.625"
-       y="-303.07486"
+       x="44.021492"
+       y="-328.3663"
        id="text39035-3-5"><tspan
          sodipodi:role="line"
-         x="47.625"
-         y="-303.07486"
-         style="stroke-width:0.26458332px"
-         id="tspan39037-6-6"><tspan
-   style="font-weight:bold"
-   id="tspan19013">proposal</tspan>: use discrete performance</tspan><tspan
-         sodipodi:role="line"
-         x="47.625"
-         y="-292.49152"
+         x="44.021492"
+         y="-320.47119"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         id="tspan19011">measures with just a few distinct values </tspan></text>
-    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.79400009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 42.333333,-355.99173 h 2.645833"
-       id="path31586"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.79400009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 42.333334,-332.17917 h 2.645833"
-       id="path31586-6"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.79400009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 42.333334,-305.72077 h 2.645833"
-       id="path31586-4"
-       inkscape:connector-curvature="0" />
+         id="tspan4865" /><tspan
+         sodipodi:role="line"
+         x="44.021492"
+         y="-309.88788"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan4871"><tspan
+   style="font-weight:bold;fill:#008080;stroke-linecap:butt;stroke-linejoin:round"
+   id="tspan4873">Proposal</tspan><tspan
+   style="font-weight:bold;fill:#008080;stroke-linecap:butt;stroke-linejoin:round"
+   id="tspan5698">:</tspan><tspan
+   style="font-weight:bold;stroke-linecap:butt;stroke-linejoin:round"
+   id="tspan5700"> </tspan>Use discrete performance</tspan><tspan
+         sodipodi:role="line"
+         x="44.021492"
+         y="-299.30453"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan4861">measures with just a few distinct values.</tspan></text>
     <g
-       transform="matrix(1.3782159,0,0,1.3782159,263.79597,-646.94393)"
+       transform="matrix(1.3782159,0,0,1.3782159,263.79597,-638.47727)"
        id="layer1-7"
        inkscape:label="Layer 1"
        style="stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">
@@ -7401,20 +7403,20 @@
            style="font-size:18.66666603px;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
            id="flowPara3719">(A) Binary performance</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,67.734788,258.94083)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
          id="flowRoot3713-3"
          xml:space="preserve"><flowRegion
            id="flowRegion3715-5"
-           style="stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"><rect
+           style="fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"><rect
              y="20.358757"
              x="25.253813"
              height="134.3503"
              width="389.91888"
              id="rect3717-6"
-             style="stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+             style="fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
            id="flowPara3769"
-           style="font-size:18.66666603px;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">(B) Discrete performance</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,144.75007,258.8416)"
+           style="font-size:18.66666603px;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">(B) Discrete performance</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,137.45502,258.8416)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
          id="flowRoot3713-3-9"
          xml:space="preserve"><flowRegion
@@ -7427,7 +7429,7 @@
              id="rect3717-6-2"
              style="stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
            id="flowPara3769-7"
-           style="font-size:18.66666603px;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">(C) Using raw data</flowPara></flowRoot>      <flowRoot
+           style="font-size:18.66666603px;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">(C) Detailed observations</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,0,197)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
          id="flowRoot4636"
@@ -7539,127 +7541,122 @@
          height="8.8647175"
          width="58.601784"
          id="rect4634-8"
-         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.17893955;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+         style="fill:#87cdde;fill-opacity:1;stroke:#008080;stroke-width:0.17893955;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,87.443423,189.7014)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
          id="flowRoot3713-36-5"
          xml:space="preserve"><flowRegion
            id="flowRegion3715-0-8"
-           style="stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"><rect
+           style="fill:#ffffff;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"><rect
              y="20.358757"
              x="25.253813"
              height="134.3503"
              width="389.91888"
              id="rect3717-62-4"
-             style="stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
-           style="font-size:14.66666698px;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+             style="fill:#ffffff;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+           style="font-size:14.66666698px;fill:#ffffff;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
            id="flowPara3719-6-3">observations</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,85.75257,249.87009)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.12;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.01px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.12;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.01px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
          id="flowRoot3713-36-8-7"
          xml:space="preserve"><flowRegion
-           style="line-height:0.12;word-spacing:-0.01px;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+           style="line-height:0.12;word-spacing:-0.01px;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
            id="flowRegion3715-0-7-1"><rect
-             style="line-height:0.12;word-spacing:-0.01px;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+             style="line-height:0.12;word-spacing:-0.01px;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
              y="20.358757"
              x="25.253813"
              height="62.207432"
              width="274.91888"
              id="rect3717-62-9-3" /></flowRegion><flowPara
            id="flowPara4715-8"
-           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">task</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">task</flowPara><flowPara
            id="flowPara4789-0"
-           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">evaluation</flowPara></flowRoot>      <flowRoot
+           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">evaluation</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,40.380098,249.60838)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.12;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.01px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.12;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.01px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
          id="flowRoot3713-36-8-2-9"
          xml:space="preserve"><flowRegion
-           style="line-height:0.12;word-spacing:-0.01px;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+           style="line-height:0.12;word-spacing:-0.01px;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
            id="flowRegion3715-0-7-0-7"><rect
-             style="line-height:0.12;word-spacing:-0.01px;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+             style="line-height:0.12;word-spacing:-0.01px;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
              y="20.358757"
              x="25.253813"
              height="62.207432"
              width="274.91888"
              id="rect3717-62-9-2-9" /></flowRegion><flowPara
            id="flowPara4717-9-9"
-           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">feedback</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">feedback</flowPara><flowPara
            id="flowPara4715-0-3"
-           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">to students</flowPara></flowRoot>      <flowRoot
+           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">to students</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,63.019394,249.6084)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.12;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.01px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.12;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.01px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
          id="flowRoot3713-36-8-9-2"
          xml:space="preserve"><flowRegion
-           style="line-height:0.12;word-spacing:-0.01px;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+           style="line-height:0.12;word-spacing:-0.01px;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
            id="flowRegion3715-0-7-9-4"><rect
-             style="line-height:0.12;word-spacing:-0.01px;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+             style="line-height:0.12;word-spacing:-0.01px;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
              y="20.358757"
              x="25.253813"
              height="62.207432"
              width="274.91888"
              id="rect3717-62-9-4-3" /></flowRegion><flowPara
            id="flowPara4715-1-7"
-           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">student</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">student</flowPara><flowPara
            id="flowPara4785-1"
-           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">modeling</flowPara></flowRoot>      <g
-         transform="translate(0,8.5278548)"
-         id="g25378"
-         style="stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">
-        <rect
-           style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.12990542;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-           id="rect4634-0-2"
-           width="30.88537"
-           height="8.8647175"
-           x="91.18441"
-           y="217.89235" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3713-36-3-2"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.30000001;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
-           transform="matrix(0.26458333,0,0,0.26458333,48.474056,211.50551)"><flowRegion
-             id="flowRegion3715-0-78-0"
-             style="line-height:0.30000001;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"><rect
-               id="rect3717-62-8-2"
-               width="389.91888"
-               height="134.3503"
-               x="25.253813"
-               y="20.358757"
-               style="line-height:0.30000001;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
-             style="font-size:10.66666698px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
-             id="flowPara4830-1">{failed, poor,</flowPara><flowPara
-             style="font-size:10.66666698px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
-             id="flowPara13895">good, excellent}</flowPara></flowRoot>      </g>
-      <path
+           style="font-size:13.33333397px;line-height:0.60000002;text-align:center;word-spacing:-0.01px;text-anchor:middle;fill:#008080;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">modeling</flowPara></flowRoot>      <rect
+         y="226.4202"
+         x="91.18441"
+         height="8.8647175"
+         width="30.88537"
+         id="rect4634-0-2"
+         style="fill:#87cdde;fill-opacity:1;stroke:#008080;stroke-width:0.12990542;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,48.474056,220.03336)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.30000001;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+         id="flowRoot3713-36-3-2"
+         xml:space="preserve"><flowRegion
+           style="line-height:0.30000001;fill:#ffffff;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion3715-0-78-0"><rect
+             style="line-height:0.30000001;fill:#ffffff;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round"
+             y="20.358757"
+             x="25.253813"
+             height="134.3503"
+             width="389.91888"
+             id="rect3717-62-8-2" /></flowRegion><flowPara
+           id="flowPara4830-1"
+           style="font-size:10.66666698px;line-height:0.30000001;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">{failed, poor,</flowPara><flowPara
+           id="flowPara13895"
+           style="font-size:10.66666698px;line-height:0.30000001;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.72557575;stroke-linecap:butt;stroke-linejoin:round">good, excellent}</flowPara></flowRoot>      <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path5120-7"
          d="m 79.780743,207.30918 14.0495,19.04958"
-         style="fill:none;stroke:#000000;stroke-width:0.19197525px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-09)" />
+         style="fill:none;stroke:#008080;stroke-width:0.19197525px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-09)" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path5120-6-5"
          d="m 133.47353,207.30918 -14.04958,19.04958"
-         style="fill:none;stroke:#000000;stroke-width:0.19197525px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-0-1)" />
+         style="fill:none;stroke:#008080;stroke-width:0.19197525px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-0-1)" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path5120-0-1"
          d="M 93.811606,235.23864 83.182785,254.48622"
-         style="fill:none;stroke:#000000;stroke-width:0.16142322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-7-8)" />
+         style="fill:none;stroke:#008080;stroke-width:0.16142322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-7-8)" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path5120-0-5-7"
          d="m 106.19482,235.23864 0.45706,19.32981"
-         style="fill:none;stroke:#000000;stroke-width:0.16142322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-7-9-3)" />
+         style="fill:none;stroke:#008080;stroke-width:0.16142322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-7-9-3)" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path5120-0-53-4"
          d="m 119.44397,235.23864 9.73147,19.73007"
-         style="fill:none;stroke:#000000;stroke-width:0.16142322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-7-97-7)" />
+         style="fill:none;stroke:#008080;stroke-width:0.16142322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-7-97-7)" />
       <rect
          y="198.44554"
          x="6.2188287"
@@ -7807,7 +7804,7 @@
     <g
        id="g11998"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="translate(-8.624372,66.414306)">
+       transform="translate(-8.624372,80.17264)">
       <g
          transform="matrix(0.52050394,0,0,0.52050394,223.85179,-275.26645)"
          style="stroke-width:0.67776197;stroke-linecap:butt;stroke-linejoin:round"
@@ -12271,7 +12268,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.45982561,0,0,0.45982561,164.3222,12.748388)"
+       transform="matrix(0.45982561,0,0,0.45982561,164.3222,-6.8307785)"
        inkscape:label="threshold_progression"
        id="g12027"
        style="stroke-width:0.76719904;stroke-linecap:butt;stroke-linejoin:round">
@@ -19633,9 +19630,9 @@
            y="1630.8199"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara18852"
-         style="stroke-linecap:butt;stroke-linejoin:round"></flowPara></flowRoot>    <path
+         style="stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>    <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.79400003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:url(#marker47564-5);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 465.88632,7.8549691 c 1.6119,40.2308899 -37.04167,31.7499999 -71.4375,34.3958299"
+       d="m 306.01818,-28.932054 c -23.50123,0.09518 20.20193,50.115323 -55.0125,79.604764"
        id="path32668-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -19653,72 +19650,72 @@
            y="2912.7996"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara18866"
-         style="stroke-linecap:butt;stroke-linejoin:round"></flowPara></flowRoot>    <text
+         style="stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        x="46.387428"
-       y="-197.00899"
+       y="-183.25072"
        id="text39035-1"><tspan
          sodipodi:role="line"
          x="46.387428"
-         y="-197.00899"
+         y="-183.25072"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan39037-2">adaptive learning system for</tspan><tspan
          sodipodi:role="line"
          x="46.387428"
-         y="-186.42566"
+         y="-172.66739"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan18958">introductory programming </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        x="46.387428"
-       y="-171.60957"
+       y="-157.8513"
        id="text39035-3-7"><tspan
          sodipodi:role="line"
          x="46.387428"
-         y="-171.60957"
+         y="-157.8513"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan39037-6-0">85 tasks, 9 levels x 3 sublevels</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        x="46.387428"
-       y="-155.73503"
+       y="-141.97676"
        id="text39035-3-5-9"><tspan
          sodipodi:role="line"
          x="46.387428"
-         y="-155.73503"
+         y="-141.97676"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan39037-6-6-3">performance measures based on</tspan><tspan
          sodipodi:role="line"
          x="46.387428"
-         y="-145.1517"
+         y="-131.39343"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan18968">(A) executions count</tspan><tspan
          sodipodi:role="line"
          x="46.387428"
-         y="-134.56836"
+         y="-120.8101"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan18972">(B) solving time, thresholds per sublevel</tspan><tspan
          sodipodi:role="line"
          x="46.387428"
-         y="-123.98503"
+         y="-110.22676"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan18976">(C) solving time, thresholds per problem</tspan></text>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.79400009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 41.095754,-199.65541 h 2.645833"
+       d="m 41.095754,-185.89707 h 2.645833"
        id="path31586-60"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.79400009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 41.095755,-174.25534 h 2.645833"
+       d="m 41.095755,-160.497 h 2.645833"
        id="path31586-6-6"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.79400009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 41.095755,-158.38034 h 2.645833"
+       d="m 41.095755,-144.622 h 2.645833"
        id="path31586-4-2"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -19735,18 +19732,269 @@
            y="1119.4614"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara18966"
-         style="stroke-linecap:butt;stroke-linejoin:round"></flowPara></flowRoot>    <text
+         style="stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        x="42.228638"
-       y="-91.725128"
+       y="-75.320946"
        id="text39035-1-6"><tspan
          sodipodi:role="line"
          x="42.228638"
-         y="-91.725128"
+         y="-75.320946"
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          id="tspan18958-8"><tspan
    style="font-weight:bold;stroke-linecap:butt;stroke-linejoin:round"
-   id="tspan19001">Result</tspan>: The choice of performance measure matters. Different reasonable choices ead to very different measurements.</tspan></text>
+   id="tspan19001">Result</tspan>: The choice of performance measure matters. Different reasonable choices lead to very different measurements.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="44.021492"
+       y="-357.51575"
+       id="text39035-3-5-8"><tspan
+         sodipodi:role="line"
+         x="44.021492"
+         y="-357.51575"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan39037-6-6-30">Binary success provides too little information</tspan><tspan
+         sodipodi:role="line"
+         x="44.021492"
+         y="-346.9324"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan4861-7">for student and tutor modeling.</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4936"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-544)"><flowRegion
+         id="flowRegion4938"
+         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect4940"
+           width="87.758598"
+           height="419.98758"
+           x="72.714272"
+           y="634.83698"
+           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara4942"
+         style="stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="44.021492"
+       y="-333.68832"
+       id="text39035-3-5-4"><tspan
+         sodipodi:role="line"
+         x="44.021492"
+         y="-333.68832"
+         style="line-height:1.25;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan4877-5">Using detailed observations hinders reuse, and</tspan><tspan
+         sodipodi:role="line"
+         x="44.021492"
+         y="-323.10498"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan4861-9">complicates the development of learning systems.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="44.021492"
+       y="-285.62286"
+       id="text39035-3-5-97"><tspan
+         sodipodi:role="line"
+         x="44.021492"
+         y="-285.62286"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan4859-9">Performance levels and interpretation:</tspan><tspan
+         sodipodi:role="line"
+         x="44.021492"
+         y="-275.03952"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5665">– week performance<tspan
+   style="fill:#999999;stroke-linecap:butt;stroke-linejoin:round"
+   id="tspan5159"> . . . </tspan>too difficult task</tspan><tspan
+         sodipodi:role="line"
+         x="44.021492"
+         y="-264.45621"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5679">– good performacne <tspan
+   id="tspan5165"
+   style="fill:#999999;stroke-linecap:butt;stroke-linejoin:round">. . . </tspan>appropriate task</tspan><tspan
+         sodipodi:role="line"
+         x="44.021492"
+         y="-253.87286"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5143">– excellent performance <tspan
+   style="fill:#999999;stroke-linecap:butt;stroke-linejoin:round"
+   id="tspan5163">. . . </tspan>too easy task  </tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.79400003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:url(#marker47564-5-2);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 380.57171,-12.882791 c -23.50123,0.07792 -21.68662,5.6099375 -53.82243,36.711895"
+       id="path32668-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="309.19324"
+       y="-26.286219"
+       id="text39035-3-5-9-0"
+       inkscape:transform-center-x="33.775488"
+       inkscape:transform-center-y="21.578784"><tspan
+         sodipodi:role="line"
+         x="309.19324"
+         y="-26.286219"
+         style="font-style:italic;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan18976-1">outlying task (too difficult / too early)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="383.21185"
+       y="-10.417143"
+       id="text39035-3-5-9-0-9"
+       inkscape:transform-center-x="33.775488"
+       inkscape:transform-center-y="21.578784"><tspan
+         sodipodi:role="line"
+         x="383.21185"
+         y="-10.417143"
+         style="font-style:italic;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan18976-1-0">outlying problem set</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.79400003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:url(#marker47564-5-2-5);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 239.12,137.77176 c -23.50123,0.0779 -25.39664,-7.73692 -32.5932,-44.224483"
+       id="path32668-4-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.79400003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:url(#marker47564-5-2-5-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 240.11492,124.64105 c -23.50123,0.0779 -25.72835,-22.66371 -32.92491,-59.151268"
+       id="path32668-4-2-7-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="243.19217"
+       y="127.01746"
+       id="text39035-3-5-9-0-9-6"
+       inkscape:transform-center-x="33.775488"
+       inkscape:transform-center-y="21.578784"><tspan
+         sodipodi:role="line"
+         x="243.19217"
+         y="127.01746"
+         style="font-style:italic;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan18976-1-0-4">threshold for good performance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="242.99785"
+       y="139.85522"
+       id="text39035-3-5-9-0-9-6-7"
+       inkscape:transform-center-x="33.775488"
+       inkscape:transform-center-y="21.578784"><tspan
+         sodipodi:role="line"
+         x="242.99785"
+         y="139.85522"
+         style="font-style:italic;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan18976-1-0-4-4">threshold for excellent performance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="42.14183"
+       y="-3.6750128"
+       id="text39035-3-5-8-6"><tspan
+         sodipodi:role="line"
+         x="42.14183"
+         y="-3.6750128"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5395"><tspan
+   style="font-weight:bold;stroke-linecap:butt;stroke-linejoin:round"
+   id="tspan5592">Issue</tspan>: Flaws in the domain model</tspan><tspan
+         sodipodi:role="line"
+         x="42.14183"
+         y="6.90832"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5403">impact the accuracy of a</tspan><tspan
+         sodipodi:role="line"
+         x="42.14183"
+         y="17.491653"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5407">performance measure.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="41.073788"
+       y="74.143814"
+       id="text39035-3-5-8-6-6"><tspan
+         sodipodi:role="line"
+         x="41.073788"
+         y="74.143814"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5439"><tspan
+   style="font-weight:bold;stroke-linecap:butt;stroke-linejoin:round"
+   id="tspan5437">Solution</tspan>: Impose a constraint</tspan><tspan
+         sodipodi:role="line"
+         x="41.073788"
+         y="84.72715"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5467">on the threshold progression</tspan><tspan
+         sodipodi:role="line"
+         x="41.073788"
+         y="95.310478"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5477">(e.g., a constant increase</tspan><tspan
+         sodipodi:role="line"
+         x="41.073788"
+         y="105.89381"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5457">between sublevels).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="40.514988"
+       y="123.63657"
+       id="text39035-3-5-8-6-8"><tspan
+         sodipodi:role="line"
+         x="40.514988"
+         y="123.63657"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5407-0"><tspan
+   style="font-weight:bold;stroke-linecap:butt;stroke-linejoin:round"
+   id="tspan5590">Side effect</tspan>: The flaws in the</tspan><tspan
+         sodipodi:role="line"
+         x="40.514988"
+         y="134.21991"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5529">domain model are detected.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="42.14183"
+       y="35.234402"
+       id="text39035-3-5-8-6-7"><tspan
+         sodipodi:role="line"
+         x="42.14183"
+         y="35.234402"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5570"><tspan
+   style="font-weight:bold;stroke-linecap:butt;stroke-linejoin:round"
+   id="tspan5576">Consequence</tspan>: Unconstrained</tspan><tspan
+         sodipodi:role="line"
+         x="42.14183"
+         y="45.817734"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5564">optimization leads to a wild</tspan><tspan
+         sodipodi:role="line"
+         x="42.14183"
+         y="56.401066"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5606">performance measure.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="41.757599"
+       y="249.84274"
+       id="text39035-1-2-6"><tspan
+         sodipodi:role="line"
+         x="41.757599"
+         y="249.84274"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         id="tspan5612-2">Design of a performance should take into account possible interaction with domain modeling. </tspan></text>
   </g>
 </svg>
