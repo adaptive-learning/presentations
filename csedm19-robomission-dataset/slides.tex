@@ -1,0 +1,146 @@
+\documentclass[bigger]{beamer}
+
+\usepackage{booktabs}
+
+\usetheme{metropolis}
+\metroset{block=fill}
+%\useinnertheme{circles}
+%\usecolortheme{crane} % use default
+
+%\setbeamerfont{block title}{size={}}
+%\beamertemplatenavigationsymbolsempty
+%\setbeamertemplate{footline}{%
+%   \raisebox{5pt}{\makebox[\paperwidth]{\hfill\makebox[10pt]{%
+%   \color{gray}\scriptsize\insertframenumber}}}}
+
+\title{Blockly Programming Dataset}
+
+\author{Tom\'a\v{s} Effenberger\\[4mm]
+%Masaryk University Brno\\
+%Czech Republic
+\includegraphics[width=.3\linewidth]{al-logo}\\[6mm]
+}
+
+\newcommand{\img}[2]{
+  \begin{center}
+    \includegraphics[width=#1\linewidth]{figures/#2}
+  \end{center}
+}
+
+
+\date{CSEDM 2019}
+
+\begin{document}
+
+\frame{\titlepage}
+% - popular way to introduce children into programming
+% - researchers need data
+% - there is HoC dataset x only 2 tasks (still interesting research)
+% - single exercise limits generalizability
+
+\begin{frame}
+  \frametitle{Block-Based Programming}
+
+% - dataset from data from RoboMission, a block-based programming game
+%   in which students write programs for a spaceship in space
+% - describe the task in the screenshot
+
+% Programming Game:
+% - grid world
+% - goal
+% - game elements
+% - block based programming
+% - execution at any time
+
+  \img{0.6}{robomission-on-yellow-to-left}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{RoboMission}
+
+  % Advantages of the dataset:
+  \begin{itemize}
+  \item online learning system  % you can try the game
+  \item published models and algorithms  % you can read abou the used models and algorithms
+  \item open source code % you can see implementation of the models
+  \item 9 levels, 85 tasks  % divided into 9 levels
+  % recommendation, mastery decision
+  \item sequential execution, loops, conditions
+  \item block-based programming
+  \end{itemize}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Data}
+
+  % collected over 15 months
+
+  \begin{itemize}
+  \item 1.4 million program snapshots  (events) % logged at each edit and execution
+    % CSV file, format similar to ProgSnap2
+    % time, student, task, granularity (edit, execution), success
+  \item 85\,000 task session (student-task pairs)
+    % aggregated
+    % student, task, start, end, success, time, number of edits/execs
+  \item 85 tasks
+    % allows to explore learning dynamics beyond a single task
+    % setting and sample solution
+    % + problem sets csv: mapping between tasks and levels, common setting
+  \item 5\,800 students
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Grid World and Code Representation}
+
+  \img{1.}{task-setting-solution}
+
+  % - world: fields, unique letters for background colors (lower) and objects (upper)
+  % - solution: MiniCode single line, unique letters (capital for control structures)
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Usage Example: Exploring State Space Graphs}
+
+  \img{1.}{statespace-clean-path}
+
+% - check for the code quality (e.g., detecting unexpected solutions)
+% - prioritization, e.g. hint generation for the more problematic states
+% - student performance measurement (did he do at least a few steps towards a solution?)
+% - similarity of tasks, difficulty of tasks
+\end{frame}
+
+\begin{frame}
+  \frametitle{Usage Examples}
+
+  % We have already used it for:
+  \begin{itemize}
+  \item exploring state space graphs  % "transitions between code states in state space graphs"
+  \item measuring similarity of programming tasks
+  \item measuring performance on programming tasks
+  \item measuring difficulty of programming tasks
+  \end{itemize}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Summary}
+
+  % Remind the advantages:
+  \begin{itemize}
+  \item block-based introductory programming
+  \item 85 tasks
+  \item 1.4 program snapshots  % high-granularity data % (each edit)
+  \item comprehensive documentation  %
+  \item free online game
+  \item published models
+  \item open source code
+  \end{itemize}
+\end{frame}
+
+\end{document}
