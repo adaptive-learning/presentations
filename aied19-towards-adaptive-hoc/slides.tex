@@ -4,14 +4,6 @@
 
 \usetheme{metropolis}
 \metroset{block=fill}
-%\useinnertheme{circles}
-%\usecolortheme{crane} % use default
-
-%\setbeamerfont{block title}{size={}}
-%\beamertemplatenavigationsymbolsempty
-%\setbeamertemplate{footline}{%
-%   \raisebox{5pt}{\makebox[\paperwidth]{\hfill\makebox[10pt]{%
-%   \color{gray}\scriptsize\insertframenumber}}}}
 
 \title{Towards Adaptive Hour of Code}
 
@@ -66,7 +58,7 @@
     % or event the full time series of created/executed programs.
 
   % [student] How to predict a future performance of a student on introductory programming tasks?
-  \item How to predict the future performance?
+  \item How to predict future performance?
   % - Hypothesis: For use in outer loop (online), simple model enough (if good DM and PM).
   % - more complex model such as LogisticHMM useful for offline analysis (setting parameters).
 
@@ -75,6 +67,16 @@
   % - mastery learning, adapted to non-binary performance and specific domain model
   % - random choice within a (sub)level to maximize (safe) exploration
   \end{enumerate}
+
+  % Answering RQ1-3 are partially steps towards RQ4, but they are also important
+  % on their own, e.g. for presentation of problem
+
+  % These are sort of "standard questions", but they have not been answered
+  % sufficiently well for the context of intro programming, e.g., most
+  % research: binary performance, only 2 problems - we have several programming
+  % exercises with tens of problems + possibility to apply interventions in our
+  % systems.  My goal: answer them such that the results can be applied, e.g.,
+  % in Hour of Code, KA.
 \end{frame}
 
 
@@ -84,7 +86,9 @@
   \begin{itemize}
   % Proxy goal for learning and engagement: optimal challenge:
   \item state of flow, zone of proximal development
+  % + cognitive load theory, scaffolding
 
+  % This is rather a "technical framework".
   % Decomposition of the problem/ALS:
   \item models: domain, performance, student, tutor
 
@@ -94,7 +98,8 @@
   \item adaptivity: outer loop (mastery learning), design loop % (human-in-the-loop)
   \end{itemize}
 
-  % TODO: Simpler diagram.
+  % Just an illustration of an example of the models currently used in RoboMission.
+  % TODO(maybe): Maybe remove if there is not enough time / simplify the diagram.
   \img{0.9}{robomission-tutor-model}
 
 \end{frame}
@@ -130,21 +135,55 @@
 \end{frame}
 
 
+%\begin{frame}
+%  \frametitle{Summary}
+%  \begin{itemize}
+%  % Context, Motivation: efficient & engaging HoC
+%  \item adaptive learning of introductory programming
+%
+%  % Framework
+%  \item flow, mastery learning, design loop
+%
+%  % Contribution to AIED: answering the research questions concerning:
+%  \item domain, performance, student, and tutor modeling
+%  % - in the context of introductory programming
+%  % - focus on evaluation and methodological issues
+%  % - mention validation of replicability ("Expected contributions" box below)
+%
+%  % Methods:
+%  \item exploratory analysis, online and simulated experiments
+%  \end{itemize}
+%
+%  \begin{block}{Expected contributions}
+%  \begin{itemize}
+%  \item recommendations on modeling approaches and evaluation methods in the
+%  context of introductory programming
+%  \item replicability of previous results on a broader set of exercises and problems
+%  \end{itemize}
+%  \end{block}
+%  % Stress the number of exercises and range of problem difficulties.
+%  % Request: rcmd on previous studies (both their own and from others)
+%  % that they maybe don't believe and would like to know if the results
+%  % generalize.
+%\end{frame}
+
+
 \begin{frame}
-  \frametitle{Summary}
+  \frametitle{Expected contributions to AIED}
+  % (also serves as a summary)
   \begin{itemize}
   % Context, Motivation: efficient & engaging HoC
-  \item adaptive learning of introductory programming
 
-  % Framework
-  \item flow, mastery learning, design loop
-
-  % Contribution to AIED: answering the research questions concerning:
-  \item domain, performance, student, and tutor modeling
-        % focus on evaluation and methodological issues
-
-  % Methods:
-  \item exploratory analysis, online and simulated experiments
+  \item recommendations on modeling approaches\\
+        in the context of introductory programming
+    % domain, performance, student, and tutor modeling
+    % = ~ answering the research questions concerning
+  \item focus on evaluation and methodological issues
+  \item replicability of previous results on a broader set of exercises and tasks
+    % Stress the number of exercises and range of problem difficulties.
+    % Request: rcmd on previous studies (both their own and from others)
+    % that they maybe don't believe and would like to know if the results
+    % generalize.
   \end{itemize}
 \end{frame}
 
