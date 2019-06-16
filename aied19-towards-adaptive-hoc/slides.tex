@@ -27,12 +27,13 @@
 \frame{\titlepage}
 
 \begin{frame}
-  \frametitle{Introductory Programming}
   % High-level motivation + context:
+  \frametitle{Introductory Programming}
 
-% - HoC = popular way to introduce children into programming, used by millions
-% - but: not personalized
-% - aim: adaptive HoC -> more efficient and engaging learning
+% - HoC = popular way to introduce children into programming,
+%   used by millions of students every year
+% - however, it is not personalized; it offers the same sequence of tasks to everybody
+% - aim of the proposed research project: adaptive HoC -> more efficient and engaging learning
 
   \img{0.6}{robomission-on-yellow-to-left}
 
@@ -44,39 +45,39 @@
   % "expected contribution to AIED" = answering these RQs
 
   \emph{(in the context of introductory programming)}
-  % 4 high-level RQs, one concerning DM, PM, SM, and TM.
+  % I would like to address four high-level RQs:
+  % // 4 high-level RQs, one concerning DM, PM, SM, and TM.
   \begin{enumerate}
-  % [domain] How to organize tasks for a personalized Hour of Code  activity?
-  \item How to organize tasks for a personalized Hour of Code?  % TODO: better RQ?
-        % ~ what is a suitable domain model?
-        % e.g., hierarchical linearly ordered PS (our hypothesis)
+  % [domain] How to organize tasks for a personalized Hour of Code activity?
+  \item How to organize tasks for a personalized Hour of Code?
+        % ~ what is a suitable domain model that would facilitate a personalized behavior?
+        % // e.g., hierarchical linearly ordered PS (our hypothesis)
 
   % [performance] How to measure students' performance on programming tasks?
   \item How to measure performance on programming tasks?
     % Binary success not enough.
     % Other performance aspects: time, #edits, #executions, quality of program,
-    % or event the full time series of created/executed programs.
+    % or even the full time series of created/executed programs.
 
   % [student] How to predict a future performance of a student on introductory programming tasks?
   \item How to predict future performance?
+  % - ... leveraging programming concepts and considering integration skills
   % - Hypothesis: For use in outer loop (online), simple model enough (if good DM and PM).
-  % - more complex model such as LogisticHMM useful for offline analysis (setting parameters).
+  % - // more complex model such as LogisticHMM useful for offline analysis (setting parameters).
 
+  % Answering RQ1-3, although important on their own, are mainly steps towards RQ4.
   % [tutor] How to recommend the next task to practice in Hour of Code activities?
   \item How to recommend the next task to practice?
-  % - mastery learning, adapted to non-binary performance and specific domain model
-  % - random choice within a (sub)level to maximize (safe) exploration
+  % - e.g., is mastery learning appropriate and how to adapt it to non-binary
+  %   performance and specific domain model?
+  % - How to introduce some safe randomization to collect diverse data useful for research
+  %   while not harming the students?
   \end{enumerate}
 
-  % Answering RQ1-3 are partially steps towards RQ4, but they are also important
-  % on their own, e.g. for presentation of problem
-
-  % These are sort of "standard questions", but they have not been answered
-  % sufficiently well for the context of intro programming, e.g., most
-  % research: binary performance, only 2 problems - we have several programming
-  % exercises with tens of problems + possibility to apply interventions in our
-  % systems.  My goal: answer them such that the results can be applied, e.g.,
-  % in Hour of Code, KA.
+  % - These are sort of "conventional questions" ("boring"?) but I argue, that
+  %   they have not been answered sufficiently well for the context of intro
+  %   programming, e.g., most research: binary performance; (only 2 problems, etc.)
+  % - my goal: answer them such that the results can be applied, e.g., in Hour of Code, KA.
 \end{frame}
 
 
@@ -84,16 +85,19 @@
   \frametitle{Theoretical Framework}
 
   \begin{itemize}
-  % Proxy goal for learning and engagement: optimal challenge:
+  % As suggested by theories of flow and ZPC, to achieve efficient learning
+  % and engagement, we need to provide student with an optimal challenge.
   \item state of flow, zone of proximal development
-  % + cognitive load theory, scaffolding
+  % // + cognitive load theory, scaffolding
 
-  % This is rather a "technical framework".
-  % Decomposition of the problem/ALS:
+  % (NOTE: This is rather a "technical framework".)
+  % But that is a difficult problem, so it is useful to decompose it into
+  % several parts, e.g:
   \item models: domain, performance, student, tutor
 
+  % These models can then be adapted to the students.
   % Adaptivity at different time scales:
-  % - outer loop -- adapt to a particular student
+  % - outer loop -- adapt to a particular student by an action (rcm) after each task
   % - design loop -- improve the whole system (adapting to a population)
   \item adaptivity: outer loop (mastery learning), design loop % (human-in-the-loop)
   \end{itemize}
@@ -109,15 +113,18 @@
   \frametitle{Methods}
 
   \begin{itemize}
+    % - In our lab, we develop two systems for teaching introductory programming,
+    % - several programming exercises with tens of problems, which provides
+    % me with a plenty of diverse data for exploratory analysis.
+    % Multiple exercises: important for generalizability of results.
   \item exploratory analysis, multiple exercises
     \begin{itemize}
-    \item interface: Blockly x Python
     \item robot on grid, turtle graphics, numbers/text processing
+    \item interface: Blockly x Python
     \end{itemize}
     % The exploratory analysis is not purely observational, because
     % we can also change the system (e.g. domain model) and evaluate
     % the intervention (design loop).
-    % Multiple exercises: important for generalizability of results.
 
   \item online experiments to compare tutor models
     % "quasi-experiment?
@@ -128,8 +135,8 @@
     \end{itemize}
 
   \item simulated experiments to explore methodological issues
-    % Biases: (mastery) attrition, self-selection, learning, adaptive rcm, ...
-    % How do biases influence the observed data and results?
+    % - biases: (mastery) attrition, self-selection, learning, adaptive rcm, ...
+    % - to understand how can the biases influence the observed data and results
   \end{itemize}
 
 \end{frame}
