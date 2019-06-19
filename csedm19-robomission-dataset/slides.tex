@@ -4,8 +4,7 @@
 
 \usetheme{metropolis}
 \metroset{block=fill}
-%\useinnertheme{circles}
-%\usecolortheme{crane} % use default
+\setbeamercolor{background canvas}{bg=white}
 
 %\setbeamerfont{block title}{size={}}
 %\beamertemplatenavigationsymbolsempty
@@ -33,28 +32,29 @@
 \begin{document}
 
 \frame{\titlepage}
-% - Block-based programming activities like HoC are a popular way to
-%   introduce children into programming
-% - Currently, only few datasets available that could researchers use
-%   to study modeling approaches in this context.
-% - there is HoC dataset x only 2 tasks (still interesting research)
-% - single exercise limits generalizability
+% - My goal in the next 5 minutes is to present you a dataset
+%   from a system for learning introductory programming
+%   and to help you decide whether it could be useful for you
+%  (... which is a euphemism for "persuade" ...)
 
 \begin{frame}
   \frametitle{Block-Based Programming}
 
-% - dataset from data from RoboMission, a block-based programming game
-%   in which students create programs for a spaceship in space
-% - describe the task in the screenshot
+% - Block-based programming activities like HoC are a popular way to
+%   introduce children into programming.
+% - Currently, only few datasets available that could researchers use
+%   to study modeling approaches in this context.
+% - There is HoC dataset x only 2 tasks (still interesting research)
+% - Single exercise limits generalizability
+% - -> that's why we have decided to publish a dataset from data from
+%   RoboMission, a block-based programming game developed in our lab
+%   In RoboMission, students create programs for a spaceship to guide
+%   it through the space, avoid obstacles and collect diamonds.
+% - The game was designed so that it allows for a variety of difficulties
+%   and for practice basic programming concepts such as sequences of commands,
+%   loops and conditional commands.
 
-% Programming Game:
-% - grid world
-% - goal
-% - game elements
-% - block based programming
-% - execution at any time
-
-  \img{0.6}{robomission-on-yellow-to-left}
+  \img{1.0}{robomission-tasks}
 
 \end{frame}
 
@@ -65,13 +65,15 @@
   % We tried to make the dataset useful not only for us, but also for
   % other researchers. So, to understand the data and how they were collected:
   \begin{itemize}
-  \item online learning system  % you can try the game
-  \item published models and algorithms  % you can read about the used models and algorithms
-  \item open source code % you can see implementation of the models
-  \item 9 levels, 85 tasks  % divided into 9 levels
-  % recommendation, mastery decision
-  \item sequential execution, loops, conditions
-  \item block-based programming
+  \item freely available online game
+    % ~ you can try the game
+  \item description of system behavior and data collection
+    % ~ you can read about the used models and algorithms in published papers
+  \item open source code
+    % ~ you can see implementation of the models
+  \item broad range of difficulties  % from easy to complex
+  \item 85 tasks  % divided into 9 levels
+    % ~ you can explore learning dynamics across many tasks of diverse difficulty
   \end{itemize}
 \end{frame}
 
@@ -82,18 +84,30 @@
   % collected over 15 months
 
   \begin{itemize}
-  \item 1.4 million program snapshots  (events) % logged at each edit and execution
-    % CSV file, format similar to ProgSnap2
-    % time, student, task, granularity (edit, execution), success
-  \item 85\,000 task session (student-task pairs)
-    % aggregated
-    % student, task, start, end, success, time, number of edits/execs
+  \item 1.4 million program snapshots  (edit / execution) % "logged at each edit and execution"
+    % OMIT: CSV file, format similar to ProgSnap2
+    % OMIT: time, student, task, granularity (edit, execution), success
+  % Omit all technical details, just mention that there are some aux files, e.g.
+  % describing setting and a sample solution of tasks and that details can be
+  % found in the documentation.
+  \item 85\,000 task session (student-task pairs)  % OMIT
+    % OMIT: aggregated
+    % OMIT: student, task, start, end, success, time, number of edits/execs
   \item 85 tasks
     % allows to explore learning dynamics beyond a single task
     % setting and sample solution
-    % + problem sets csv: mapping between tasks and levels, common setting
-  \item 5\,800 students
+    % OMIT: + problem sets csv: mapping between tasks and levels, common setting
+  \item 5\,800 students  % OMIT
   \end{itemize}
+
+  \bigskip
+  \begin{block}{Dataset Documentation}
+  \scriptsize{%
+    \href{https://github.com/adaptive-learning/adaptive-learning-research/tree/master/data/robomission-2019-02-09}{\texttt{%
+    https://github.com/adaptive-learning/adaptive-learning-research\\
+    /tree/master/data/robomission-2019-02-09}}}
+  \end{block}
+
 
 \end{frame}
 
@@ -102,8 +116,11 @@
 
   \img{1.}{task-setting-solution}
 
-  % - world: fields, unique letters for background colors (lower) and objects (upper)
-  % - solution: MiniCode single line, unique letters (capital for control structures)
+  % OMIT: - world: fields, unique letters for background colors (lower) and objects (upper)
+  % - simple and compact text representation for both task sestting and submitted programs
+  % - single letter for each keyword or action, with a context independent meaning
+  % - [TRANSITION] can be expanded to Python, but these short mini-codes are useful
+  %   e.g. because they fit as labels in a graph
 \end{frame}
 
 
@@ -116,6 +133,8 @@
 % - prioritization, e.g. hint generation for the more problematic states
 % - student performance measurement (did he do at least a few steps towards a solution?)
 % - similarity of tasks, difficulty of tasks
+% - EXP: illustration of logging granularity
+% - EXP: illustration of variability of students' trajectories in a single "simple" task
 \end{frame}
 
 \begin{frame}
@@ -135,16 +154,25 @@
   \frametitle{Summary}
 
   \begin{itemize}
-  \item block-based introductory programming
-  \item 1.4 million program snapshots  % fine-grained data % (each edit)
-  \item 85 tasks
+  % \item block-based introductory programming
+  \item 1.4 million program snapshots, 85 tasks  % fine-grained data % (each edit)
   % We strive to make the dataset useful:
-  \item comprehensive documentation  %
-  \item free online game
-  \item published models
+  \item comprehensive data documentation
+  \item freely available online game
+  \item description of system behavior and data collection
   \item open source code
   \end{itemize}
   % You are welcome to download and use the dataset for your own research.
+
+
+  \bigskip
+  \begin{block}{Get the Data}
+  \scriptsize{%
+    \href{https://github.com/adaptive-learning/adaptive-learning-research/tree/master/data/robomission-2019-02-09}{\texttt{%
+    https://github.com/adaptive-learning/adaptive-learning-research\\
+    /tree/master/data/robomission-2019-02-09}}}
+  \end{block}
+
 \end{frame}
 
 \end{document}
