@@ -19,23 +19,42 @@
   \end{center}
 }
 
+\newcommand{\mute}[1]{
+  {\color{gray}{#1}}
+}
+
 
 \date{AIED 2019\\Doctoral Consortium}
 
 \begin{document}
 
 \frame{\titlepage}
+% Move to the next slide right away.
 
 \begin{frame}
   % High-level motivation + context:
   \frametitle{Introductory Programming}
 
 % - HoC = popular way to introduce children into programming,
-%   used by millions of students every year
-% - however, it is not personalized; it offers the same sequence of tasks to everybody
-% - aim of the proposed research project: adaptive HoC -> more efficient and engaging learning
+%   used by millions of students every year.
+% - There are many online learning systems for teaching introducotry programming;
+% - and typically, they are not personalized - they offer the same sequence
+%   of tasks to everybody (which necessarily leads to suboptimal learning experience).
+% - Aim of the proposed research project: IP activities like HoC adaptive.
 
-  \img{0.6}{robomission-on-yellow-to-left}
+    \begin{columns}
+      \column{.6\textwidth}
+      \begin{center}
+        \includegraphics[width=\linewidth]{figures/hour-of-code-sw}
+        \mute{https://hourofcode.com}
+      \end{center}
+
+      \column{.4\textwidth}
+      \begin{center}
+        \includegraphics[width=\linewidth]{figures/robomission-on-yellow-to-left}
+        \mute{https://en.robomise.cz}
+      \end{center}
+    \end{columns}
 
 \end{frame}
 
@@ -51,6 +70,9 @@
   % [domain] How to organize tasks for a personalized Hour of Code activity?
   \item How to organize tasks for a personalized Hour of Code?
         % ~ what is a suitable domain model that would facilitate a personalized behavior?
+        % e.g., how to order the tasks?
+        % (by HoC I don't mean only the original HoC project, but all introducotry programming
+        % activities)
         % // e.g., hierarchical linearly ordered PS (our hypothesis)
 
   % [performance] How to measure students' performance on programming tasks?
@@ -70,8 +92,10 @@
   \item How to recommend the next task to practice?
   % - e.g., is mastery learning appropriate and how to adapt it to non-binary
   %   performance and specific domain model?
-  % - How to introduce some safe randomization to collect diverse data useful for research
+  % - OMIT: How to introduce some safe randomization to collect diverse data useful for research
   %   while not harming the students?
+  % - EXTENSION: examples illustrating concrete problems we are trying to solve (e.g.,
+  % we have these three problems (and 80 more) how to order them?
   \end{enumerate}
 
   % - These are sort of "conventional questions" ("boring"?) but I argue, that
@@ -84,27 +108,38 @@
 \begin{frame}
   \frametitle{Theoretical Framework}
 
-  \begin{itemize}
-  % As suggested by theories of flow and ZPC, to achieve efficient learning
+  % As suggested by theories of flow and ZPD, to achieve efficient learning
   % and engagement, we need to provide student with an optimal challenge.
-  \item state of flow, zone of proximal development
+  %state of flow,
+  \begin{itemize}
+  \item zone of proximal development
   % // + cognitive load theory, scaffolding
 
   % (NOTE: This is rather a "technical framework".)
   % But that is a difficult problem, so it is useful to decompose it into
   % several parts, e.g:
-  \item models: domain, performance, student, tutor
+  \item models:
+  \begin{itemize}
+  \item domain
+  \item performance
+  \item student
+  \item tutor
+  \end{itemize}
 
   % These models can then be adapted to the students.
   % Adaptivity at different time scales:
   % - outer loop -- adapt to a particular student by an action (rcm) after each task
   % - design loop -- improve the whole system (adapting to a population)
-  \item adaptivity: outer loop (mastery learning), design loop % (human-in-the-loop)
+  \item adaptivity:
+  \begin{itemize}
+  \item outer loop (mastery learning)
+  \item design loop (human-in-the-loop)
+  \end{itemize}
   \end{itemize}
 
   % Just an illustration of an example of the models currently used in RoboMission.
-  % TODO(maybe): Maybe remove if there is not enough time / simplify the diagram.
-  \img{0.9}{robomission-tutor-model}
+  % OMIT:
+  % \img{0.9}{robomission-tutor-model}
 
 \end{frame}
 
@@ -122,16 +157,20 @@
     \item robot on grid, turtle graphics, numbers/text processing
     \item interface: Blockly x Python
     \end{itemize}
+    % (analysis ex: how to measure difficulty of programming tasks,
+    %  how to measure similarity between tasks, how to measure performance, ...)
     % The exploratory analysis is not purely observational, because
     % we can also change the system (e.g. domain model) and evaluate
     % the intervention (design loop).
 
   \item online experiments to compare tutor models
+    % OR: "to evaluate whether the recommendation work, whether are students learning sth"
     % "quasi-experiment?
     \begin{itemize}
     \item proxy for learning: performance on \emph{control tasks}
     \item chosen randomly after each problem set
       % Point for discussion: from which subset?
+      % all tasks -> frustration; subset -> biases [transition]
     \end{itemize}
 
   \item simulated experiments to explore methodological issues
