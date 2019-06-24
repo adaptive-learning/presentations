@@ -1,0 +1,143 @@
+\documentclass[bigger]{beamer}
+
+\usepackage{booktabs}
+\usepackage{ulem}
+\useinnertheme{rounded}
+\usecolortheme{crane}
+\setbeamerfont{block title}{size={}}
+
+\title{Item Ordering Biases in Educational Data}
+
+\author{Jaroslav \v{C}ech\'ak and Radek Pel\'anek\\[10mm]
+%Masaryk University Brno\\
+%Czech Republic
+\includegraphics[width=.3\linewidth]{al-logo}
+}
+
+\newcommand{\img}[2]{
+  \begin{center}
+    \includegraphics[width=#1\linewidth]{#2}
+  \end{center}
+}
+
+
+\date{AIED 2019}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+  \frametitle{Biases in Educational Data}
+
+  \begin{itemize}
+      \item implementation specific
+      \item attrition, mastery
+      \item \textbf{item ordering}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Why Does It Matter?}
+  \begin{itemize}
+      \item collected data are used to modify the system
+      \item bias in data $\rightarrow$ misleading conclusion $\rightarrow$ wrong action
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{How to Explore It?}
+  \begin{itemize}
+      \item almost impossible from already collected data
+      \item easy through simulations
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Simulation Setup}
+  \begin{enumerate}
+  \item take an available student
+  \item select an item
+  \item generate a solving time using a model
+  \item repeat
+  \end{enumerate}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Simulation Results}
+
+  \img{1}{problem-ordering-bias}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Simulation Results -- Takeaway}
+
+  \begin{itemize}
+  \item relation between skill and difficulty is important
+  \item randomization helps
+  \item attrition can be a amplify the problem
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Is It Relevant to Me?}
+  \begin{itemize}
+      \item it depends
+      \item are student solving sequences random
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Is It Relevant to Me? (cont.)}
+\img{.9}{ordering-analysis-robomission}
+
+\img{.9}{ordering-analysis-marble}
+\end{frame}
+
+\begin{frame}
+\frametitle{Is It Relevant to Me? (cont.)}
+  \img{1}{ordering-analysis-comparison-all}
+\end{frame}
+
+\begin{frame}
+  \frametitle{How to Combat the Bias}
+  \begin{itemize}
+      \item we want more randomization to reduces bias
+      \item and student to learn efficiently
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{How to Combat the Bias}
+\begin{itemize}
+    \item we want more randomization to reduces bias (explore)
+    \item and student to learn efficiently (exploit)
+    \item explore-exploit tradeoff
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Experiments With Dynamic Ordering}
+  \begin{itemize}
+      \item first $k$ random
+      \item $\epsilon$-greedy
+      \item adaptive periodic $k$
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Experiments With Dynamic Ordering (cont.)}
+  \img{.9}{order-convergence-mean-correlation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Conclusion and Future Work}
+
+  \begin{itemize}
+  \item item ordering bias is real
+  \item finding better ways of detecting it
+  \item more robust methods to overcome it
+  \end{itemize}
+\end{frame}
+
+\end{document}
