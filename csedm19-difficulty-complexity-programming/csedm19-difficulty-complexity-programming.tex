@@ -1,0 +1,213 @@
+\documentclass[bigger]{beamer}
+
+\usepackage{booktabs}
+
+\usetheme{metropolis}
+\metroset{block=fill}
+\setbeamercolor{background canvas}{bg=white}
+
+%\setbeamerfont{block title}{size={}}
+%\beamertemplatenavigationsymbolsempty
+%\setbeamertemplate{footline}{%
+%   \raisebox{5pt}{\makebox[\paperwidth]{\hfill\makebox[10pt]{%
+%   \color{gray}\scriptsize\insertframenumber}}}}
+
+\title{Difficulty and Complexity of Introductory Programming Problems}
+
+\author{Tom\'a\v{s} Effenberger \and \textbf{Jaroslav \v{C}ech\'ak} \and Radek Pel\'anek\\[10mm]
+    %Masaryk University Brno\\
+    %Czech Republic
+    \includegraphics[width=.3\linewidth]{al-logo}
+}
+
+%\author{Tom\'a\v{s} Effenberger\\[4mm]
+%%Masaryk University Brno\\
+%%Czech Republic
+%\includegraphics[width=.3\linewidth]{al-logo}\\[6mm]
+%}
+
+\newcommand{\img}[2]{
+  \begin{center}
+    \includegraphics[width=#1\linewidth]{figures/#2}
+  \end{center}
+}
+
+
+\date{CSEDM 2019}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+  \frametitle{Difficulty vs. Complexity}
+  \begin{center}
+      \emph{Difficulty} relates to the observed performance.
+      % difficulty is measure from student-problem interactions
+      % examples: failure rate, median solving time, and number of attempts
+      
+      \bigskip
+      \emph{Complexity} is an intrinsic characteristic of problems.
+      % complexity is independet of the context such as students solving it
+      % can be computed from problem statement and solution
+      % examples: number of lines, number of flow-of-control structures, and number of programming concepts, 
+  \end{center}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Why bother?}
+  \begin{itemize}
+      \item problem sequencing
+      % often problems are presented from least complex to most complex or from least difficult to most difficult, so we need to know the complexity and difficulty
+      \item cold start problem of difficulty measures
+      % before any student come, there is no data for difficulty measure; can complexity help in giving estimate on the difficulty after the students will come?
+      \item fine tuning problem difficulty
+      % we can change specific dimension of complexity to obtain desired difficulty; for example require more lines of code but keep the same programming concepts
+      \item detecting anomalies among problems
+      % anomalies are problems that have highly different complexity and observed difficulty; maybe they are more "puzzles" than normal problem or they are misplaced in the system.
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Our Goal}
+Explore relationships between:
+\begin{itemize}
+    \item complexity measures
+    % which measures measure the same thing; is it always like that
+    \item difficulty measures
+    % which measures measure the same thing; is it always like that
+    \item complexity and difficulty measures
+    % is the a relation between complexity and difficulty; can complexity predict difficulty?
+\end{itemize}
+% we used correlations analysis and ()PCA) projections
+\end{frame}
+
+\begin{frame}
+\frametitle{Our Data}
+\begin{table}[bt]
+    \centering
+    \begin{tabular}{l l r r r}
+        \toprule
+        Exercise & Interface & Problems & Students & Attempts  \\
+        \midrule
+        RoboMission & blocks & 85 & 3,800 & 62,500  \\
+        Turtle Blockly & blocks & 77 & 11,000 & 63,600  \\
+        Turtle Python & text & 51 & 2,400 & 11,900  \\
+        Python & text & 73 & 2,000 & 10,700  \\
+        \bottomrule
+    \end{tabular}
+    \label{tbl:data}
+\end{table}
+% block-based vs text-based; robot on a grid vs turtle graphics vs problem solving with python (sequences, lists, strings)
+% 4 varying exercises (not just one) so we can test wheter or not our finding generalise
+\end{frame}
+
+\begin{frame}
+\frametitle{Used Measures}
+% we used alot of them for comparison, some make more sense some are more just to explore and make sure it is really the same
+\begin{itemize}
+    \item complexity
+    \begin{itemize}
+        \item instruction length
+        % number of words / characters in the problem statement
+        \item code length
+        % number of lines / characters in the author's solution
+        \item number of unique concepts
+        % 3 levels of granularity; hand-made for each exercise
+    \end{itemize}
+    \item difficulty
+    \begin{itemize}
+        \item failure rate
+        % unsucessful students / all students that have seen the problem
+        \item median solving time
+        % computed from sucessful students
+        \item median number of attempts
+        % attempts is and act of student submitting the solution for an automated assessment
+    \end{itemize}
+    % each difficulty measure also has additional variants obtained from filtering some students; students with less than k visited probelms; taking only attempts from kth visited problem on; k = 3, 5, and 10
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Methods}
+\begin{itemize}
+    \item Spearman's correlation
+    \begin{itemize}
+        \item comparing pairs of measures
+        \item more indepth
+    \end{itemize}
+    \item Principal Component Analysis (PCA)
+    \begin{itemize}
+        \item broader overview
+        \item multiple measures at the same time
+    \end{itemize}
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Spearman's Correlation Example}
+\img{.6}{correlation-robomission}
+% number of concepts version small logical groups; failure rate without any filtering; each dot is a problem; color is level (darker less complex; britger more complex)
+\end{frame}
+
+\begin{frame}
+\frametitle{Spearman's Correlation Examples}
+\img{1}{correlations}
+% illustrates than conclusions drawn from single exercise may not generalize to others; Turtle Python (0.82) vs Python (0.17)
+\end{frame}
+
+\begin{frame}
+\frametitle{Spearman's Correlation Conclusion}
+\begin{itemize}
+    \item conclusions drawn from a single exercise may not generalize
+    % as illustrated on the previous slide
+    \item variants of the same measure correlate well ($r \ge 0.7$)
+    % accross all exercises; exception concepts and failure rate in Python
+\end{itemize}
+% illustrates than conclusions drawn from single exercise may not generalize to others; Turtle Python (0.82) vs Python (0.17)
+\end{frame}
+
+\begin{frame}
+\frametitle{PCA Example}
+\img{.6}{pca-robomission}
+% each point is a single variant of a measure; difficulty vs complexity
+\end{frame}
+
+\begin{frame}
+\frametitle{PCA Results}
+\img{1}{pca}
+% variants of the same measure form close clusters (consistent with Spearman); exception is failure rate in Python
+% median attempts in Python in due to different design choice
+\end{frame}
+
+\begin{frame}
+\frametitle{PCA Conclusion}
+\begin{itemize}
+    \item variants of the same measure form tight clusters
+    \item the same type of measures tend to be closer together
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Complexity for Difficulty Estimation}
+% in our paper we all looked into estimating difficulty using only information bout complexity of the problem
+\begin{itemize}
+    \item using lines of code and number of concepts
+    \item estimate solve time, number of attempts, and failure rate
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Conclusion}
+\begin{itemize}
+    \item conclusions drawn from a single exercise may not generalize
+    \item filtering resulted in highly similar measures
+    \item predicting difficulty using complexity is difficult
+\end{itemize}
+\end{frame}
+
+\end{document}
