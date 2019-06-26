@@ -2,21 +2,26 @@
 
 \usepackage{booktabs}
 \usepackage{ulem}
+\usetheme{Madrid}
 \useinnertheme{rounded}
 \usecolortheme{crane}
 \setbeamerfont{block title}{size={}}
+\setbeamertemplate{navigation symbols}{}
+
 
 \title{Item Ordering Biases in Educational Data}
 
-\author{Jaroslav \v{C}ech\'ak and Radek Pel\'anek\\[10mm]
+\author{\textbf{Jaroslav \v{C}ech\'ak} \and Radek Pel\'anek
 %Masaryk University Brno\\
 %Czech Republic
-\includegraphics[width=.3\linewidth]{al-logo}
+% \includegraphics[width=.3\linewidth]{al-logo}
 }
+
+\institute[]{\\[7mm]\includegraphics[width=.3\linewidth]{al-logo}\\[5mm]}
 
 \newcommand{\img}[2]{
   \begin{center}
-    \includegraphics[width=#1\linewidth]{#2}
+    \includegraphics[width=#1\linewidth]{figures/#2}
   \end{center}
 }
 
@@ -31,10 +36,15 @@
   \frametitle{Biases in Educational Data}
 
   \begin{itemize}
-      \item implementation specific
+      \item self-selection
       \item attrition, mastery
       \item \textbf{item ordering}
   \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Item Ordering Bias Example}
+\img{0.8}{item-ordering-bias-example}
 \end{frame}
 
 \begin{frame}
@@ -48,7 +58,7 @@
 \begin{frame}
   \frametitle{How to Explore It?}
   \begin{itemize}
-      \item almost impossible from already collected data
+      \item difficult from already collected data
       \item easy through simulations
   \end{itemize}
 \end{frame}
@@ -64,18 +74,24 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{Simulation Results}
+\frametitle{Simulation Results}
 
-  \img{1}{problem-ordering-bias}
+  \img{.9}{problem-ordering-bias-a}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Simulation Results (cont.)}
+
+  \img{.9}{problem-ordering-bias}
 \end{frame}
 
 \begin{frame}
   \frametitle{Simulation Results -- Takeaway}
 
   \begin{itemize}
-  \item relation between skill and difficulty is important
+  \item relation between skill and difficulty increases is important
   \item randomization helps
-  \item attrition can be a amplify the problem
+  \item attrition can amplify the problem
   \end{itemize}
 \end{frame}
 
@@ -89,9 +105,9 @@
 
 \begin{frame}
 \frametitle{Is It Relevant to Me? (cont.)}
-\img{.9}{ordering-analysis-robomission}
+\img{.8}{ordering-analysis-robomission}
 
-\img{.9}{ordering-analysis-marble}
+\img{.8}{ordering-analysis-marble}
 \end{frame}
 
 \begin{frame}
@@ -100,20 +116,8 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{How to Combat the Bias}
-  \begin{itemize}
-      \item we want more randomization to reduces bias
-      \item and student to learn efficiently
-  \end{itemize}
-\end{frame}
-
-\begin{frame}
-\frametitle{How to Combat the Bias}
-\begin{itemize}
-    \item we want more randomization to reduces bias (explore)
-    \item and student to learn efficiently (exploit)
-    \item explore-exploit tradeoff
-\end{itemize}
+\frametitle{Exploration–Exploitation Tradeoff}
+\img{.9}{explore-exploit}
 \end{frame}
 
 \begin{frame}
@@ -127,16 +131,21 @@
 
 \begin{frame}
 \frametitle{Experiments With Dynamic Ordering (cont.)}
-  \img{.9}{order-convergence-mean-correlation}
+\img{.8}{order-convergence-mean-correlation-b-v2}
 \end{frame}
 
 \begin{frame}
-  \frametitle{Conclusion and Future Work}
+\frametitle{Experiments With Dynamic Ordering (cont.)}
+  \img{.8}{order-convergence-mean-correlation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Conclusion}
 
   \begin{itemize}
   \item item ordering bias is real
-  \item finding better ways of detecting it
-  \item more robust methods to overcome it
+  \item randomization helps to reduce the bias
+  \item know your biases before you analyze the data
   \end{itemize}
 \end{frame}
 
