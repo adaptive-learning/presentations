@@ -86,9 +86,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="326.03109"
-     inkscape:cy="121.93175"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="339.58831"
+     inkscape:cy="185.23629"
      inkscape:document-units="mm"
      inkscape:current-layer="g2512"
      showgrid="false"
@@ -361,7 +361,7 @@
            id="tspan4772"
            x="142.39207"
            y="105.92529"
-           style="stroke-width:0.26458332px">84 %</tspan></text>
+           style="stroke-width:0.26458332px">15s</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:6.61458302px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -372,7 +372,7 @@
            id="tspan4776"
            x="142.42308"
            y="87.61396"
-           style="stroke-width:0.26458332px">90 %</tspan></text>
+           style="stroke-width:0.26458332px">8s</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:6.61458302px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -383,7 +383,7 @@
            id="tspan4780"
            x="142.42308"
            y="69.302628"
-           style="stroke-width:0.26458332px">94 %</tspan></text>
+           style="stroke-width:0.26458332px">10s</tspan></text>
     </g>
   </g>
 </svg>
