@@ -1,0 +1,173 @@
+\documentclass[bigger]{beamer}
+
+\usepackage{booktabs}
+\usepackage{ulem}
+\useinnertheme{rounded}
+\usecolortheme{crane}
+\setbeamerfont{block title}{size={}}
+
+\title{Learning Analytics Challenges: Trade-offs, Methodology, Scalability}
+
+\author{Radek Pel\'anek\\[10mm]
+%Masaryk University Brno\\
+%Czech Republic
+\includegraphics[width=.3\linewidth]{al-logo}
+}
+
+\newcommand{\img}[2]{
+  \begin{center}
+    \includegraphics[width=#1\linewidth]{#2}
+  \end{center}
+}
+
+\date{LAK 2020}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+  \frametitle{Context}
+
+  \begin{itemize}
+  \item LAK 2020 theme: Shaping the future of the field
+  \item LAK 2019 keynote -- Ryan Baker's challenges
+    \begin{itemize}
+    \item six challenges, focus on clear specification/goals
+    \end{itemize}
+  \end{itemize}
+
+  my argument: we should focus on hard-to-grasp, ill-defined problems 
+\end{frame}
+
+\begin{frame}
+  \frametitle{Netflix Prize}
+
+  \begin{itemize}
+  \item closely related are: recommender systems
+  \item Netflix Prize: 1 million dollars, well-structured task
+  \item impulse for research, lot of attention
+  \item limited practical impact
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Challenges}
+
+  \begin{itemize}
+  \item trade-offs
+  \item methodology
+  \item scalability
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Trade-offs}
+
+  \begin{itemize}
+  \item mastery learning thresholds: over-practice vs under-practice
+  \item engagement vs learning
+  \item hints: support for learning vs risk of gaming
+  \item interests of students vs researchers
+  \item model accuracy vs implementation simplicity
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Trade-offs}
+
+  \begin{itemize}
+  \item hard to perform research studies -- evaluation is difficult
+  \item but practically very important
+  \end{itemize}
+
+  research directions:
+  \begin{itemize}
+  \item visualization of trade-offs
+  \item optimization with multiple criteria
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Methodology}
+
+  Baker's challenges and typical current research:
+  \begin{itemize}
+  \item briefly described data
+  \item results for a specific performance metric (e.g., AUC)
+  \end{itemize}
+
+  methodological details matter:
+  \begin{itemize}
+  \item biases in data
+  \item choice of metric (AUC / RMSE / MAE / ...)
+  \item details of metric computation (averaging)
+  \item train-test set data division
+  \end{itemize}
+
+  Note: Deep knowledge tracing paper
+\end{frame}
+
+\begin{frame}
+  \frametitle{Methodology}
+
+  challenges:
+  \begin{itemize}
+  \item clarification of methodological issues
+  \item replication, reproducation
+  \item ``what works when''
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Scalability}
+
+  \begin{itemize}
+  \item computational scalability: using techniques on real life traffic / data
+  \item development scalability: developing systems under real life constraints
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{My Setting}
+
+  \begin{itemize}
+  \item \texttt{umimeto.org}
+  \item adaptive practice for Czech students (K--12)
+  \item mathematics, Czech, English, programming, ...
+  \item 2 computer scientists + 6 content creators (few hours a week)
+  \item $\sim$ 10\,000 students daily
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Development Scalability}
+
+  \begin{itemize}
+  \item developing and managing content (tens of thousands of items)
+  \item ``debugging perspective'' -- identifying most important bugs
+  \item student models: taking into account implementation simplicity, number
+    of parameters
+  \end{itemize}
+
+  very practical but still can be research-based
+\end{frame}
+
+\begin{frame}
+  \frametitle{Conclusions}
+
+  \begin{itemize}
+  \item well-structured challenges (Netflix Prixe, Baker's challenges)
+    \begin{itemize}
+    \item clear focus on a specific problem
+    \item short-term progress
+    \end{itemize}
+  \item ill-structured challenges
+    \begin{itemize}
+    \item unclear progress
+    \item long-term progress
+    \end{itemize}
+  \end{itemize}
+\end{frame}
+
+\end{document}

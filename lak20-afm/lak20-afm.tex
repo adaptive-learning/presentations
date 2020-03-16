@@ -1,0 +1,178 @@
+\documentclass[bigger]{beamer}
+
+\usepackage{booktabs}
+\usepackage{ulem}
+\useinnertheme{rounded}
+\usecolortheme{crane}
+\setbeamerfont{block title}{size={}}
+
+\title{Exploration of the Robustness and Generalizability of the Additive Factors Model}
+
+\author{Tom{\'a}{\v{s}} Effenberger, \textbf{Radek Pel\'anek}, Jaroslav \v{C}ech\'ak\\[10mm]
+%Masaryk University Brno\\
+%Czech Republic
+\includegraphics[width=.3\linewidth]{al-logo}
+}
+
+\newcommand{\img}[2]{
+  \begin{center}
+    \includegraphics[width=#1\linewidth]{#2}
+  \end{center}
+}
+
+\date{LAK 2020}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+  \frametitle{Student modeling}
+
+  TODO fig umuai paper
+\end{frame}
+
+\begin{frame}
+  \frametitle{Additive Factors Model}
+
+  \begin{itemize}
+  \item family of ``logistic models''
+  \item Q-matrix
+  \item used in many studies in last 10 years -- see paper for overview
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Q-matrix}
+
+  \begin{center}
+      \begin{tabular}{lcccc}
+    \toprule
+    & $-$ & $+$ & $\times$ & () \\
+    \midrule
+    $10+3\times 2$ & 0 & 1 &  1 & 0 \\
+    $(7-4)\times 3$ & 1 & 0 & 1 & 1 \\
+    $2+ (3 + 5)$ & 0 & 1 & 0 & 1 \\
+    $8-(6+2)$ & 1 & 1 & 0 & 1 \\
+    $5-2\times 6$ & 1 & 0 &  1 & 0 \\
+    \bottomrule
+  \end{tabular}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Additive Factors Model}
+
+  \[ P(Y_{ij}|\alpha, \beta, \gamma) = \sigma\left(\alpha_i + \sum_{k=1}^K
+    \beta_k q_{jk} + \sum_{k=1}^K \gamma_k q_{jk} t_{ik}\right) \]
+
+\begin{itemize}
+\item $i$ is student index, $j$ is item index,
+\item $Y_{ij}$ is the binary response of a student $i$ on a item $j$,
+\item $\sigma(x) = 1 / (1 + e^{-x})$ is the standard logistic function,
+\item $K$ is the number of skills, $J$ is the number of items,
+\item $Q$ is the $J\times K$ binary matrix -- $q_{jk}$ is the indicator that
+  item $j$ uses skill $k$,
+\item $\alpha_i$ is the proficiency (prior skill) of a student $i$,
+\item $\beta_k$ is the easiness of skill $k$,
+\item $\gamma_k$ is the learning rate for skill $k$,
+\item $t_{ik}$ is the number of times student $i$ has practiced skill $k$
+  (opportunity count).
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Additive Factors Model}
+
+  TODO illustration log. function...
+\end{frame}
+
+\begin{frame}
+  \frametitle{AFM: Simplifing Assumptions}
+
+  \begin{itemize}
+  \item learning is linear (on the logit scale)
+  \item effect of practice not related to observed performance
+  \item observed outcomes are binary (ignoring response time, common wrong
+    answers)
+  \item Q-matrix is binary
+  \item compensatory model of skills
+  \item ignores difficulty of items
+  \item ignores biases in data
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Learning Curves}
+
+  TODO illustration simple
+\end{frame}
+
+\begin{frame}
+  \frametitle{Types of Learning Curves}
+
+  \begin{center}
+  \begin{tabular}{llll}
+    \toprule
+    Type & Attempt & Opportunity & Success\\
+    \midrule
+    {\it empirical} & observed  & observed  & observed\\
+    {\it marginal}  & observed  & observed  & predicted\\
+    {\it completed} & observed  & simulated & predicted\\
+    {\it idealized} & simulated & simulated & predicted\\
+    \bottomrule
+  \end{tabular}    
+  \end{center}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Learning Curves}
+
+  \includegraphics[width=\linewidth]{learning-curves-simulated-true-model}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Case Study: Programming}
+
+  \begin{itemize}
+  \item RoboMission...
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Results: Model Comparison}
+
+  \begin{center}
+    \includegraphics[width=.5\linewidth]{programming-metrics}
+  \end{center}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Results: Learning Curves}
+
+  \begin{center}
+    \includegraphics[width=.6\linewidth]{learning_curves}
+  \end{center}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Conclusions}
+
+  \begin{itemize}
+  \item studies using AFM: more caution necessary
+  \item AFM has many simplifying assumptions, not satisfied in practice
+  \item possibly misleading conclusions
+  \item basic precaution: comparison with ``item average'' predictor
+  \end{itemize}
+
+\end{frame}
+
+% \begin{frame}
+%   \frametitle{}
+% \end{frame}
+
+
+\end{document}
