@@ -1,7 +1,6 @@
 \documentclass[bigger]{beamer}
 
 \usepackage{booktabs}
-\usepackage{ulem}
 \useinnertheme{rounded}
 \usecolortheme{crane}
 \setbeamerfont{block title}{size={}}
@@ -30,13 +29,19 @@
   \frametitle{Context}
 
   \begin{itemize}
-  \item LAK 2020 theme: Shaping the future of the field
+  \item LAK 2020 theme: Shaping the future of the field\\
+    {\footnotesize \emph{We also invite
+      short papers that explicitly address the theme of this year’s conference
+      by reflecting on past, present, and future research foci in the field of
+      learning analytics}}
   \item LAK 2019 keynote -- Ryan Baker's challenges
     \begin{itemize}
     \item six challenges, focus on clear specification/goals
+    \item inspired by Hilbert's problems
     \end{itemize}
   \end{itemize}
 
+  \bigskip
   my argument: we should focus on hard-to-grasp, ill-defined problems 
 \end{frame}
 
@@ -54,11 +59,11 @@
 \begin{frame}
   \frametitle{Challenges}
 
-  \begin{itemize}
+  \begin{enumerate}
   \item trade-offs
   \item methodology
   \item scalability
-  \end{itemize}
+  \end{enumerate}
 \end{frame}
 
 \begin{frame}
@@ -95,9 +100,21 @@
   \begin{itemize}
   \item briefly described data
   \item results for a specific performance metric (e.g., AUC)
+  \item little attention to methodological details
   \end{itemize}
+  
+  \bigskip
 
-  methodological details matter:
+  $\Rightarrow$ this can be problematic
+
+  \bigskip
+  
+  Case study: \emph{Deep Knowledge Tracing} paper
+\end{frame}
+
+\begin{frame}
+  \frametitle{Methodological Details Matter}
+
   \begin{itemize}
   \item biases in data
   \item choice of metric (AUC / RMSE / MAE / ...)
@@ -105,7 +122,8 @@
   \item train-test set data division
   \end{itemize}
 
-  Note: Deep knowledge tracing paper
+  {\color{gray} \footnotesize The details matter: methodological nuances in the evaluation of student
+    models. User Modeling and User-Adapted Interaction, 2018}
 \end{frame}
 
 \begin{frame}
@@ -114,8 +132,9 @@
   challenges:
   \begin{itemize}
   \item clarification of methodological issues
-  \item replication, reproducation
+  \item dealing with biases
   \item ``what works when''
+  \item systematic replication, reproduction
   \end{itemize}
 \end{frame}
 
@@ -123,8 +142,10 @@
   \frametitle{Scalability}
 
   \begin{itemize}
-  \item computational scalability: using techniques on real life traffic / data
-  \item development scalability: developing systems under real life constraints
+  \item \textbf{computational} scalability: \\
+    using techniques on real life traffic / data
+  \item \textbf{development} scalability:\\
+    developing systems under real life constraints
   \end{itemize}
 \end{frame}
 
@@ -149,24 +170,58 @@
   \item student models: taking into account implementation simplicity, number
     of parameters
   \end{itemize}
-
-  very practical but still can be research-based
 \end{frame}
 
 \begin{frame}
-  \frametitle{Conclusions}
+  \frametitle{Development Scalability: Research Challenges}
+
+  practical issues -- interesting research problems
 
   \begin{itemize}
-  \item well-structured challenges (Netflix Prixe, Baker's challenges)
+  \item item similarity measures
+  \item simple, robust student models
+  \item outlier detection (finding ``bugs'')
+  \item Q-matrix validation/refinement
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Baker's Challenges}
+
+  \begin{enumerate}
+  \item Transferability: The (learning system) Wall
+  \item Effectiveness: Differentiating Interventions and Changing Lives 
+  \item Interpretability: Instructors Speak Spanish, Algorithms Speak Swahili
+  \item Applicability: Knowledge Tracing Beyond the Screen
+  \item Generalizability: The General-Purpose Boredom Detector
+  \item Generalizability: The New York City and Marfa Problem
+  \end{enumerate}
+\end{frame}
+
+\begin{frame}
+  \frametitle{(Dis)Agreements}
+
+  \begin{itemize}
+  \item common points:
     \begin{itemize}
-    \item clear focus on a specific problem
-    \item short-term progress
+    \item research for practical impact
     \end{itemize}
-  \item ill-structured challenges
+  \item difference:
     \begin{itemize}
-    \item unclear progress
-    \item long-term progress
+    \item try to clearly specify the goal, focus on techniques to achieve the
+      goal
+    \item acknowledge that goals are not clear, focus on methodology
     \end{itemize}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Discussion}
+
+  \begin{itemize}
+  \item the main point of this paper was meant to stimulate personal discussion
+    at the conference
+  \item let's have it virtually...
   \end{itemize}
 \end{frame}
 

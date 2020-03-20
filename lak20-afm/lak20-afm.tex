@@ -1,7 +1,6 @@
 \documentclass[bigger]{beamer}
 
 \usepackage{booktabs}
-\usepackage{ulem}
 \useinnertheme{rounded}
 \usecolortheme{crane}
 \setbeamerfont{block title}{size={}}
@@ -29,7 +28,14 @@
 \begin{frame}
   \frametitle{Student modeling}
 
-  TODO fig umuai paper
+  \begin{center}
+    \includegraphics[width=\linewidth]{learner-modeling-context.pdf}
+  \end{center}
+
+  \bigskip
+  \begin{flushright}
+    {\tiny Bayesian Knowledge Tracing, Logistic Models, and Beyond: An Overview of Learner Modeling Techniques}
+  \end{flushright}
 \end{frame}
 
 \begin{frame}
@@ -85,7 +91,9 @@
 \begin{frame}
   \frametitle{Additive Factors Model}
 
-  TODO illustration log. function...
+  \begin{center}
+    \includegraphics[width=.8\linewidth]{afm-illustration}
+  \end{center}
 \end{frame}
 
 \begin{frame}
@@ -99,14 +107,16 @@
   \item Q-matrix is binary
   \item compensatory model of skills
   \item ignores difficulty of items
-  \item ignores biases in data
+  \item ignores biases in data (e.g., items solved in fixed order)
   \end{itemize}
 \end{frame}
 
 \begin{frame}
   \frametitle{Learning Curves}
 
-  TODO illustration simple
+  \begin{center}
+    \includegraphics[width=.8\linewidth]{learn-curve-simple}
+  \end{center}
 \end{frame}
 
 \begin{frame}
@@ -127,6 +137,22 @@
 \end{frame}
 
 \begin{frame}
+  \frametitle{Simulation}
+
+  \begin{itemize}
+  \item 2 concepts
+    \begin{itemize}
+    \item concept 1: easy
+    \item concept 2: difficult
+    \end{itemize}
+  \item 15 items 
+  \item items 1-5: concept 1
+  \item items 5-15: concept 1 \& 2
+  \item ordering: random, fixed 
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
   \frametitle{Learning Curves}
 
   \includegraphics[width=\linewidth]{learning-curves-simulated-true-model}
@@ -137,9 +163,46 @@
   \frametitle{Case Study: Programming}
 
   \begin{itemize}
-  \item RoboMission...
+  \item block-based programming
+  \item 85000 attempts, 5800 students, 85 items
   \end{itemize}
 
+  \begin{center}
+    \includegraphics[width=.4\linewidth]{robomise}
+  \end{center}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Q-matricies}
+
+  \begin{center}
+  \begin{tabular}{p{0.08\linewidth}p{0.82\linewidth}}
+    \toprule
+    Name & Concepts\\
+    \midrule
+    Q1 & \emph{teleports}, \emph{collectables}, \emph{obstacles},
+    \emph{destructibles}, \emph{program length limit}, sequences, while,
+    repeat, loop, nested-loops, if, else, test, nested control structures,
+    comparison\\
+    Q2 & \emph{teleports}, \emph{collectables}, \emph{obstacles},
+    \emph{destructibles}, sequences, while, repeat, nested loops, if, else\\
+    Q3 & sequences, while, repeat, nested loops, if, else\\
+    Q4 & sequences, loop, nested loops, test\\
+    \bottomrule
+  \end{tabular}    
+  \end{center}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Models}
+
+  \begin{itemize}
+  \item baselines: global average, item average
+  \item AFM-BG: AFM without $\alpha$ parameter (student skill)
+  \item AFM-ABG: full AFM 
+  \item AFM-BGT: AFM-BG model with item difficulties
+  \end{itemize}
 \end{frame}
 
 \begin{frame}
