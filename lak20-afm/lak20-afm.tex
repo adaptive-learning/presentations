@@ -26,7 +26,21 @@
 \frame{\titlepage}
 
 \begin{frame}
-  \frametitle{Student modeling}
+  \frametitle{Overview}
+
+  \begin{itemize}
+  \item AFM -- widely used student model
+  \item exploration of:
+    \begin{itemize}
+    \item simplifying assumptions
+    \item robustness, generalizability (case study)
+    \end{itemize}
+  \item message: more caution needed
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Student Modeling}
 
   \begin{center}
     \includegraphics[width=\linewidth]{learner-modeling-context.pdf}
@@ -41,9 +55,13 @@
 \begin{frame}
   \frametitle{Additive Factors Model}
 
+  \begin{center}
+    \includegraphics[width=.4\linewidth]{afm-illustration}
+  \end{center}
+
   \begin{itemize}
   \item family of ``logistic models''
-  \item Q-matrix
+  \item multiple skills, Q-matrix
   \item used in many studies in last 10 years -- see paper for overview
   \end{itemize}
 \end{frame}
@@ -97,7 +115,7 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{AFM: Simplifing Assumptions}
+  \frametitle{AFM: Simplifying Assumptions}
 
   \begin{itemize}
   \item learning is linear (on the logit scale)
@@ -140,15 +158,15 @@
   \frametitle{Simulation}
 
   \begin{itemize}
-  \item 2 concepts
+  \item 2 skills
     \begin{itemize}
-    \item concept 1: easy
-    \item concept 2: difficult
+    \item skill 1: easy
+    \item skill 2: difficult
     \end{itemize}
   \item 15 items 
-  \item items 1-5: concept 1
-  \item items 5-15: concept 1 \& 2
-  \item ordering: random, fixed 
+  \item items 1-5: skill 1
+  \item items 5-15: skill 1 \& 2
+  \item ordering: random, fixed+skip 
   \end{itemize}
 \end{frame}
 
@@ -160,17 +178,50 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{Case Study: Programming}
+  \frametitle{Typical AFM Application}
 
   \begin{itemize}
-  \item block-based programming
-  \item 85000 attempts, 5800 students, 85 items
+  \item take the data
+  \item fit AFM model with various Q-matricies
+  \item take the Q-matrix with best fit
+  \item analyze (one type of) learning curves
   \end{itemize}
+\end{frame}
 
+\begin{frame}
+  \frametitle{Case Study: Programming}
+
+  \begin{columns}
+    \begin{column}{0.5\linewidth}
+  \begin{itemize}
+  \item block-based programming
+  \item 85000 attempts
+  \item 5800 students
+  \item 85 items
+  \end{itemize}      
+    \end{column}
+    \begin{column}{0.5\linewidth}
   \begin{center}
-    \includegraphics[width=.4\linewidth]{robomise}
-  \end{center}
+    \includegraphics[width=\linewidth]{robomise}
+  \end{center}      
+    \end{column}
+  \end{columns}
 
+  \bigskip
+  open source, data available:\\
+  \url{en.robomise.cz} \\
+  T. Effenberger. Blockly Programming Dataset. CSEDM 2019
+\end{frame}
+
+\begin{frame}
+  \frametitle{Questions: Generalizability and Robustness}
+
+  \begin{itemize}
+  \item Does the model (AFM) fit well data in this domain?
+  \item Can we use the model to select good Q-matrix?
+  \item Do the learning curves provide useful insight?
+  \item How robust are the result with respect to methodological choices?
+  \end{itemize}
 \end{frame}
 
 \begin{frame}
@@ -179,7 +230,7 @@
   \begin{center}
   \begin{tabular}{p{0.08\linewidth}p{0.82\linewidth}}
     \toprule
-    Name & Concepts\\
+    Name & Skills\\
     \midrule
     Q1 & \emph{teleports}, \emph{collectables}, \emph{obstacles},
     \emph{destructibles}, \emph{program length limit}, sequences, while,
@@ -206,6 +257,22 @@
 \end{frame}
 
 \begin{frame}
+  \frametitle{Results: Effect of Data Filtering}
+
+  \begin{center}
+    \includegraphics[width=\linewidth]{student-filtering-effect}
+  \end{center}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Results: Cross-validation Setting}
+
+  \begin{center}
+    \includegraphics[width=\linewidth]{cv-effect}
+  \end{center}
+\end{frame}
+
+\begin{frame}
   \frametitle{Results: Model Comparison}
 
   \begin{center}
@@ -227,15 +294,25 @@
   \begin{itemize}
   \item studies using AFM: more caution necessary
   \item AFM has many simplifying assumptions, not satisfied in practice
-  \item possibly misleading conclusions
+  \item out-of-the-box application $\Rightarrow$ possibly misleading
+    conclusions
   \item basic precaution: comparison with ``item average'' predictor
   \end{itemize}
 
 \end{frame}
 
-% \begin{frame}
-%   \frametitle{}
-% \end{frame}
+\begin{frame}
+  \frametitle{Questions}
+
+  \begin{center}
+    \includegraphics[width=.5\linewidth]{al-logo}
+  \end{center}
+
+  Contact:\\
+  Radek Pel\'anek\\
+  \texttt{xpelanek@fi.muni.cz}\\
+  \texttt{https://www.fi.muni.cz/adaptivelearning/}
+\end{frame}
 
 
 \end{document}
