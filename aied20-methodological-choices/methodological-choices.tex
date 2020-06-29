@@ -1,0 +1,91 @@
+\documentclass[bigger]{beamer}
+
+\usepackage{booktabs}
+
+\usetheme{metropolis}
+\metroset{block=fill}
+\setbeamercolor{background canvas}{bg=white}
+
+\title{Impact of Methodological Choices\\on the Evaluation of Student Models}
+
+\author{\textbf{Tom\'a\v{s} Effenberger}, Radek Pel\'anek\\[4mm]
+%Masaryk University Brno\\
+%Czech Republic
+\includegraphics[width=.35\linewidth]{figures/al-logo}\\[4mm]
+}
+
+\newcommand{\img}[2]{
+  \begin{center}
+    \includegraphics[width=#1\linewidth]{figures/#2}
+  \end{center}
+}
+
+\newcommand{\mute}[1]{
+  {\color{gray}{#1}}
+}
+
+
+\date{AIED 2020}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+  \frametitle{Context}
+  Evaluation of student models, methodological choices:
+  \begin{itemize}
+    \item choice of performance metric
+    \item averaging across students or items
+    \item normalization, ranking
+    \item filtering of students
+    \item filtering of items
+    \item removing outliers % (e.g., extreme response times)
+    \item cross-validation scheme  % e.g.
+  \end{itemize}
+
+  Often not reported but can impact the results.
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{RMSE -- absolute, relative, rank}
+  \img{1.0}{RMSE-abs-rel-rank}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{RMSE vs MAE}
+  \img{1.0}{RMSE-vs-MAE}
+\end{frame}
+
+\begin{frame}
+  \frametitle{RMSE averaging}
+  \img{1.0}{RMSE-averaging--Robot}
+\end{frame}
+
+\begin{frame}
+  \frametitle{RMSE decomposition}
+  \img{1.0}{RMSE-rank-per-level--Robot}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Filtering}
+  \img{1.0}{students-min-attempts--Robot}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Cross-validation}
+  \img{1.0}{cv--turtle}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Message}
+  \begin{itemize}
+    \item TODO
+  \end{itemize}
+\end{frame}
+
+\end{document}
