@@ -33,18 +33,67 @@
 
 \begin{frame}
   \frametitle{Context}
-  Evaluation of student models, methodological choices:
+  Comparison of student models:
   \begin{itemize}
-    \item choice of performance metric
-    \item averaging across students or items
-    \item normalization, ranking
-    \item filtering of students
-    \item filtering of items
-    \item removing outliers % (e.g., extreme response times)
-    \item cross-validation scheme  % e.g.
+  \item model selection for real-life systems
+  \item evaluating new techniques, research priorities
   \end{itemize}
 
-  Often not reported but can impact the results.
+  \pause
+
+  Methodological choices:
+  \begin{itemize}
+  \item performance metric
+  \item filtering, handling outliers
+  \item cross-validation setting
+  \end{itemize}
+
+  \pause
+
+  \textbf{Often not reported but can impact the results.}
+  % -> issues: possibility of fishing when presenting a new technique; missing
+  %  potentially interesting results due to arbitrary methodological choice;
+  %  misleading comparision between papers due to undocumented details
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Meta-experiment}  % / Setting
+
+  Experimental setting:
+  \begin{itemize}
+    \item predicting problem-solving times
+    \item introductory programming problems
+    \item 6 student models\\
+    {\footnotesize (Item avg, Student-item avg, t-IRT, t-AFM, Elo, Random forest)}
+    \item evaluation: predictive accuracy of the models % (e.g., RMSE)
+  \end{itemize}
+
+  \pause
+
+  Meta-experiment:
+  \begin{itemize}
+    \item 4 exercises (Arrows, Robot, Turtle, Python)  % some first three block-based
+    % \item each exercise: 70--100 problems, $\leq$ 25 lines of code
+    \item explore: impact of methodological choices on the results % of the experiment
+  \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Methodological choices}
+  \begin{itemize}
+    \item choice of performance metric (RMSE, MAE)
+    \item metric averaging across students or items
+    \item metric normalization and ranking
+    \item filtering of students and items
+    \item handling outliers (extreme response times) % (removing or capping)
+    \item cross-validation scheme  % e.g. student-level, time-aware
+  \end{itemize}
+
+  % Often not reported but can impact the results.
 
 \end{frame}
 
@@ -52,40 +101,85 @@
 \begin{frame}
   \frametitle{RMSE -- absolute, relative, rank}
   \img{1.0}{RMSE-abs-rel-rank}
+
+  % - default: RMSE mean + std (10-fold CV) -> "performance not very different" (large overlap)
+  % - but: variability across folds not variability of models predictive ability
+  % -> normalization or ranking can reduce the variablity
+  % -> different pricture about the consistency of performance (eg. t-AFM)
 \end{frame}
 
 
 \begin{frame}
   \frametitle{RMSE vs MAE}
   \img{1.0}{RMSE-vs-MAE}
+
+  % - mostly stable results
+  % - exception: SI-Avg and t-IRT (red and orange)
 \end{frame}
 
 \begin{frame}
   \frametitle{RMSE averaging}
   \img{1.0}{RMSE-averaging--Robot}
+
+  % - the impact of aggregation / averaging is, on the other hand, pronounced
+  % - why: skewed distribution of attempts
+  % - Robot exercise: absolute values totally different, even some changes in the ordering
 \end{frame}
 
 \begin{frame}
   \frametitle{RMSE decomposition}
   \img{1.0}{RMSE-rank-per-level--Robot}
+
+  % - disaggregation of RMSE can provide better insight
+  % - ex: RF good in initial levels (most data), poor in advanced levels (less data)
+  %       -> global averaging favors this model
 \end{frame}
 
 \begin{frame}
-  \frametitle{Filtering}
+  \frametitle{Filtering students}
   \img{1.0}{students-min-attempts--Robot}
+
+  % - why: to reduce noise (e.g., taking a break during problem solving)
+  % - what: students/items with small activity
+  % - can have high impact on the absolute RMSE, but usually negligible impact on the ordering
+  % - similar observations for handling outliers
+    % The differences in (absolute) metric values are typically larger among different
+    % evaluation settings than among different models.
 \end{frame}
 
 \begin{frame}
   \frametitle{Cross-validation}
   \img{1.0}{cv--turtle}
+
+  % - CV strategy can impact the results: tima-aware CV favors online models
+  % (why: temporal patterns: performance of consecutive students is correlated)
 \end{frame}
 
 
 \begin{frame}
   \frametitle{Message}
+
+
   \begin{itemize}
-    \item TODO
+  \item comparison of student models: many methodological choices, often not
+        reported, but impact the results
+  \item deserves more attention:
+    \begin{itemize}
+    \item clear description of the choices in research papers
+    \item better understanding which choices are critical
+    \end{itemize}
+  \item in our context:
+    \begin{itemize}
+    \item differences in metric values larger among different evaluation settings
+          than among different models
+          % -> dangerous to compare metric values to results reported in other papers
+    % For model ordering:
+    \item large impact: averaging, ranking, CV scheme
+     % reporting - per-fold ranking
+    \item small impact: student/items filtering, handling outliers
+    \end{itemize}
   \end{itemize}
+
 \end{frame}
 
 \end{document}
