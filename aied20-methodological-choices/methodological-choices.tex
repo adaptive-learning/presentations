@@ -1,6 +1,33 @@
 \documentclass[bigger]{beamer}
 
 \usepackage{booktabs}
+\usepackage{ulem}
+
+\usepackage{tikz}
+\usetikzlibrary{arrows,positioning}
+\tikzset{
+    %Define standard arrow tip
+    >=stealth',
+    %Define style for boxes
+    punkt/.style={
+           rectangle,
+           rounded corners,
+           draw=black, very thick,
+           text width=6.5em,
+           minimum height=2em,
+           text centered},
+    % Define arrow style
+    fwd/.style={
+           ->,
+           thick,
+           shorten <=2pt,
+           shorten >=2pt,},
+    back/.style={
+           <-,
+           thick,
+           shorten <=2pt,
+           shorten >=2pt,}
+}
 
 \usetheme{metropolis}
 \metroset{block=fill}
@@ -33,35 +60,69 @@
 
 \begin{frame}
   \frametitle{Context}
-  Comparison of student models:
+
+  Comparing student models:
   \begin{itemize}
-  \item model selection for real-life systems
-  \item evaluating new techniques, research priorities
+    \item \textit{research:} evaluating new techniques %, research priorities
+    \item \textit{practice:} model selection for real-life systems
   \end{itemize}
-
-  \pause
-
-  Methodological choices:
-  \begin{itemize}
-  \item performance metric
-  \item filtering, handling outliers
-  \item cross-validation setting
-  \end{itemize}
-
-  \pause
-
-  \textbf{Often not reported but can impact the results.}
-  % -> issues: possibility of fishing when presenting a new technique; missing
-  %  potentially interesting results due to arbitrary methodological choice;
-  %  misleading comparision between papers due to undocumented details
 
 \end{frame}
 
 
 \begin{frame}
-  \frametitle{Meta-experiment}  % / Setting
+  \frametitle{Comparing student models}  % context
+  % How it is typically done:
+  \begin{center}
+  \begin{tikzpicture}[node distance=1cm, auto,]
+  \node[punkt] (results) {evaluation};
+  \node[below=of results] (interpretation) {best model: {\only<1>{A}}{\only<2>{B}}{\only<3>{C}}{\only<4->{D}}}
+    edge[back] (results.south);
+  \node[above=of results] (dummy) {};
+  \node[right=of dummy] {dataset}
+    edge[fwd] (results);
+  \node[left=of dummy] {models}
+    edge[fwd] (results);
 
-  Experimental setting:
+  \pause
+  \node[left=of results,yshift=6mm] {\alert{metric}}
+    edge[fwd, color=mLightBrown] (results);
+  \pause
+  \node[left=of results,yshift=-6mm] {\alert{cross-validation}}
+    edge[fwd, color=mLightBrown] (results);
+  \pause
+  \node[right=of results,yshift=6mm] {\alert{filtering students}}
+    edge[fwd, color=mLightBrown] (results);
+  \node[right=of results,yshift=-6mm] {\alert{handling outliers}}
+    edge[fwd, color=mLightBrown] (results);
+  \end{tikzpicture}
+  \end{center}
+
+  \visible<5->{
+    Comparison of student models: many \alert{methodological choices};
+    often not reported, but can impact the results.}
+
+  % -> issues: possibility of fishing when presenting a new technique; missing
+  %  potentially interesting results due to arbitrary methodological choice;
+  %  misleading comparision between papers due to undocumented details
+\end{frame}
+
+\begin{frame}
+  \frametitle{Questions}
+
+  \begin{itemize}
+    \item What are all the methodological choices involved?
+    \item Which of them can impact the results?
+  \end{itemize}
+
+\end{frame}
+
+
+
+\begin{frame}
+  \frametitle{Method} % / Setting / Experiment and meta-experiment
+
+  Experiment:  % "experimental setting"
   \begin{itemize}
     \item predicting problem-solving times
     \item introductory programming problems
@@ -72,12 +133,32 @@
 
   \pause
 
-  Meta-experiment:
+  Meta-experiment:  % explore:
   \begin{itemize}
-    \item explore: impact of methodological choices on the results % of the experiment
-    \item trends across exercises (Arrows, Robot, Turtle, Python)  % some first three block-based
-    % \item each exercise: 70--100 problems, $\leq$ 25 lines of code
+    \item impact of methodological choices on the results % of the experiment
+    \item trends across four programming exercises
   \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Data}
+
+  Four programming exercises:
+  \img{1.0}{exercises}
+
+  Each exercise: 70--100 problems
+
+  Solutions: $\leq$ 25 lines of code ($\leq$ 3 minutes)
+
+  Successful attempts: 430\,000 % (solved problems)
+
+  %\begin{itemize}
+  %  \item each exercise: 70--100 problems
+  %  \item solutions $\leq$ 25 lines of code ($\leq$ 3 minutes)
+  %  \item 430\,000 successful attempts
+  %\end{itemize}
 
 \end{frame}
 
@@ -99,27 +180,38 @@
 
 
 \begin{frame}
-  \frametitle{RMSE -- absolute, relative, rank}
-  \img{1.0}{RMSE-abs-rel-rank}
-
+  \frametitle{Normalization and ranking}
+  \img{1.0}{RMSE-abs-rel-rank-partial}
+  interpretation: similar performance
   % - default: RMSE mean + std (10-fold CV) -> "performance not very different" (large overlap)
   % - but: variability across folds not variability of models predictive ability
-  % -> normalization or ranking can reduce the variablity
-  % -> different pricture about the consistency of performance (eg. t-AFM)
 \end{frame}
 
 
 \begin{frame}
-  \frametitle{RMSE vs MAE}
-  \img{1.0}{RMSE-vs-MAE}
+  \frametitle{Normalization and ranking}
+  \img{1.0}{RMSE-abs-rel-rank}
+  interpretation: \sout{similar performance} \: \textcolor{violet}{t-AFM} consistently best
 
-  % - mostly stable results
-  % - exception: SI-Avg and t-IRT (red and orange)
+  % -> normalization or ranking can reduce the variablity
+  % -> different pricture about the consistency of performance (eg. t-AFM)
+
 \end{frame}
+
+
+%% Omitted
+%\begin{frame}
+%  \frametitle{RMSE vs MAE}
+%  \img{1.0}{RMSE-vs-MAE}
+%
+%  % - mostly stable results
+%  % - exception: SI-Avg and t-IRT (red and orange)
+%\end{frame}
 
 \begin{frame}
   \frametitle{RMSE averaging}
-  \img{1.0}{RMSE-averaging--Robot}
+
+  \img{0.8}{RMSE-averaging--Robot}
 
   % - the impact of aggregation / averaging is, on the other hand, pronounced
   % - why: skewed distribution of attempts
@@ -155,29 +247,34 @@
   % (why: temporal patterns: performance of consecutive students is correlated)
 \end{frame}
 
+\begin{frame}
+  \frametitle{Summary of the Results}
+
+  In our context:
+  \begin{itemize}
+  \item differences in metric values larger among different evaluation settings
+        than among different models
+        % -> dangerous to compare metric values to results reported in other papers
+  % For model ordering:
+  \item large impact: averaging, ranking, CV scheme
+    % reporting - per-fold ranking
+  \item small impact: student/items filtering, handling outliers
+  \end{itemize}
+
+\end{frame}
+
 
 \begin{frame}
   \frametitle{Message}
 
+  Comparison of student models: many methodological choices; often not
+  reported, but impact the results.
 
+  \bigskip
+  Deserves more attention:
   \begin{itemize}
-  \item comparison of student models: many methodological choices, often not
-        reported, but impact the results
-  \item deserves more attention:
-    \begin{itemize}
-    \item clear description of the choices in research papers
-    \item better understanding which choices are critical
-    \end{itemize}
-  \item in our context:
-    \begin{itemize}
-    \item differences in metric values larger among different evaluation settings
-          than among different models
-          % -> dangerous to compare metric values to results reported in other papers
-    % For model ordering:
-    \item large impact: averaging, ranking, CV scheme
-     % reporting - per-fold ranking
-    \item small impact: student/items filtering, handling outliers
-    \end{itemize}
+  \item clear description of the choices in research papers
+  \item better understanding which choices are critical
   \end{itemize}
 
 \end{frame}
