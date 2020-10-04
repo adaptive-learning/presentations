@@ -1,0 +1,287 @@
+\documentclass[bigger]{beamer}
+
+\usepackage{booktabs}
+\usepackage{ulem}
+
+\usepackage{tikz}
+\usetikzlibrary{arrows,positioning}
+\tikzset{
+    %Define standard arrow tip
+    >=stealth',
+    %Define style for boxes
+    punkt/.style={
+           rectangle,
+           rounded corners,
+           draw=black, very thick,
+           text width=6.5em,
+           minimum height=2em,
+           text centered},
+    % Define arrow style
+    fwd/.style={
+           ->,
+           thick,
+           shorten <=2pt,
+           shorten >=2pt,},
+    back/.style={
+           <-,
+           thick,
+           shorten <=2pt,
+           shorten >=2pt,}
+}
+
+\usetheme{metropolis}
+\metroset{block=fill}
+\setbeamercolor{background canvas}{bg=white}
+
+\title{Impact of Methodological Choices\\on the Evaluation of Student Models}
+
+\author{Tom\'a\v{s} Effenberger, Radek Pel\'anek\\[4mm]
+%Masaryk University Brno\\
+%Czech Republic
+\includegraphics[width=.35\linewidth]{figures/al-logo}\\[4mm]
+}
+
+\newcommand{\img}[2]{
+  \begin{center}
+    \includegraphics[width=#1\linewidth]{figures/#2}
+  \end{center}
+}
+
+\newcommand{\mute}[1]{
+  {\color{gray}{#1}}
+}
+
+
+%\date{AIED 2020}
+\date{Topics in Machine Learning for Education (CS-702, EFPL)}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+  \frametitle{Context}
+
+  Comparing student models:
+  \begin{itemize}
+    \item \textit{research:} evaluating new techniques %, research priorities
+    \item \textit{practice:} model selection for real-life systems
+  \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Comparing student models}  % context
+  % How it is typically done:
+  \begin{center}
+  \begin{tikzpicture}[node distance=1cm, auto,]
+  \node[punkt] (results) {evaluation};
+  \node[below=of results] (interpretation) {best model: {\only<1>{A}}{\only<2>{B}}{\only<3>{C}}{\only<4->{D}}}
+    edge[back] (results.south);
+  \node[above=of results] (dummy) {};
+  \node[right=of dummy] {dataset}
+    edge[fwd] (results);
+  \node[left=of dummy] {models}
+    edge[fwd] (results);
+
+  \pause
+  \node[left=of results,yshift=6mm] {\alert{metric}}
+    edge[fwd, color=mLightBrown] (results);
+  \pause
+  \node[left=of results,yshift=-6mm] {\alert{cross-validation}}
+    edge[fwd, color=mLightBrown] (results);
+  \pause
+  \node[right=of results,yshift=6mm] {\alert{filtering students}}
+    edge[fwd, color=mLightBrown] (results);
+  \node[right=of results,yshift=-6mm] {\alert{handling outliers}}
+    edge[fwd, color=mLightBrown] (results);
+  \end{tikzpicture}
+  \end{center}
+
+  \visible<5->{
+    Comparison of student models: many \alert{methodological choices};
+    often not reported, but can impact the results.}
+
+  % -> issues: possibility of fishing when presenting a new technique; missing
+  %  potentially interesting results due to arbitrary methodological choice;
+  %  misleading comparision between papers due to undocumented details
+\end{frame}
+
+\begin{frame}
+  \frametitle{Questions}
+
+  \begin{itemize}
+    \item What are all the methodological choices involved?
+    \item Which of them can impact the results?
+  \end{itemize}
+
+\end{frame}
+
+
+
+\begin{frame}
+  \frametitle{Method} % / Setting / Experiment and meta-experiment
+
+  Experiment:  % "experimental setting"
+  \begin{itemize}
+    \item predicting problem-solving times
+    \item introductory programming problems
+    \item 6 student models\\
+    {\footnotesize (Item avg, Student-item avg, t-IRT, t-AFM, Elo, Random forest)}
+    \item evaluation: predictive accuracy of the models % (e.g., RMSE)
+  \end{itemize}
+
+  \pause
+
+  Meta-experiment:  % explore:
+  \begin{itemize}
+    \item impact of methodological choices on the results % of the experiment
+    \item trends across four programming exercises
+  \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Data}
+
+  Four programming exercises:
+  \img{1.0}{exercises}
+
+  Each exercise: 70--100 problems
+
+  Solutions: $\leq$ 25 lines of code ($\leq$ 3 minutes)
+
+  Successful attempts: 430\,000 % (solved problems)
+
+  %\begin{itemize}
+  %  \item each exercise: 70--100 problems
+  %  \item solutions $\leq$ 25 lines of code ($\leq$ 3 minutes)
+  %  \item 430\,000 successful attempts
+  %\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Methodological choices}
+  \begin{itemize}
+    \item choice of performance metric (RMSE, MAE)
+    \item metric averaging across students or items
+    \item metric normalization and ranking
+    \item filtering of students and items
+    \item handling outliers (extreme response times) % (removing or capping)
+    \item cross-validation scheme  % e.g. student-level, time-aware
+  \end{itemize}
+
+  % Often not reported but can impact the results.
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Normalization and ranking}
+  \img{1.0}{RMSE-abs-rel-rank-partial}
+  interpretation: similar performance
+  % - default: RMSE mean + std (10-fold CV) -> "performance not very different" (large overlap)
+  % - but: variability across folds not variability of models predictive ability
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Normalization and ranking}
+  \img{1.0}{RMSE-abs-rel-rank}
+  interpretation: \sout{similar performance} \: \textcolor{violet}{t-AFM} consistently best
+
+  % -> normalization or ranking can reduce the variablity
+  % -> different pricture about the consistency of performance (eg. t-AFM)
+
+\end{frame}
+
+
+%% Omitted
+%\begin{frame}
+%  \frametitle{RMSE vs MAE}
+%  \img{1.0}{RMSE-vs-MAE}
+%
+%  % - mostly stable results
+%  % - exception: SI-Avg and t-IRT (red and orange)
+%\end{frame}
+
+\begin{frame}
+  \frametitle{RMSE averaging}
+
+  \img{0.8}{RMSE-averaging--Robot}
+
+  % - the impact of aggregation / averaging is, on the other hand, pronounced
+  % - why: skewed distribution of attempts
+  % - Robot exercise: absolute values totally different, even some changes in the ordering
+\end{frame}
+
+\begin{frame}
+  \frametitle{RMSE decomposition}
+  \img{1.0}{RMSE-rank-per-level--Robot}
+
+  % - disaggregation of RMSE can provide better insight
+  % - ex: RF good in initial levels (most data), poor in advanced levels (less data)
+  %       -> global averaging favors this model
+\end{frame}
+
+\begin{frame}
+  \frametitle{Filtering students}
+  \img{1.0}{students-min-attempts--Robot}
+
+  % - why: to reduce noise (e.g., taking a break during problem solving)
+  % - what: students/items with small activity
+  % - can have high impact on the absolute RMSE, but usually negligible impact on the ordering
+  % - similar observations for handling outliers
+    % The differences in (absolute) metric values are typically larger among different
+    % evaluation settings than among different models.
+\end{frame}
+
+\begin{frame}
+  \frametitle{Cross-validation}
+  \img{1.0}{cv--turtle}
+
+  % - CV strategy can impact the results: tima-aware CV favors online models
+  % (why: temporal patterns: performance of consecutive students is correlated)
+\end{frame}
+
+\begin{frame}
+  \frametitle{Summary of the Results}
+
+  In our context:
+  \begin{itemize}
+  \item differences in metric values larger among different evaluation settings
+        than among different models
+        % -> dangerous to compare metric values to results reported in other papers
+  % For model ordering:
+  \item large impact: ranking, averaging, CV scheme
+    % reporting - per-fold ranking
+  \item small impact: student/items filtering, handling outliers
+  \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Message}
+
+  Comparison of student models: many methodological choices; often not
+  reported, but impact the results.
+
+  \bigskip
+  Deserves more attention:
+  \begin{itemize}
+  \item clear description of the choices in research papers
+  \item better understanding which choices are critical
+  \end{itemize}
+
+\end{frame}
+
+%\begin{frame}[standout]
+%Discussion
+%\end{frame}
+
+\end{document}
