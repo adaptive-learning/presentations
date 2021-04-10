@@ -34,20 +34,27 @@
 
 
 \begin{frame}
-  \frametitle{Overview}
-
-  Context:\\student models for problem-solving activities
-  \bigskip
-  \pause
-
-  Evaluation:\\
-  next answer correctness: prevalent $\times$ insufficient
-  \bigskip
-  \pause
-
-  Construction:\\
-  answer correctness: prevalent $\times$ insufficient
+\frametitle{In a nutshell}
+% 2 issues that limits the progress in learning analytics
+\begin{enumerate}
+\item Next answer correctness is insufficient to\\validate student models.
+\bigskip
+\item Answer correctness is insufficient to model\\students in problem-solving activities.
+\end{enumerate}
 \end{frame}
+
+%\begin{frame}
+%  \frametitle{Overview}
+%  Context:\\student models for problem-solving activities
+%  \bigskip
+%  \pause
+%  Evaluation:\\
+%  next answer correctness: prevalent but insufficient
+%  \bigskip
+%  \pause
+%  Construction:\\
+%  answer correctness: prevalent but insufficient
+%\end{frame}
 
 
 \begin{frame}
@@ -67,15 +74,32 @@
   \end{enumerate}
 \end{frame}
 
+\begin{frame}
+  \frametitle{Student model using binary correctness}
+  \vspace{-1cm}  % hack
+  \hspace*{-0.9cm}
+  \includegraphics[width=1.15\linewidth]{figures/pipeline-binary}
+\end{frame}
+
 
 \begin{frame}
   \frametitle{Student model with performance measure}
+  \vspace{2cm}
   \hspace*{-0.9cm}
   \includegraphics[width=1.15\linewidth]{figures/pipeline}
+
+  \vspace{2cm}
+  \mute{\scriptsize
+  Pelánek \& Effenberger (2020). Beyond binary correctness: Classification of
+  students' answers in learning systems.  \emph{User Modeling and User-Adapted
+  Interaction}.
+  \par  % needed for correct line spacing
+  }
 \end{frame}
 
 \begin{frame}
   \frametitle{Typical evaluation}
+  %\frametitle{Are the extended models better?}
   \includegraphics[height=3.5cm]{figures/next-answer-correctness}
 
   %\bigskip
@@ -135,22 +159,28 @@
 
 \begin{frame}
   \frametitle{Reliability}
-  \begin{itemize}
-    \item reliability $\sim$ consistency of the measurements
-  \end{itemize}
-  TODO: reliability vs validity visualization? (targets)
+  %\begin{itemize}
+  %  \item reliability $\sim$ consistency of the measurements
+  %\end{itemize}
+  \begin{center}
+  reliability $\sim$ consistency of the measurements
+  \end{center}
+  \medskip
+  \img{0.7}{targets}
 \end{frame}
 
 
 \begin{frame}
-  \frametitle{Split-half reliability of difficulties}
+  \frametitle{How reliable are difficulty estimates?}
+  %\frametitle{Split-half reliability of difficulties}
   \bigskip
   \img{0.9}{reliability-difficulties}
 \end{frame}
 
 
 \begin{frame}
-  \frametitle{Odd-even reliability of skills}
+  \frametitle{How reliable are skill estimates?}
+  %\frametitle{Odd-even reliability of skills}
   \bigskip
   \img{0.9}{reliability-skills}
 \end{frame}
@@ -159,9 +189,11 @@
 \begin{frame}
 \frametitle{Message}
 \begin{enumerate}
-\item Next answer correctness is insufficient to validate student models.
-\item Answer correctness is insufficient to model students in problem-solving activities.
+\item Next answer correctness is insufficient to\\validate student models.
+\bigskip
+\item Answer correctness is insufficient to model\\students in problem-solving activities.
 \end{enumerate}
 \end{frame}
+
 
 \end{document}
