@@ -1,0 +1,218 @@
+\documentclass[bigger]{beamer}
+
+\usepackage{booktabs}
+\usetheme{metropolis}
+\metroset{block=fill}
+\setbeamercolor{background canvas}{bg=white}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+
+\title{Validity and Reliability of Student Models for Problem-Solving Activities}
+
+\author{Tom\'a\v{s} Effenberger, Radek Pel\'anek\\[5mm]
+%Masaryk University Brno\\
+%Czech Republic
+\includegraphics[width=.35\linewidth]{figures/al-logo}\\[3mm]
+}
+
+\newcommand{\img}[2]{
+  \begin{center}
+    \includegraphics[width=#1\linewidth]{figures/#2}
+  \end{center}
+}
+
+\newcommand{\mute}[1]{
+  {\color{gray}{#1}}
+}
+
+
+\date{LAK 2021}
+
+\begin{document}
+
+\frame{\titlepage}
+
+
+\begin{frame}
+\frametitle{Predikce výkonu}
+  \only<1>{\img{0.9}{matrix-data-1}}
+  \only<2>{\img{0.9}{matrix-data-2}}
+  \only<3>{\img{0.9}{matrix-data-3}}
+  \only<4>{\img{0.9}{matrix-data-4}}
+  \only<5>{\img{0.9}{matrix-data-5}}
+  \only<6>{\img{0.9}{matrix-data-6}}
+  \only<7>{\img{0.9}{matrix-data-7}}
+  \only<8>{\img{0.9}{matrix-data-8}}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Scenario}
+  learning system for introductory programming\\
+  several exercises (each with dozens of problems):
+  \img{1.0}{exercises}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{What we need a student model for?}
+  \begin{enumerate}
+    \item order problems
+    \item order students
+    \item performance predictions
+  \end{enumerate}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Student model using binary correctness}
+  \vspace{-1cm}  % hack
+  \hspace*{-0.9cm}
+  \includegraphics[width=1.15\linewidth]{figures/pipeline-binary}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Student model with performance measure}
+  \vspace{2cm}
+  \hspace*{-0.9cm}
+  \includegraphics[width=1.15\linewidth]{figures/pipeline}
+
+  \vspace{2cm}
+  \mute{\scriptsize
+  %\emph{Want details on answer-classification interface?}
+  \emph{How to design a performance measure?}
+  see Beyond binary correctness: Classification of
+  students' answers in learning systems (Pelánek \& Effenberger, 2020)
+  \par  % needed for correct line spacing
+  }
+\end{frame}
+
+\begin{frame}
+  \frametitle{Typical evaluation}
+  %\frametitle{Are the extended models better?}
+  \bigskip
+  \includegraphics[height=3.5cm]{figures/next-answer-correctness}
+
+  \bigskip
+  How would you interpret the results?
+
+  \vspace{1cm}
+  \mute{\scriptsize
+    \emph{Why not just RMSE?} see
+    Impact of Methodological Choices on the Evaluation
+    of Student Models (Effenberger \& Pelánek, 2020)
+  \par  % needed for correct line spacing
+  }
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Less narrow picture}
+  \hspace*{-0.65cm}
+  \includegraphics[width=1.1\linewidth]{figures/predictive-validity}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{What do we really want?}
+  valid model $\sim$ useful for the intended purposes
+  \pause
+
+  \medskip
+  indirect evidence:
+  \vspace{-0.1cm}
+  \begin{itemize}
+    \item criterion validity
+    \begin{itemize}
+      \item convergent
+      \item predictive
+      \begin{itemize}
+        \item \alert{next answer correctness}
+        \item next answer response time
+        \item \ldots
+      \end{itemize}
+    \end{itemize}
+    \item content validity
+    %\item alignment with thought processes
+    \item reliability
+    \item \ldots
+  \end{itemize}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Convergent validity}
+  \bigskip
+  \img{0.5}{convergent-validity}
+  %skill estimate based on correctness -- low correlation with\\
+  %skill estimate based on time/quality
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Reliability}
+  \begin{center}
+  reliability $\sim$ consistency of the measurements
+  \end{center}
+  \medskip
+  \only<1>{\img{0.7}{targets-empty}}
+  \only<2>{\img{0.7}{targets}}
+\end{frame}
+
+\begin{frame}[standout]
+Kolik studentů je potřeba na stabilní pořadí úloh podle obtížnosti?
+\medskip
+\begin{enumerate}
+  \item A) 5
+  \item B) 50
+  \item C) 500
+  \item D) 5000
+\end{enumerate}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{How reliable are difficulty estimates?}
+  %\frametitle{Split-half reliability of difficulties}
+  \bigskip
+  \img{0.9}{reliability-difficulties}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{How reliable are skill estimates?}
+  %\frametitle{Odd-even reliability of skills}
+  \bigskip
+  \img{0.9}{reliability-skills}
+\end{frame}
+
+\begin{frame}[standout]
+What do you take away?
+\end{frame}
+
+\begin{frame}
+\frametitle{Message at LAK}
+\begin{enumerate}
+\item Next answer correctness is insufficient to\\validate student models.
+\bigskip
+\item Answer correctness is insufficient to model\\students in problem-solving activities.
+\end{enumerate}
+\end{frame}
+
+\begin{frame}
+\frametitle{Skutečné poselství}
+
+
+\begin{enumerate}
+\item Při vyhodnocování modelů mějte na paměti jejich účel a nenechte se
+zaslepit jedinou proxy metrikou. Nezapomeňte na srovnání s baseline modelem a
+na průzkum stability.
+\bigskip
+\item Při přípravě přednášek si stanovte poselství a zvažte jiné prostředky než
+jen mluvení, jak ho můžete nejlépe předat.
+\end{enumerate}
+\end{frame}
+
+
+\end{document}
